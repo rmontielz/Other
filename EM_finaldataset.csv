@@ -1,772 +1,772 @@
-﻿code,label,obesity_nq5,low_birth_wgt,male_exp,fem_exp,unemploy,deprivation,obesity_prevalence
-E05001767,Abbey,5 - Quintile 5 Lowest 20%,9.2,74.9,78.9,7.6,30.8,26.1
-E05001768,Allestree,2 - Quintile 2,4.8,83.8,88,1.6,5,18.3
-E05001769,Alvaston,3 - Quintile 3,8.6,75.7,80.5,6.4,34.2,26.3
-E05001770,Arboretum,4 - Quintile 4,10.1,72.6,77.2,13.3,50.8,20.5
-E05001771,Blagreaves,3 - Quintile 3,9,80.2,84.2,3.7,15.4,20
-E05001772,Boulton,3 - Quintile 3,7.4,76.9,81.1,5.6,31.2,26.1
-E05001773,Chaddesden,3 - Quintile 3,6.7,79.9,83.9,4.6,24,23.5
-E05001774,Chellaston,3 - Quintile 3,6.7,78.4,81.9,3.2,14.6,22.1
-E05001775,Darley,5 - Quintile 5 Lowest 20%,6.9,77.5,79.5,4.2,21.1,24.6
-E05001776,Derwent,3 - Quintile 3,7.8,77.3,79.3,6.2,38.1,24.5
-E05001777,Littleover,3 - Quintile 3,9.2,81.9,85.1,2.7,10.3,16.3
-E05001778,Mackworth,5 - Quintile 5 Lowest 20%,7,75.9,82.9,5.8,29.6,21.4
-E05001779,Mickleover,2 - Quintile 2,7.2,80.8,84.7,2.3,6.9,18.5
-E05001780,Normanton,4 - Quintile 4,11.6,74.8,79.1,12.8,42.8,21.2
-E05001781,Oakwood,3 - Quintile 3,6.6,81.9,85.8,2.7,11.1,23.5
-E05001782,Sinfin,4 - Quintile 4,9,77.9,80.1,8.2,43.8,28.3
-E05001783,Spondon,2 - Quintile 2,6.9,77.9,81.9,3.3,17.3,24.6
-E05003280,Alfreton,1 - Quintile 1 Highest 20%,5.2,76,80.1,4.9,29.3,19.6
-E05003281,Alport,1 - Quintile 1 Highest 20%,10,85.6,84.2,1.6,11.3,20
-E05003282,Belper Central,1 - Quintile 1 Highest 20%,7.1,79.9,82.1,3,13.6,15.8
-E05003283,Belper East,2 - Quintile 2,9.2,81.4,86.1,1.6,8.6,13
-E05003284,Belper North,1 - Quintile 1 Highest 20%,9.3,81.8,83.9,1.6,9.5,21.4
-E05003286,Codnor and Waingroves,1 - Quintile 1 Highest 20%,7.8,79.6,81.3,3.3,17.5,17.6
-E05003287,Crich,1 - Quintile 1 Highest 20%,7.3,80.8,85.8,2.1,11.6,16.7
-E05003289,Heage and Ambergate,1 - Quintile 1 Highest 20%,4.8,81.7,84.2,2.3,13.3,17.6
-E05003290,Heanor and Loscoe,1 - Quintile 1 Highest 20%,9,78.6,84.9,3.1,19.6,31.8
-E05003292,Heanor West,2 - Quintile 2,6,75.6,80.9,4,24.1,27.3
-E05003293,Ironville and Riddings,1 - Quintile 1 Highest 20%,6.5,79.9,84.8,4.8,25.3,23.3
-E05003295,Langley Mill and Aldercar,2 - Quintile 2,5.2,77.6,80,5,32.5,25
-E05003296,Ripley,1 - Quintile 1 Highest 20%,7.5,78.2,82.2,4.3,20.5,23.1
-E05003297,Ripley and Marehay,1 - Quintile 1 Highest 20%,4.6,78.4,81.1,3,21,22.7
-E05003299,Somercotes,2 - Quintile 2,7.2,77.2,81,5.7,32.7,23.7
-E05003300,South West Parishes,1 - Quintile 1 Highest 20%,8,85,84.4,1.9,11.2,17.6
-E05003301,Swanwick,1 - Quintile 1 Highest 20%,7.6,81.8,85.1,2.1,10.1,17.4
-E05003302,Wingfield,1 - Quintile 1 Highest 20%,6.1,80.3,82.3,2.4,15,30
-E05003323,Barrow Hill and New Whittington,1 - Quintile 1 Highest 20%,10.5,80.5,82.6,4,26.3,31
-E05003324,Brimington North,1 - Quintile 1 Highest 20%,10.3,79.6,84.8,4,27.2,25.8
-E05003325,Brimington South,1 - Quintile 1 Highest 20%,8.1,78.8,80.1,3,19.5,19.4
-E05003326,Brockwell,1 - Quintile 1 Highest 20%,5,79.4,84,3.9,13.7,21.6
-E05003327,Dunston,1 - Quintile 1 Highest 20%,7.9,77.3,81.9,6.1,32.7,30
-E05003328,Hasland,1 - Quintile 1 Highest 20%,6,79.2,82.2,3.3,17.4,20.6
-E05003329,Hollingwood and Inkersall,1 - Quintile 1 Highest 20%,7.1,78.4,81.6,2.9,22.9,25.5
-E05003330,Holmebrook,1 - Quintile 1 Highest 20%,9.1,77.6,80.6,5,30.3,25
-E05003331,Linacre,1 - Quintile 1 Highest 20%,2.7,81.7,89.5,1.8,10.6,15
-E05003332,Loundsley Green,1 - Quintile 1 Highest 20%,8.4,73.3,80.4,6.2,38.8,23.8
-E05003333,Lowgates and Woodthorpe,1 - Quintile 1 Highest 20%,5,76.7,80.3,4.5,37.6,29
-E05003334,Middlecroft and Poolsbrook,1 - Quintile 1 Highest 20%,4.1,74.7,77.9,6.1,43.2,23.1
-E05003335,Moor,1 - Quintile 1 Highest 20%,7.7,77,81.9,5.2,31.1,20.8
-E05003336,Old Whittington,1 - Quintile 1 Highest 20%,9,76.8,78.5,5.9,27.5,21.7
-E05003337,Rother,1 - Quintile 1 Highest 20%,9.5,75.1,82.4,7.7,44.7,20
-E05003338,St Helen's,1 - Quintile 1 Highest 20%,3.9,74.3,79.9,6.1,35.4,27.6
-E05003339,St Leonard's,1 - Quintile 1 Highest 20%,7.5,78,79.3,3.7,19.2,25.5
-E05003340,Walton,1 - Quintile 1 Highest 20%,8.7,81.4,86.2,1.9,6.5,14.3
-E05003341,West,1 - Quintile 1 Highest 20%,4.7,81.9,86,1.9,5.2,17.2
-E05003342,Ashbourne North,5 - Quintile 5 Lowest 20%,3.6,79.2,85.5,2.9,11.9,16.7
-E05003343,Ashbourne South,5 - Quintile 5 Lowest 20%,5.7,80.4,85,2.7,10.8,22.2
-E05003344,Bakewell,4 - Quintile 4,4.3,79.3,82.9,2,9.7,18.8
-E05003345,Bradwell,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.1,8.3,N/A - not available
-E05003346,Brailsford,4 - Quintile 4,6.6,N/A - not available,N/A - not available,1.9,9.5,N/A - not available
-E05003347,Calver,4 - Quintile 4,6.4,N/A - not available,N/A - not available,1.6,4.4,N/A - not available
-E05003348,Carsington Water,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.4,19.3,N/A - not available
-E05003349,Chatsworth,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.2,4.3,N/A - not available
-E05003350,Clifton and Bradley,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.6,12.6,N/A - not available
-E05003351,Darley Dale,4 - Quintile 4,4.4,80.7,85.6,2.1,10.7,21.4
-E05003352,Dovedale and Parwich,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.7,19.4,N/A - not available
-E05003353,Doveridge and Sudbury,4 - Quintile 4,8.2,84.2,88.6,2.5,13,N/A - not available
-E05003354,Hartington and Taddington,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.3,18.5,N/A - not available
-E05003355,Hathersage and Eyam,4 - Quintile 4,3,85.1,84.8,1.4,5.9,21.4
-E05003356,Hulland,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.5,9.5,N/A - not available
-E05003357,Lathkill and Bradford,4 - Quintile 4,6.1,N/A - not available,N/A - not available,1.7,14,N/A - not available
-E05003358,Litton and Longstone,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,2.4,7.7,N/A - not available
-E05003359,Masson,4 - Quintile 4,3,79.3,83,2.5,15.4,36.4
-E05003360,Matlock All Saints,4 - Quintile 4,6.3,80.7,89.1,2.7,10.6,20.7
-E05003361,Matlock St Giles,4 - Quintile 4,10.1,78.4,83.5,3.7,20.6,22.9
-E05003362,Norbury,4 - Quintile 4,10,N/A - not available,N/A - not available,1.1,17.3,N/A - not available
-E05003363,Stanton,4 - Quintile 4,6,N/A - not available,N/A - not available,1.8,11.1,N/A - not available
-E05003364,Tideswell,4 - Quintile 4,4.8,N/A - not available,N/A - not available,2.4,7.6,N/A - not available
-E05003365,Winster and South Darley,4 - Quintile 4,9.7,N/A - not available,N/A - not available,1.5,7.9,N/A - not available
-E05003366,Wirksworth,4 - Quintile 4,6.7,80.2,85,2.2,12.6,23.3
-E05005408,Blaby South,2 - Quintile 2,5.7,80.1,86.6,3,13.2,24.3
-E05005409,Cosby with South Whetstone,4 - Quintile 4,3.8,82.9,87.8,1.8,6.6,14
-E05005410,Countesthorpe,2 - Quintile 2,4.6,81.1,86.1,2.4,7,18.9
-E05005411,Croft Hill,5 - Quintile 5 Lowest 20%,N/A - not available,83.6,85.4,2.8,11.3,18.8
-E05005412,Ellis,4 - Quintile 4,4.4,81.5,86.7,2.6,9.7,20.6
-E05005413,Enderby and St John's,3 - Quintile 3,5.9,78.9,85.2,3.7,15.9,21.7
-E05005414,Fairestone,3 - Quintile 3,7.2,80.2,87.5,2.8,14.3,18.5
-E05005416,Millfield,3 - Quintile 3,N/A - not available,80.9,88.4,3.4,10.8,23.1
-E05005417,Muxloe,5 - Quintile 5 Lowest 20%,4.9,82.6,86.2,2,6.8,15
-E05005418,Narborough and Littlethorpe,5 - Quintile 5 Lowest 20%,3.7,79.6,86.2,2.7,7.6,20.6
-E05005419,Normanton,5 - Quintile 5 Lowest 20%,5.6,81.1,84.3,2.9,10.6,26.3
-E05005420,North Whetstone,5 - Quintile 5 Lowest 20%,5.4,80.1,84.2,2.1,11.3,20.6
-E05005421,Pastures,5 - Quintile 5 Lowest 20%,6.1,82.2,84.9,1.4,4.5,15.2
-E05005422,Ravenhurst and Fosse,5 - Quintile 5 Lowest 20%,5.4,81.4,84.8,4.4,16.8,23.9
-E05005423,Saxondale,5 - Quintile 5 Lowest 20%,4.4,80.3,84.3,2.6,12.5,22
-E05005424,Stanton and Flamville,5 - Quintile 5 Lowest 20%,5.5,81.7,82,3,9.5,21.7
-E05005426,Anstey,5 - Quintile 5 Lowest 20%,5.5,82.3,86.6,2.6,11.2,24.4
-E05005427,Barrow and Sileby West,5 - Quintile 5 Lowest 20%,3.3,82,84.8,3,8.4,20.5
-E05005428,Birstall Wanlip,5 - Quintile 5 Lowest 20%,7.5,83.6,85.7,2.6,7.1,21.4
-E05005429,Birstall Watermead,5 - Quintile 5 Lowest 20%,6.7,80.2,86.3,3.2,11.5,20
-E05005430,East Goscote,5 - Quintile 5 Lowest 20%,5,79.7,82.5,2.2,8.8,12.5
-E05005431,Forest Bradgate,5 - Quintile 5 Lowest 20%,7.4,85.1,86.7,1.2,8,21.4
-E05005432,Loughborough Ashby,5 - Quintile 5 Lowest 20%,6.2,76.7,84.6,1.7,16.2,36
-E05005433,Loughborough Dishley and Hathern,2 - Quintile 2,5.2,81.4,86.8,2.9,10.5,22.9
-E05005434,Loughborough Garendon,1 - Quintile 1 Highest 20%,5.8,79.6,81.7,2,10.6,17.4
-E05005435,Loughborough Hastings,1 - Quintile 1 Highest 20%,7.2,77.4,82.1,7.9,36.4,35.1
-E05005436,Loughborough Lemyngton,1 - Quintile 1 Highest 20%,6.6,74.5,78.9,4.9,24.7,24.4
-E05005437,Loughborough Nanpantan,2 - Quintile 2,5.8,82.3,87.7,0.8,3.1,21.7
-E05005438,Loughborough Outwoods,1 - Quintile 1 Highest 20%,N/A - not available,82.1,88.7,1.5,4.3,22.2
-E05005439,Loughborough Shelthorpe,1 - Quintile 1 Highest 20%,6.5,79.6,85,3.6,18.7,29.7
-E05005440,Loughborough Southfields,3 - Quintile 3,8.6,77.5,83.3,2,14,22.2
-E05005441,Loughborough Storer,3 - Quintile 3,8.1,74.2,79.9,2.6,21.5,27.3
-E05005442,Mountsorrel,3 - Quintile 3,6.2,80.2,84.2,2.7,11.7,24.4
-E05005443,Queniborough,2 - Quintile 2,6.9,80.7,87.6,2.5,9.9,19.2
-E05005444,Quorn and Mountsorrel Castle,1 - Quintile 1 Highest 20%,3.7,82.4,86.3,2.3,8.3,11.4
-E05005445,Rothley and Thurcaston,3 - Quintile 3,3.8,81.6,86.8,1.9,7.4,21.4
-E05005446,Shepshed East,2 - Quintile 2,4.7,78,80.1,3,14.9,26.3
-E05005447,Shepshed West,3 - Quintile 3,6.4,79.7,82.7,2.7,13.3,26.1
-E05005448,Sileby,2 - Quintile 2,5.3,80.3,86.2,2.8,13.5,25
-E05005449,Syston East,2 - Quintile 2,3.5,80.6,83.4,3,15.9,23.3
-E05005450,Syston West,3 - Quintile 3,8.7,78.9,80.9,3.2,13.1,27.6
-E05005451,The Wolds,3 - Quintile 3,4.7,84.9,85.2,1.4,5.5,10.5
-E05005452,Thurmaston,1 - Quintile 1 Highest 20%,6.9,79.1,81.4,3.7,16.3,18.8
-E05005453,Wreake Villages,1 - Quintile 1 Highest 20%,N/A - not available,81.6,85.1,1.4,6.1,15.4
-E05005479,Ambien,2 - Quintile 2,6,83.2,85.7,1.9,11.2,23.1
-E05005480,"Barlestone, Nailstone and Osbaston",2 - Quintile 2,5.6,80.8,89.3,3.1,10.3,12.5
-E05005481,Barwell,5 - Quintile 5 Lowest 20%,4.4,78.8,81.2,4.1,18.9,20
-E05005482,Burbage St Catherines and Lash Hill,4 - Quintile 4,9.2,80.5,83.8,4.2,19.1,25.8
-E05005483,Burbage Sketchley and Stretton,5 - Quintile 5 Lowest 20%,6.4,84.6,86.3,2.1,5.4,18.8
-E05005484,"Cadeby, Carlton and Market Bosworth with Shackerstone",4 - Quintile 4,4.7,79.9,85.2,2.6,7.2,15.8
-E05005485,Earl Shilton,5 - Quintile 5 Lowest 20%,6.7,80.3,83.2,4.5,18.5,17.9
-E05005486,Groby,4 - Quintile 4,3.9,82.7,90.8,2,6.1,17.9
-E05005487,Hinckley Castle,4 - Quintile 4,6.7,79,82.3,5.3,20.6,17.9
-E05005488,Hinckley Clarendon,4 - Quintile 4,5.8,80.9,83.9,3.5,14.5,15.4
-E05005489,Hinckley De Montfort,4 - Quintile 4,5.2,80.4,83.5,3.3,12.5,23.4
-E05005490,Hinckley Trinity,4 - Quintile 4,7.1,77.3,81.6,4,18.9,19.6
-E05005491,"Markfield, Stanton and Fieldhead",4 - Quintile 4,1.9,81.7,85.3,2.5,9,16.1
-E05005492,Newbold Verdon with Desford and Peckleton,4 - Quintile 4,6.2,80.6,82.7,2.4,11.2,17.3
-E05005493,"Ratby, Bagworth and Thornton",4 - Quintile 4,4.4,81.9,83,2.5,12.5,21.6
-E05005494,Twycross and Witherley with Sheepy,5 - Quintile 5 Lowest 20%,3.4,82.1,86.2,1.5,12.4,N/A - not available
-E05005495,Asfordby,5 - Quintile 5 Lowest 20%,7.7,83.1,83,3.7,12.3,28
-E05005496,Bottesford,5 - Quintile 5 Lowest 20%,6.8,81.8,87.1,1.6,5,18.8
-E05005497,Croxton Kerrial,5 - Quintile 5 Lowest 20%,8.9,N/A - not available,N/A - not available,2.8,21.3,N/A - not available
-E05005498,Frisby-on-the-Wreake,5 - Quintile 5 Lowest 20%,N/A - not available,N/A - not available,N/A - not available,1.2,10.9,N/A - not available
-E05005499,Gaddesby,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.4,13.3,N/A - not available
-E05005500,Long Clawson and Stathern,4 - Quintile 4,5.3,80.1,86.2,1.6,7.3,21.7
-E05005501,Melton Craven,3 - Quintile 3,3.4,84.4,82.5,4.8,15.9,21.1
-E05005502,Melton Dorian,2 - Quintile 2,5.4,78.9,84.1,3.1,11.8,22.2
-E05005503,Melton Egerton,2 - Quintile 2,4.8,76.9,81,5.6,19.4,23.3
-E05005504,Melton Newport,1 - Quintile 1 Highest 20%,6.7,83.4,85.7,2.9,9.2,24.2
-E05005505,Melton Sysonby,2 - Quintile 2,6.6,79.7,83.8,3.4,12.6,20
-E05005506,Melton Warwick,5 - Quintile 5 Lowest 20%,4.1,79.8,82.6,4.1,16,25
-E05005507,Old Dalby,3 - Quintile 3,6.2,N/A - not available,83.7,2,13.7,20
-E05005508,Somerby,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,2.3,12.4,N/A - not available
-E05005509,Waltham-on-the-Wolds,2 - Quintile 2,N/A - not available,N/A - not available,N/A - not available,2.5,9.7,N/A - not available
-E05005510,Wymondham,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,3.2,15.9,N/A - not available
-E05005531,Oadby Brocks Hill,3 - Quintile 3,5,79.8,84.6,2.8,6.6,14.8
-E05005532,Oadby Grange,3 - Quintile 3,10.5,83.1,85.6,1.7,6.1,15.4
-E05005533,Oadby St Peter's,3 - Quintile 3,7.9,77.9,86.7,3.9,17,18.5
-E05005534,Oadby Uplands,3 - Quintile 3,5.7,82.1,87.1,3.2,7.2,13.8
-E05005535,Oadby Woodlands,2 - Quintile 2,11.9,81.1,88.6,2.3,6.3,12.1
-E05005536,South Wigston,4 - Quintile 4,4.8,76.9,82.4,5.1,22.3,18.5
-E05005537,Wigston All Saints,4 - Quintile 4,3.6,78.3,81.8,3.9,15.4,21.2
-E05005538,Wigston Fields,3 - Quintile 3,6.5,78.1,83.4,4.4,21.5,16.3
-E05005539,Wigston Meadowcourt,3 - Quintile 3,3.7,85.3,93.3,3.1,9.9,16.7
-E05005540,Wigston St Wolstan's,4 - Quintile 4,4.9,78.3,82.5,3.3,11.4,15.6
-E05005618,Ashby de la Launde and Cranwell,3 - Quintile 3,4.6,81.9,85.1,1.5,10.7,17.6
-E05005619,Bassingham and Brant Broughton,3 - Quintile 3,6.6,79.8,84.8,2,12.3,20.8
-E05005620,"Billinghay, Martin and North Kyme",4 - Quintile 4,7.6,77.7,81.5,3.9,24,32.3
-E05005621,Bracebridge Heath and Waddington East,5 - Quintile 5 Lowest 20%,6.4,80.9,84.7,2.1,6.9,15.3
-E05005622,Branston,4 - Quintile 4,6.3,79.2,83.1,2.8,12.6,19.4
-E05005623,Cliff Villages,4 - Quintile 4,6.8,80.6,85.5,1.9,7.3,16
-E05005624,"Eagle, Swinderby and Witham St Hughs",4 - Quintile 4,4.3,80.7,85.4,2.1,9.6,26.3
-E05005625,Heckington Rural,4 - Quintile 4,4.1,81.3,84.5,3.3,13.3,27.3
-E05005626,Heighington and Washingborough,4 - Quintile 4,5.5,81.8,84.3,2.2,6.6,20.6
-E05005627,Kirkby la Thorpe and South Kyme,4 - Quintile 4,N/A - not available,78.3,79.9,3,11.9,30
-E05005628,Leasingham and Rauceby,3 - Quintile 3,N/A - not available,N/A - not available,85.7,1.7,7.8,N/A - not available
-E05005629,Metheringham,3 - Quintile 3,2.8,80.1,82.5,3.1,11.6,21.9
-E05005630,North Hykeham Forum,2 - Quintile 2,4.5,N/A - not available,87.2,2.7,7.2,N/A - not available
-E05005631,North Hykeham Memorial,3 - Quintile 3,3.8,78.6,84.4,3,9.6,20.8
-E05005632,North Hykeham Mill,4 - Quintile 4,4.2,80.5,83.5,2.6,10.6,23.1
-E05005633,North Hykeham Moor,1 - Quintile 1 Highest 20%,N/A - not available,83.8,87,2.7,10.4,N/A - not available
-E05005634,North Hykeham Witham,1 - Quintile 1 Highest 20%,N/A - not available,81.1,82.7,2.6,14.3,N/A - not available
-E05005635,Osbournby,1 - Quintile 1 Highest 20%,7.1,82.8,86,2.8,19.4,20
-E05005636,Ruskington,1 - Quintile 1 Highest 20%,9,80,84.9,3,13.3,25
-E05005637,Skellingthorpe,1 - Quintile 1 Highest 20%,5.3,80,81.3,2.3,7.1,26.3
-E05005638,Sleaford Castle,1 - Quintile 1 Highest 20%,9.5,80.4,86.5,3.9,17.3,27.3
-E05005639,Sleaford Holdingham,1 - Quintile 1 Highest 20%,6.2,78.2,84.9,3.9,15.3,28.1
-E05005640,Sleaford Navigation,1 - Quintile 1 Highest 20%,3.9,75.1,79.9,5.8,19.9,23.1
-E05005641,Sleaford Quarrington and Mareham,1 - Quintile 1 Highest 20%,5.1,84.7,84.9,2,6.3,18.9
-E05005642,Sleaford Westholme,1 - Quintile 1 Highest 20%,6.7,77.4,80.8,6.7,22,23.5
-E05005643,Waddington West,2 - Quintile 2,4.3,82.8,83.8,1.9,9,25
-E05005644,Crowland and Deeping St Nicholas,1 - Quintile 1 Highest 20%,7.3,82,82.6,3.4,16.7,22.9
-E05005645,"Donington, Quadring and Gosberton",2 - Quintile 2,8,78.2,81.8,3.5,16.6,25.6
-E05005646,Fleet,1 - Quintile 1 Highest 20%,4.8,75.1,79.4,4.3,22.5,N/A - not available
-E05005647,Gedney,1 - Quintile 1 Highest 20%,N/A - not available,80,83.2,4.8,29.9,36.4
-E05005648,Holbeach Hurn,1 - Quintile 1 Highest 20%,N/A - not available,80.2,81.7,3.9,27.6,27.3
-E05005649,Holbeach Town,2 - Quintile 2,6.1,79.4,82.8,4.9,18.1,24
-E05005650,Long Sutton,1 - Quintile 1 Highest 20%,7.2,78.1,83.6,4.6,20.6,29.5
-E05005651,"Moulton, Weston and Cowbit",1 - Quintile 1 Highest 20%,5.6,81.4,83.8,3.3,16.3,26.2
-E05005652,Pinchbeck and Surfleet,2 - Quintile 2,5.7,81.6,86.1,3.9,17.3,19.5
-E05005653,Spalding Castle,1 - Quintile 1 Highest 20%,4.2,82.1,86.1,4.9,14.8,27.3
-E05005654,Spalding Monks House,2 - Quintile 2,5,81.5,91.8,3.2,11.8,16.2
-E05005655,Spalding St John's,2 - Quintile 2,4.3,76.4,81.5,4.7,13.5,22.5
-E05005656,Spalding St Mary's,1 - Quintile 1 Highest 20%,6.5,77.3,84.4,5.1,15.6,24.1
-E05005657,Spalding St Paul's,4 - Quintile 4,3.1,78.9,83.8,4.8,22.3,26.3
-E05005658,Spalding Wygate,2 - Quintile 2,5.6,80.3,82.3,2.5,7.6,22.2
-E05005659,Sutton Bridge,1 - Quintile 1 Highest 20%,5.1,76.8,83.1,5.5,26.5,27.6
-E05005660,The Saints,2 - Quintile 2,5.3,83.3,85.4,3.4,23.4,16.7
-E05005661,Whaplode and Holbeach St John's,1 - Quintile 1 Highest 20%,4.3,82.3,81.4,3,20.2,35.3
-E05006377,Beckingham,1 - Quintile 1 Highest 20%,5.4,83.8,82,2.6,13.1,35.7
-E05006378,Blyth,2 - Quintile 2,N/A - not available,81.9,82.1,2.6,11.8,N/A - not available
-E05006379,Carlton,2 - Quintile 2,8.3,80.1,82.7,3.6,24.6,32.5
-E05006380,Clayworth,1 - Quintile 1 Highest 20%,N/A - not available,N/A - not available,N/A - not available,3,12.9,N/A - not available
-E05006381,East Markham,2 - Quintile 2,4.7,79,87.2,1.6,14.2,16.7
-E05006382,East Retford East,1 - Quintile 1 Highest 20%,7.4,77,81.3,5.1,23.3,29.7
-E05006383,East Retford North,2 - Quintile 2,5.9,78.2,82.3,3.3,19.9,31.2
-E05006384,East Retford South,2 - Quintile 2,6.5,76.4,84.5,4.3,23.5,22.7
-E05006385,East Retford West,2 - Quintile 2,5.5,77.8,82,5.1,20.3,22.9
-E05006386,Everton,2 - Quintile 2,7.1,82.5,86.2,2.3,13,14.3
-E05006387,Harworth,2 - Quintile 2,8.2,77.7,81.1,5.1,30.1,25.9
-E05006388,Langold,2 - Quintile 2,5.7,79.7,80.6,4.7,33.2,21.4
-E05006389,Misterton,1 - Quintile 1 Highest 20%,7.5,77.6,80.5,3.7,14.6,23.1
-E05006390,Rampton,5 - Quintile 5 Lowest 20%,N/A - not available,77.5,83.1,2.2,33.6,N/A - not available
-E05006391,Ranskill,5 - Quintile 5 Lowest 20%,4.3,79.3,84.2,3.5,15.8,28.6
-E05006392,Sturton,5 - Quintile 5 Lowest 20%,N/A - not available,82.6,88.4,2.7,8.9,25
-E05006393,Sutton,5 - Quintile 5 Lowest 20%,5.5,79.6,79.6,2.5,23.4,N/A - not available
-E05006394,Tuxford and Trent,5 - Quintile 5 Lowest 20%,7,80.8,82.6,3.3,19.3,25
-E05006395,Welbeck,5 - Quintile 5 Lowest 20%,4.4,N/A - not available,N/A - not available,2.4,29.8,N/A - not available
-E05006396,Worksop East,5 - Quintile 5 Lowest 20%,7.5,79.6,84.5,4.2,25.2,29.5
-E05006397,Worksop North,5 - Quintile 5 Lowest 20%,5.1,79.1,81.8,2.3,14.4,25.4
-E05006398,Worksop North East,5 - Quintile 5 Lowest 20%,5.6,79.1,82,3.1,16.9,25.8
-E05006399,Worksop North West,5 - Quintile 5 Lowest 20%,7.7,76.9,80.6,4.4,24.1,22
-E05006400,Worksop South,5 - Quintile 5 Lowest 20%,5.9,81.7,84.2,3.8,15.6,22.6
-E05006401,Worksop South East,5 - Quintile 5 Lowest 20%,7.6,74.1,77.6,6.8,46.5,29.9
-E05008520,Belper South,5 - Quintile 5 Lowest 20%,9.3,80.2,84.2,2.8,15.3,22.7
-E05008521,Duffield,4 - Quintile 4,8.3,83.9,84.1,1.4,4,19
-E05008522,Heanor East,4 - Quintile 4,8.1,80.9,81.7,3.8,19.6,25.9
-E05008523,"Kilburn, Denby and Holbrook",5 - Quintile 5 Lowest 20%,6.2,81.3,84.6,2.2,12.1,22.6
-E05008524,"Shipley Park, Horsley and Horsley Woodhouse",4 - Quintile 4,7.3,81,84.3,1.7,13.6,23.8
-E05008809,Aston,5 - Quintile 5 Lowest 20%,8.6,81.5,87,2.5,8.7,20.9
-E05008810,Church Gresley,5 - Quintile 5 Lowest 20%,8,78.6,82.1,3.1,15.9,26.7
-E05008811,Etwall,3 - Quintile 3,7.6,77.7,82.3,1.8,9.2,21.4
-E05008812,Hatton,2 - Quintile 2,9.9,81.6,86.3,2.3,13.6,27.3
-E05008813,Hilton,3 - Quintile 3,7.2,81.8,84.2,1.9,8.6,23.4
-E05008814,Linton,3 - Quintile 3,8.5,79.9,82.7,2.6,16.3,25
-E05008815,Melbourne,3 - Quintile 3,4.6,81.3,87.8,2.5,7.4,13
-E05008816,Midway,2 - Quintile 2,8.9,80,84.9,3.6,19.3,24.3
-E05008817,Newhall and Stanton,3 - Quintile 3,11,76.5,82.9,4.4,25.2,27.8
-E05008818,Repton,2 - Quintile 2,6.4,78,84.2,1.2,7.8,27.3
-E05008819,Seales,3 - Quintile 3,5.9,78.4,80.4,2.9,15.1,25
-E05008820,Stenson,3 - Quintile 3,10.9,80.3,82.8,2.4,13.4,23.3
-E05008821,Swadlincote,2 - Quintile 2,7.9,77.8,80.8,3.4,20.1,28.9
-E05008822,Willington and Findern,2 - Quintile 2,6.1,83.9,86.8,2.4,8.2,24.1
-E05008823,Woodville,4 - Quintile 4,7.3,77.2,80.1,3.7,17.9,26.5
-E05008857,Abbott,2 - Quintile 2,8.5,77.7,81.5,4.2,30.1,N/A - not available
-E05008858,Berry Hill,2 - Quintile 2,3.7,79.8,82.8,1.3,6.5,23.1
-E05008859,Brick Kiln,4 - Quintile 4,6.7,80.4,82,4.5,27.7,15
-E05008860,Broomhill,2 - Quintile 2,5.7,75.6,79.9,8,34,33.3
-E05008861,Bull Farm and Pleasley Hill,3 - Quintile 3,7.7,77,78.7,5.4,35.6,26.9
-E05008862,Carr Bank,3 - Quintile 3,4.9,73.5,74.3,7.8,45.8,24
-E05008863,Eakring,3 - Quintile 3,N/A - not available,79.1,83.6,1.5,7.9,18.8
-E05008864,Grange Farm,5 - Quintile 5 Lowest 20%,6.5,81.2,80.5,2.3,9,25
-E05008865,Holly,5 - Quintile 5 Lowest 20%,7.2,81.4,84.3,2.3,8,22.2
-E05008866,Hornby,2 - Quintile 2,5.9,77,87.1,1.3,10.3,28.6
-E05008867,Kings Walk,2 - Quintile 2,2.5,N/A - not available,85.4,2.1,7.3,13
-E05008868,Kingsway,3 - Quintile 3,7.5,77.9,80.4,4.6,21.1,18.2
-E05008869,Ladybrook,3 - Quintile 3,12.5,76.8,84,7.9,41.9,25
-E05008870,Lindhurst,3 - Quintile 3,N/A - not available,83.7,85.6,1.9,10.2,16.7
-E05008871,Ling Forest,2 - Quintile 2,4.8,79.5,85,2.4,11.3,12.5
-E05008872,Manor,3 - Quintile 3,N/A - not available,81.3,84.9,1.7,11,18.2
-E05008873,Market Warsop,2 - Quintile 2,8.6,74.5,78.4,6.8,32.5,26.1
-E05008874,Maun Valley,2 - Quintile 2,6.6,80,81.3,2.9,17.5,28.6
-E05008875,Meden,2 - Quintile 2,4.9,76.5,82.6,4.6,30.8,21.4
-E05008876,Netherfield,1 - Quintile 1 Highest 20%,11.7,78.7,84.5,5.4,32.4,23.5
-E05008877,Newgate,2 - Quintile 2,7.9,68.3,76.7,9.4,49.5,26.1
-E05008878,Newlands,2 - Quintile 2,3.9,77.5,83.9,3.5,26.3,22.7
-E05008879,Oak Tree,2 - Quintile 2,8.4,75.6,78.5,8.7,61.3,20
-E05008880,Oakham,2 - Quintile 2,10.9,83.2,87.8,1.7,13.4,13.3
-E05008881,Park Hall,2 - Quintile 2,7.5,76.4,78.9,4.8,29.7,26.1
-E05008882,Peafields,2 - Quintile 2,6.9,80.1,82.4,4.6,22.8,16.7
-E05008883,Penniment,3 - Quintile 3,4.7,80.8,83.3,4.9,33,17.6
-E05008884,Portland,1 - Quintile 1 Highest 20%,8.6,75.9,81.3,9.4,46.8,33.3
-E05008885,Racecourse,1 - Quintile 1 Highest 20%,10.3,76.6,82,4.9,27.9,25
-E05008886,Ransom Wood,3 - Quintile 3,9.4,74.7,79.9,7.9,52.5,31.6
-E05008887,Sandhurst,3 - Quintile 3,4,80.8,84.7,4.8,15.5,18.2
-E05008888,Sherwood,2 - Quintile 2,7.6,81.1,79.1,3.7,35.4,25
-E05008889,Warsop Carrs,2 - Quintile 2,8.1,79.4,82.3,4.9,35.6,25.7
-E05008890,Woodhouse,2 - Quintile 2,10.7,73,79.5,7.1,43.5,32.1
-E05008891,Woodlands,2 - Quintile 2,4.4,74.9,80.5,6.6,26.8,N/A - not available
-E05008892,Yeoman Hill,2 - Quintile 2,7.1,79.2,83.7,4.2,27.7,21.4
-E05009619,Forest,1 - Quintile 1 Highest 20%,3.6,80.9,82.6,2.2,8.5,16.7
-E05009620,Winstanley,1 - Quintile 1 Highest 20%,5.7,80.9,86.1,3.6,13.3,19.6
-E05009621,Coastal,2 - Quintile 2,6.1,81.2,84.8,3.2,22.3,33.3
-E05009622,Fenside,2 - Quintile 2,5.2,77.1,82.1,7.6,37.2,35
-E05009623,Fishtoft,2 - Quintile 2,5.9,79.4,82.8,3.5,15.9,24.4
-E05009624,Five Village,1 - Quintile 1 Highest 20%,8.2,76.8,87.7,3.4,28.2,25
-E05009625,Kirton and Frampton,2 - Quintile 2,7.3,78.8,81.4,4.5,19.2,20
-E05009626,Old Leake and Wrangle,2 - Quintile 2,9.2,78,82.5,4.7,28.9,29.4
-E05009627,St Thomas',2 - Quintile 2,7,76,78.3,4.6,13.1,23.8
-E05009628,Skirbeck,1 - Quintile 1 Highest 20%,7.8,74.9,81.6,7.6,28.3,25.8
-E05009629,Staniland,2 - Quintile 2,5.7,75.3,80.5,6.2,27,29
-E05009630,Station,2 - Quintile 2,8.6,75.4,81.1,11.1,22,29.2
-E05009631,Swineshead and Holland Fen,1 - Quintile 1 Highest 20%,6.7,79.7,85.8,4.4,25.7,22.7
-E05009632,Trinity,1 - Quintile 1 Highest 20%,7.6,77.2,81.1,6.5,16.7,20.6
-E05009633,West,2 - Quintile 2,6,N/A - not available,85.6,2.3,8.6,25
-E05009634,Witham,1 - Quintile 1 Highest 20%,7,77.5,85.5,7.6,24.5,22.6
-E05009635,Wyberton,3 - Quintile 3,7.1,79.9,82.8,4.4,20.1,24.1
-E05009636,Bardney,2 - Quintile 2,5.9,77.6,84.3,3.2,23.4,26.3
-E05009637,Caistor and Yarborough,2 - Quintile 2,6.5,80.8,85.5,2.9,13.5,28
-E05009638,Cherry Willingham,3 - Quintile 3,3.9,81.6,82.9,2.4,12.6,22.7
-E05009639,Dunholme and Welton,2 - Quintile 2,6.5,81.6,85.7,2.6,11.1,25
-E05009640,Gainsborough East,2 - Quintile 2,7.6,75.5,80.2,7.1,41.8,27.7
-E05009641,Gainsborough North,4 - Quintile 4,7.5,79.8,84.6,6.3,32.9,29.4
-E05009642,Gainsborough South-West,3 - Quintile 3,11,72.2,78.1,12.1,56.5,37.5
-E05009643,Hemswell,2 - Quintile 2,12.2,78.1,86,4,27,20
-E05009644,Kelsey Wold,2 - Quintile 2,8.8,80.8,86.3,2.3,16.6,28.6
-E05009645,Lea,2 - Quintile 2,4.7,N/A - not available,81,2.4,13.3,N/A - not available
-E05009646,Market Rasen,4 - Quintile 4,7.5,81,83.4,4,17.7,19.1
-E05009647,Nettleham,3 - Quintile 3,3,81.9,87.8,1.6,6.7,15.4
-E05009648,Saxilby,4 - Quintile 4,3.4,81,84.8,2.5,11.1,23.3
-E05009649,Scampton,5 - Quintile 5 Lowest 20%,2.5,84.2,86.9,2,12.2,29.2
-E05009650,Scotter and Blyton,4 - Quintile 4,7.3,80.3,81.3,2.3,13.2,26.7
-E05009651,Stow,4 - Quintile 4,4.9,79.4,81,1.9,16.6,N/A - not available
-E05009652,Sudbrooke,4 - Quintile 4,7.6,81.7,85,1,7.9,23.1
-E05009653,Torksey,4 - Quintile 4,10.8,81.1,88.3,3.7,19.2,N/A - not available
-E05009654,Waddingham and Spital,4 - Quintile 4,11.8,82.7,85.4,2.5,14.9,N/A - not available
-E05009655,Wold View,4 - Quintile 4,9.8,77.8,82.9,4.2,26.6,28.6
-E05009689,Bestwood St Albans,2 - Quintile 2,6.1,79.9,82.7,5.1,16,25.8
-E05009690,Calverton,2 - Quintile 2,6.6,79.4,83.1,3.3,14.6,25
-E05009691,Carlton,2 - Quintile 2,4.6,79.3,82.4,5.1,17.7,22.6
-E05009692,Carlton Hill,2 - Quintile 2,6,79.3,82.8,4.5,16.9,23.7
-E05009693,Cavendish,2 - Quintile 2,4,78,82.1,4.5,23.3,26.7
-E05009694,Colwick,3 - Quintile 3,5.8,N/A - not available,N/A - not available,3.9,13.4,21.1
-E05009695,Coppice,5 - Quintile 5 Lowest 20%,6.5,80.8,83.9,4.3,19.7,26.9
-E05009696,Daybrook,2 - Quintile 2,6.6,77.4,81.2,5.3,24.6,21.2
-E05009697,Dumbles,1 - Quintile 1 Highest 20%,6.2,80.3,83.7,2.1,7.3,26.7
-E05009698,Ernehale,1 - Quintile 1 Highest 20%,6.3,80.3,83.8,4.1,19.2,25
-E05009699,Gedling,2 - Quintile 2,4.8,81.7,83.7,2.9,10.8,21.1
-E05009700,Netherfield,1 - Quintile 1 Highest 20%,3.3,77.4,78.4,6.3,28.5,26.8
-E05009701,Newstead Abbey,1 - Quintile 1 Highest 20%,7.5,84.1,85,2.5,9.1,22.2
-E05009702,Phoenix,2 - Quintile 2,7.3,78.7,82.5,3.8,14.1,21.2
-E05009703,Plains,1 - Quintile 1 Highest 20%,6.6,81.9,86.6,2.7,9.3,14.8
-E05009704,Porchester,1 - Quintile 1 Highest 20%,5.2,81.2,83.5,2.6,8.8,22
-E05009705,Redhill,1 - Quintile 1 Highest 20%,8,82,81.7,3.7,16.7,21.4
-E05009706,Trent Valley,1 - Quintile 1 Highest 20%,6.4,80.7,84.1,2.4,6.7,18.5
-E05009707,Woodthorpe,1 - Quintile 1 Highest 20%,4.5,80.3,81.3,2.3,6.6,14.8
-E05009708,Abbey,1 - Quintile 1 Highest 20%,4.8,82.7,85.2,1.7,4,15
-E05009709,Bingham East,1 - Quintile 1 Highest 20%,1.5,80.3,86.2,2.6,4.3,11.4
-E05009710,Bingham West,1 - Quintile 1 Highest 20%,4.7,79,83.2,2.9,9.5,23.7
-E05009711,Bunny,1 - Quintile 1 Highest 20%,N/A - not available,84.7,86.3,1.2,6.2,33.3
-E05009712,Compton Acres,2 - Quintile 2,9.7,83.7,87.8,2.1,2.8,10.3
-E05009713,Cotgrave,1 - Quintile 1 Highest 20%,4.3,79.1,79.9,3.1,12.8,27.9
-E05009714,Cranmer,1 - Quintile 1 Highest 20%,6.9,81.5,83.7,1.6,9.1,21.4
-E05009715,Cropwell,3 - Quintile 3,9.1,82.5,87.6,2.3,6.5,21.4
-E05009716,East Bridgford,2 - Quintile 2,7.7,84.7,91.5,1.8,4.2,17.6
-E05009717,Edwalton,1 - Quintile 1 Highest 20%,7.1,80.9,83.3,3.1,10,17.1
-E05009718,Gamston North,1 - Quintile 1 Highest 20%,6.3,78.8,80.4,2.5,8,20
-E05009719,Gamston South,1 - Quintile 1 Highest 20%,6.8,82.4,83.8,2.1,1.7,11.8
-E05009720,Gotham,2 - Quintile 2,N/A - not available,78.8,85.6,3.1,12,21.4
-E05009721,Keyworth & Wolds,1 - Quintile 1 Highest 20%,5.8,82.4,85.9,2.6,7.3,20
-E05009722,Lady Bay,2 - Quintile 2,3.8,82.1,83.9,2.1,5.3,14.3
-E05009723,Leake,2 - Quintile 2,6,82.4,84.9,1.9,5.4,17.6
-E05009724,Lutterell,1 - Quintile 1 Highest 20%,3.9,80.7,83.1,2.7,9.4,15.6
-E05009725,Musters,1 - Quintile 1 Highest 20%,5.1,85.7,86.8,1.5,3.3,14.3
-E05009726,Nevile & Langar,5 - Quintile 5 Lowest 20%,5.6,85.7,87.4,1.6,12.1,16.7
-E05009727,Radcliffe on Trent,1 - Quintile 1 Highest 20%,3,81.5,84,2.3,6.7,17.8
-E05009728,Ruddington,1 - Quintile 1 Highest 20%,6,81,83,2.3,6.9,13.7
-E05009729,Sutton Bonington,1 - Quintile 1 Highest 20%,5.3,N/A - not available,87.4,1.2,5.1,N/A - not available
-E05009730,Thoroton,1 - Quintile 1 Highest 20%,12,84.1,86.7,2.5,10.2,21.4
-E05009731,Tollerton,2 - Quintile 2,N/A - not available,83.6,91.4,1.3,3,16.7
-E05009732,Trent Bridge,1 - Quintile 1 Highest 20%,5.3,78.4,86.3,2.5,10.4,17.6
-E05009873,Alford,1 - Quintile 1 Highest 20%,8.4,78.2,79.4,5.6,27.9,20.7
-E05009874,Binbrook,1 - Quintile 1 Highest 20%,10.2,81.7,82.8,2,24.4,N/A - not available
-E05009875,Burgh le Marsh,2 - Quintile 2,5.2,75.9,85.4,4.7,25.1,N/A - not available
-E05009876,Chapel St Leonards,1 - Quintile 1 Highest 20%,8.4,73.4,78.7,7.3,49.3,35.3
-E05009877,Coningsby & Mareham,1 - Quintile 1 Highest 20%,5.6,81.5,84.3,3.5,18.2,19.4
-E05009878,Croft,2 - Quintile 2,N/A - not available,79.3,82.8,6.1,32.2,N/A - not available
-E05009879,Friskney,2 - Quintile 2,12.8,77.7,85.4,4.9,38.1,30
-E05009880,Fulstow,4 - Quintile 4,N/A - not available,81.2,87.1,2.5,N/A - not available,25
-E05009881,Grimoldby,2 - Quintile 2,5.9,82.5,82.5,2.2,14.9,30.8
-E05009882,Hagworthingham,1 - Quintile 1 Highest 20%,5.5,80,85.2,3.2,27,N/A - not available
-E05009883,Halton Holegate,1 - Quintile 1 Highest 20%,12.3,80.6,82.8,3.3,28.3,18.2
-E05009884,Holton-le-Clay & North Thoresby,1 - Quintile 1 Highest 20%,7.8,81.7,84.3,2.7,11,16.7
-E05009885,Horncastle,1 - Quintile 1 Highest 20%,6.2,77,83.1,4,18.9,23.8
-E05009886,Ingoldmells,1 - Quintile 1 Highest 20%,5.9,72.1,76.4,9.1,52.3,25
-E05009887,Legbourne,2 - Quintile 2,4.5,79.9,85.8,1.5,22.4,16.7
-E05009888,Mablethorpe,3 - Quintile 3,6.4,73.6,77.3,7.8,54.3,33.3
-E05009889,Marshchapel & Somercotes,2 - Quintile 2,6.2,80.5,84.5,3.3,27,21.4
-E05009890,North Holme,1 - Quintile 1 Highest 20%,9.5,77.6,78.4,4.4,30.3,27.8
-E05009891,Priory & St James',1 - Quintile 1 Highest 20%,6.4,78.8,82.2,5.1,22.5,25.9
-E05009892,Roughton,1 - Quintile 1 Highest 20%,11.5,77.6,83.5,3.3,21.9,N/A - not available
-E05009893,St Clement's,1 - Quintile 1 Highest 20%,9.5,72.8,79.4,6.1,43.4,27
-E05009894,St Margaret's,1 - Quintile 1 Highest 20%,7.5,77.3,78,3.5,22.9,28.6
-E05009895,St Mary's,1 - Quintile 1 Highest 20%,N/A - not available,82.5,84.5,2.6,13.3,N/A - not available
-E05009896,St Michael's,3 - Quintile 3,7.5,78.7,82.7,2.4,18.3,25
-E05009897,Scarbrough & Seacroft,2 - Quintile 2,8.4,74.2,79,8.5,44.5,28
-E05009898,Sibsey & Stickney,4 - Quintile 4,5.7,79.4,82.8,3.7,23.6,26.1
-E05009899,Spilsby,5 - Quintile 5 Lowest 20%,8.8,78.7,80.9,5.2,25.9,28
-E05009900,Sutton on Sea,2 - Quintile 2,6,78.3,81.6,4.9,34.1,28.6
-E05009901,Tetford & Donington,1 - Quintile 1 Highest 20%,N/A - not available,83.6,81.2,2.5,22.8,N/A - not available
-E05009902,Tetney,1 - Quintile 1 Highest 20%,N/A - not available,79.4,83.3,2.1,14.4,N/A - not available
-E05009903,Trinity,1 - Quintile 1 Highest 20%,8.4,77.7,83.5,5.5,41,35
-E05009904,Wainfleet,1 - Quintile 1 Highest 20%,5.4,77.7,80.9,6.3,48.1,33.3
-E05009905,Willoughby with Sloothby,1 - Quintile 1 Highest 20%,7.7,78.4,84.9,3.2,34,N/A - not available
-E05009906,Winthorpe,1 - Quintile 1 Highest 20%,6.3,75.1,81.2,9.9,45.5,32.4
-E05009907,Withern & Theddlethorpe,1 - Quintile 1 Highest 20%,7.4,79.6,84.8,3,28.7,N/A - not available
-E05009908,Woodhall Spa,1 - Quintile 1 Highest 20%,6.3,81.7,85.6,2.3,11.2,22.2
-E05009909,Wragby,1 - Quintile 1 Highest 20%,8.5,82.1,82.1,3.8,25.4,21.4
-E05010064,Balderton South,5 - Quintile 5 Lowest 20%,10.8,83.1,85.2,4.2,15.4,27.8
-E05010066,Bilsthorpe,5 - Quintile 5 Lowest 20%,5.8,79.5,82.7,3.7,23.6,26.3
-E05010067,Boughton,5 - Quintile 5 Lowest 20%,7.9,78.4,81.4,6.1,16.4,38.9
-E05010068,Bridge,5 - Quintile 5 Lowest 20%,5.3,75,80.5,5.7,26.6,21.2
-E05010070,Collingham,5 - Quintile 5 Lowest 20%,6.8,79.4,83,2.6,15,15.4
-E05010071,Devon,5 - Quintile 5 Lowest 20%,6.5,79.1,81.8,6,34.2,29.1
-E05010072,Dover Beck,5 - Quintile 5 Lowest 20%,N/A - not available,83.6,85.2,1.7,6.3,15.4
-E05010073,Edwinstowe & Clipstone,5 - Quintile 5 Lowest 20%,7.2,78.1,81.9,3.1,19.9,25.3
-E05010075,Farnsfield,5 - Quintile 5 Lowest 20%,3.5,82.9,89.4,1.8,6.3,29.4
-E05010076,Lowdham,5 - Quintile 5 Lowest 20%,5.3,84.1,88.6,1.5,11.3,27.3
-E05010077,Muskham,5 - Quintile 5 Lowest 20%,9.4,82.8,86.6,2.2,10.2,25
-E05010078,Ollerton,5 - Quintile 5 Lowest 20%,7.9,76,80.6,4.2,33.2,23.1
-E05010079,Rainworth North & Rufford,4 - Quintile 4,8.9,80.5,83.5,3.2,19.5,25.5
-E05010080,Rainworth South & Blidworth,4 - Quintile 4,7,78.4,80,3.8,28.4,25
-E05010081,Southwell,4 - Quintile 4,2.4,82.9,84.3,2,6.4,17.2
-E05010082,Sutton-on-Trent,4 - Quintile 4,4.3,82.4,83,2.4,15,23.1
-E05010083,Trent,4 - Quintile 4,N/A - not available,82.2,82.8,1.5,9.5,23.1
-E05010090,Appleby,4 - Quintile 4,7.8,82.2,82.3,1.4,9.3,25
-E05010091,Ashby Castle,5 - Quintile 5 Lowest 20%,9.1,84.1,87.2,0.6,5.4,18.2
-E05010092,Ashby Holywell,4 - Quintile 4,9,N/A - not available,86,3,15.2,15.8
-E05010093,Ashby Ivanhoe,3 - Quintile 3,4.2,80.4,86.5,2.3,12.6,14.3
-E05010094,Ashby Money Hill,4 - Quintile 4,8,N/A - not available,82.7,2.5,7.3,13.8
-E05010095,Ashby Willesley,4 - Quintile 4,6.6,N/A - not available,79.1,2.6,15.1,N/A - not available
-E05010096,Ashby Woulds,4 - Quintile 4,3.9,79.6,81.4,3,18.2,15
-E05010097,Bardon,4 - Quintile 4,7,81.3,83.8,2.3,7.1,25
-E05010098,Blackfordby,5 - Quintile 5 Lowest 20%,13.6,78.6,82.3,4.3,14.2,23.1
-E05010099,Broom Leys,4 - Quintile 4,7.9,74.7,85.1,2.7,15.3,20
-E05010100,Castle Donington Castle,4 - Quintile 4,9.2,81.3,80.9,2.6,17.7,30
-E05010101,Castle Donington Central,5 - Quintile 5 Lowest 20%,1.9,83.9,85.7,2.2,7.1,13
-E05010102,Castle Donington Park,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,3.2,N/A - not available,N/A - not available
-E05010103,Castle Rock,4 - Quintile 4,9.5,79.3,88.7,4.9,30.6,31.2
-E05010104,Coalville East,4 - Quintile 4,4.9,81.3,83.1,2.1,15.4,N/A - not available
-E05010105,Coalville West,4 - Quintile 4,5.9,75.2,75.8,5.7,22.8,22.7
-E05010106,Daleacre Hill,4 - Quintile 4,4,79.6,85.4,3,10.8,16.7
-E05010107,Ellistown & Battleflat,4 - Quintile 4,4.6,82,80.9,2.5,12.6,16.7
-E05010108,Greenhill,5 - Quintile 5 Lowest 20%,8.5,75.2,79.8,5,37.4,22.2
-E05010109,Hermitage,4 - Quintile 4,4.5,81.5,82.3,3.1,12.9,21.4
-E05010110,Holly Hayes,4 - Quintile 4,N/A - not available,80.6,83,2.7,20.7,16.7
-E05010111,Hugglescote St John's,2 - Quintile 2,3.8,N/A - not available,N/A - not available,2.7,12.7,30.8
-E05010112,Hugglescote St Mary's,3 - Quintile 3,3.4,77.4,86.2,2.5,9.7,21.1
-E05010113,Ibstock East,4 - Quintile 4,4.1,77.5,80.5,2.8,19.6,18.8
-E05010114,Ibstock West,5 - Quintile 5 Lowest 20%,5.8,81.2,85.6,2.6,10.1,20
-E05010115,Kegworth,5 - Quintile 5 Lowest 20%,N/A - not available,80,86.8,1.8,7.8,25
-E05010116,Long Whatton & Diseworth,5 - Quintile 5 Lowest 20%,5.3,81.6,90.2,1.8,7.9,21.4
-E05010117,Measham North,5 - Quintile 5 Lowest 20%,6.5,76.9,85.5,2.6,8.3,17.6
-E05010118,Measham South,5 - Quintile 5 Lowest 20%,7,76.8,84.3,3.8,17.3,18.2
-E05010119,Oakthorpe & Donisthorpe,5 - Quintile 5 Lowest 20%,5.1,80.6,84.3,3,16.2,23.5
-E05010120,Ravenstone & Packington,5 - Quintile 5 Lowest 20%,6.2,80.4,90.6,1.6,9.7,23.5
-E05010121,Sence Valley,5 - Quintile 5 Lowest 20%,N/A - not available,82.8,85.2,2.6,12.9,12
-E05010122,Snibston North,5 - Quintile 5 Lowest 20%,2.9,78.4,82.8,3.5,11.4,10
-E05010123,Snibston South,5 - Quintile 5 Lowest 20%,6,79.9,79.2,4.1,20.9,11.1
-E05010124,Thornborough,5 - Quintile 5 Lowest 20%,9.2,N/A - not available,82.6,2,6.9,N/A - not available
-E05010125,Thringstone,5 - Quintile 5 Lowest 20%,5.1,78.1,80.4,4.6,19,21.1
-E05010126,Valley,5 - Quintile 5 Lowest 20%,6.7,80.9,86,2.4,16.2,27.3
-E05010127,Worthington & Breedon,5 - Quintile 5 Lowest 20%,8,81.2,84.1,1.8,13.5,15.4
-E05010148,Aveland,5 - Quintile 5 Lowest 20%,8.3,81.2,83,2.8,20.9,N/A - not available
-E05010149,Belmont,5 - Quintile 5 Lowest 20%,2.7,79.4,86.7,2.7,6.8,25.9
-E05010150,Belvoir,5 - Quintile 5 Lowest 20%,5.8,82.9,84.9,2.2,12.4,16.7
-E05010151,Bourne Austerby,5 - Quintile 5 Lowest 20%,5.8,79.4,82.4,2.4,7.7,21.7
-E05010152,Bourne East,5 - Quintile 5 Lowest 20%,4.7,79.1,84,3.3,14.7,27.6
-E05010153,Bourne West,2 - Quintile 2,5.6,80.6,83.1,2.9,6.8,25
-E05010154,Casewick,1 - Quintile 1 Highest 20%,4.1,80,87.5,2.4,5.3,15.4
-E05010155,Castle,1 - Quintile 1 Highest 20%,N/A - not available,79.4,88.7,2.3,16.2,N/A - not available
-E05010156,Deeping St James,2 - Quintile 2,5.3,80.3,85.5,2.9,7.8,18.2
-E05010157,Dole Wood,2 - Quintile 2,N/A - not available,82.3,86.1,2.5,6.4,27.3
-E05010158,Glen,1 - Quintile 1 Highest 20%,5.6,84.4,92.1,1.8,13.2,N/A - not available
-E05010159,Grantham Arnoldfield,2 - Quintile 2,4.3,78.7,80.5,2.4,5.6,26.5
-E05010160,Grantham Barrowby Gate,2 - Quintile 2,5.8,81.2,84,3.2,10,25
-E05010161,Grantham Earlesfield,2 - Quintile 2,7.8,77.7,81.8,9.1,35.9,27.3
-E05010162,Grantham Harrowby,2 - Quintile 2,4,78,80.6,5.9,30.6,25
-E05010163,Grantham St Vincent's,1 - Quintile 1 Highest 20%,6.6,77.4,82.1,7.2,18.3,32.5
-E05010164,Grantham St Wulfram's,1 - Quintile 1 Highest 20%,3.3,77.1,80.2,6,17.7,20.8
-E05010165,Grantham Springfield,1 - Quintile 1 Highest 20%,6,79.2,82.3,4.7,19.7,26.1
-E05010166,Isaac Newton,2 - Quintile 2,4.9,81.5,82.6,3.8,16.3,26.1
-E05010167,Lincrest,1 - Quintile 1 Highest 20%,N/A - not available,84.4,86.5,2,14.4,N/A - not available
-E05010168,Loveden Heath,1 - Quintile 1 Highest 20%,3.9,82.7,84.6,2.6,13.5,N/A - not available
-E05010169,Market & West Deeping,2 - Quintile 2,5,82.8,85.2,3.8,11.4,20.6
-E05010170,Morton,2 - Quintile 2,5.4,84.9,85,2.7,10.8,25
-E05010171,Peascliffe & Ridgeway,2 - Quintile 2,5.8,81.5,86.1,3.3,11.6,20
-E05010172,Stamford All Saints,3 - Quintile 3,7.4,80.9,83.3,3.5,12.3,25
-E05010173,Stamford St George's,3 - Quintile 3,9.1,79.5,84.7,4.3,13.8,29.2
-E05010174,Stamford St John's,3 - Quintile 3,4,84.2,87.8,1.9,3.5,24.3
-E05010175,Stamford St Mary's,3 - Quintile 3,3.6,81.8,84.1,4.1,13.2,21.4
-E05010176,Toller,3 - Quintile 3,4.8,82.1,84,2.9,17.1,28.6
-E05010177,Viking,3 - Quintile 3,5.9,83.7,86.7,2.2,9.6,20
-E05010458,Abbey,4 - Quintile 4,6.4,77.5,80.9,7,36.5,25.9
-E05010459,Aylestone,3 - Quintile 3,7.2,78.9,80.4,5.8,26.6,22.4
-E05010460,Beaumont Leys,3 - Quintile 3,7.3,77.3,81.5,7.8,34.1,27
-E05010461,Belgrave,2 - Quintile 2,12,77.5,83.1,5.7,29.8,14
-E05010462,Braunstone Park & Rowley Fields,2 - Quintile 2,7.6,73.9,78.3,8.7,45.3,27.1
-E05010463,Castle,3 - Quintile 3,7.9,77,84.1,3.6,22.4,18.2
-E05010464,Evington,3 - Quintile 3,8.2,78.2,82,6.4,25.3,15.7
-E05010465,Eyres Monsell,2 - Quintile 2,6.7,75.9,80.6,7.9,48.8,23.1
-E05010466,Fosse,2 - Quintile 2,7.6,75.9,82.3,7.5,34.9,27.6
-E05010467,Humberstone & Hamilton,2 - Quintile 2,7.8,77.5,81.6,5.2,22.2,17.9
-E05010468,Knighton,2 - Quintile 2,8.3,78.6,82.5,3.8,14.3,19.4
-E05010469,North Evington,3 - Quintile 3,12.7,77.1,83.6,5.9,31.5,13.9
-E05010470,Rushey Mead,4 - Quintile 4,10.2,77.9,84.1,5.2,24.3,17.8
-E05010471,Saffron,2 - Quintile 2,8.1,71.4,78.9,5.9,45.2,23.7
-E05010472,Spinney Hills,2 - Quintile 2,9.7,79.7,83.9,6.1,26.2,14.7
-E05010473,Stoneygate,2 - Quintile 2,8.8,78.1,85.6,7.5,25.8,19.4
-E05010474,Thurncourt,3 - Quintile 3,8.1,76.6,81.8,6.1,29.2,20.2
-E05010475,Troon,3 - Quintile 3,8.7,75.6,82.3,6.5,29.1,17
-E05010476,Westcotes,2 - Quintile 2,7,75.1,80.9,5.8,26.3,19.5
-E05010477,Western,3 - Quintile 3,8.1,75.1,79.9,8.4,40.7,26
-E05010478,Wycliffe,2 - Quintile 2,9.6,77.5,82.5,8.4,38.3,15.3
-E05010514,Attenborough & Chilwell East,4 - Quintile 4,3.1,80.3,82.1,2.1,8,18.8
-E05010515,"Awsworth, Cossall & Trowell",4 - Quintile 4,5,81.9,86,2.8,12.8,23.1
-E05010516,Beeston Central,4 - Quintile 4,5.8,77.2,80.5,2.9,18.2,21.7
-E05010517,Beeston North,4 - Quintile 4,5.5,80.6,84.1,3.7,17.1,16.7
-E05010518,Beeston Rylands,5 - Quintile 5 Lowest 20%,4.3,78.5,80.1,3.6,13.7,24
-E05010519,Beeston West,3 - Quintile 3,4.1,78.3,82.2,2.3,9.9,20.8
-E05010520,Bramcote,4 - Quintile 4,5.7,82.5,85.2,1.8,5.8,10.3
-E05010521,Brinsley,5 - Quintile 5 Lowest 20%,N/A - not available,80.4,83.1,3.2,15.7,18.2
-E05010522,Chilwell West,5 - Quintile 5 Lowest 20%,6.6,80.6,81.7,4,17.4,20.8
-E05010523,Eastwood Hall,5 - Quintile 5 Lowest 20%,N/A - not available,80.8,85.9,1.9,12.1,18.2
-E05010524,Eastwood Hilltop,5 - Quintile 5 Lowest 20%,8.1,76.5,80.9,4.2,22.7,20
-E05010525,Eastwood St Mary's,5 - Quintile 5 Lowest 20%,6.6,78.4,82.1,6.1,36.4,25
-E05010526,Greasley,5 - Quintile 5 Lowest 20%,4.9,81.2,83.5,2.4,8.5,20.6
-E05010527,Kimberley,4 - Quintile 4,6.5,80.9,84.1,4.1,15.8,26.8
-E05010528,Nuthall East & Strelley,4 - Quintile 4,5.5,82.3,82.3,2.4,7.4,18.5
-E05010529,Stapleford North,5 - Quintile 5 Lowest 20%,5.9,80.1,86,5.8,22.4,25.6
-E05010530,Stapleford South East,5 - Quintile 5 Lowest 20%,5.5,80.1,84.5,4.1,16.1,24.1
-E05010531,Stapleford South West,5 - Quintile 5 Lowest 20%,7.3,79.9,84.3,5.2,19,24.3
-E05010532,Toton & Chilwell Meadows,5 - Quintile 5 Lowest 20%,4.5,82.2,86.4,1.5,3.5,18.8
-E05010533,Watnall & Nuthall West,4 - Quintile 4,4.6,82.6,82.8,2.7,13.1,22.2
-E05010604,Awsworth Road,1 - Quintile 1 Highest 20%,5.7,74.7,80.2,6.5,32.5,29
-E05010605,Breaston,4 - Quintile 4,8.5,81.4,84.9,1.9,7.7,15.4
-E05010606,Cotmanhay,1 - Quintile 1 Highest 20%,7.5,77.2,81.5,7.3,46.3,25.8
-E05010607,Derby Road East,3 - Quintile 3,7.5,78.9,81.9,5.3,23.6,24.1
-E05010608,Derby Road West,2 - Quintile 2,5.1,79.7,84.9,3.5,16.6,24.1
-E05010609,Draycott & Risley,1 - Quintile 1 Highest 20%,7.9,79.2,84.1,2.6,13.7,23.1
-E05010610,Hallam Fields,2 - Quintile 2,5.7,83.8,86.2,3.9,18,26.9
-E05010611,Kirk Hallam & Stanton-by-Dale,2 - Quintile 2,9.1,78.5,80.9,4.1,32,24.1
-E05010612,Larklands,1 - Quintile 1 Highest 20%,6,77,82.2,5.2,27.7,20.6
-E05010613,Little Eaton & Stanley,1 - Quintile 1 Highest 20%,4.1,84.1,89.8,1.8,7,18.8
-E05010614,Little Hallam,3 - Quintile 3,6.9,77.1,79.6,4.8,21,26.3
-E05010615,Long Eaton Central,1 - Quintile 1 Highest 20%,4.8,78.5,82.9,5.1,20.3,24.2
-E05010616,Nottingham Road,1 - Quintile 1 Highest 20%,7.4,79.2,82.5,5.1,15.7,20
-E05010617,Ockbrook & Borrowash,1 - Quintile 1 Highest 20%,7.1,79.3,83.4,3.2,10.8,24.1
-E05010618,Sandiacre,1 - Quintile 1 Highest 20%,5.2,78.3,81.9,4.1,17.9,19.5
-E05010619,Sawley,2 - Quintile 2,8.1,80.1,84.4,3.8,17.5,26.3
-E05010620,Shipley View,2 - Quintile 2,10.4,78.6,82.8,1.8,6.5,26.3
-E05010621,West Hallam & Dale Abbey,3 - Quintile 3,5.6,81.3,84.8,1.9,8.9,18.2
-E05010622,Wilsthorpe,2 - Quintile 2,6.6,80.2,84.7,2.8,11.1,18.9
-E05010623,Barms,2 - Quintile 2,N/A - not available,77.5,81,5.2,25.3,N/A - not available
-E05010624,Blackbrook,1 - Quintile 1 Highest 20%,7.4,81.5,82.3,2.3,9,12.9
-E05010625,Burbage,2 - Quintile 2,2.3,78.3,88.4,2.1,8.8,25
-E05010626,Buxton Central,2 - Quintile 2,6.6,77.1,81.9,4.7,18.9,12.5
-E05010627,Chapel East,1 - Quintile 1 Highest 20%,6.6,77.9,84.8,2.8,14.2,28.6
-E05010628,Chapel West,1 - Quintile 1 Highest 20%,8.6,81.2,83.7,2.1,11.1,17.1
-E05010629,Corbar,2 - Quintile 2,6.3,76.9,77.1,4.1,14.6,21.4
-E05010630,Cote Heath,1 - Quintile 1 Highest 20%,5.8,78.2,83.9,3.1,13.7,13
-E05010631,Dinting,2 - Quintile 2,3.4,N/A - not available,88.8,2,5,18.2
-E05010632,Gamesley,2 - Quintile 2,8.8,N/A - not available,75.5,7.7,52.4,21.1
-E05010633,Hadfield North,3 - Quintile 3,9.3,74.4,78.7,4.6,25.5,23.5
-E05010634,Hadfield South,2 - Quintile 2,3.9,76,80.9,3.2,14.3,20
-E05010635,Hayfield,1 - Quintile 1 Highest 20%,N/A - not available,82,N/A - not available,1.6,8.6,25
-E05010636,Hope Valley,4 - Quintile 4,3.5,81.8,88.3,1.5,10,15.4
-E05010637,Howard Town,3 - Quintile 3,4.1,76.3,82,4.4,19.7,18.5
-E05010638,Limestone Peak,2 - Quintile 2,5.7,78.2,N/A - not available,3,19.9,36.4
-E05010639,New Mills East,1 - Quintile 1 Highest 20%,7.4,77.9,79.7,4.1,26.3,23.1
-E05010640,New Mills West,2 - Quintile 2,6.6,83.4,85.6,2.7,10.1,18.2
-E05010641,Old Glossop,1 - Quintile 1 Highest 20%,2.6,83.5,86,2.4,10,19.2
-E05010642,Padfield,1 - Quintile 1 Highest 20%,2,78.2,84.6,2.5,13.4,29.4
-E05010643,St John's,2 - Quintile 2,3.8,N/A - not available,N/A - not available,3.2,13.5,N/A - not available
-E05010644,Sett,2 - Quintile 2,N/A - not available,N/A - not available,84.6,1.9,10.2,N/A - not available
-E05010645,Simmondley,2 - Quintile 2,4.7,83.2,85.6,1.7,4.4,27.6
-E05010646,Stone Bench,5 - Quintile 5 Lowest 20%,6.4,77,81.7,4.7,30.8,24.4
-E05010647,Temple,1 - Quintile 1 Highest 20%,N/A - not available,N/A - not available,86,1.1,4.5,15.4
-E05010648,Tintwistle,1 - Quintile 1 Highest 20%,N/A - not available,83.5,84,3.6,18.7,25
-E05010649,Whaley Bridge,1 - Quintile 1 Highest 20%,6.5,81.1,86.4,2.7,9.6,23.3
-E05010650,Whitfield,1 - Quintile 1 Highest 20%,8.2,76.1,80.2,5,30.6,21.4
-E05010673,Abbey Hill,1 - Quintile 1 Highest 20%,6.6,N/A - not available,81.3,7.5,41.9,25
-E05010674,Annesley & Kirkby Woodhouse,1 - Quintile 1 Highest 20%,4.8,80.1,82.9,3.6,18.8,21.2
-E05010675,Ashfields,1 - Quintile 1 Highest 20%,7.8,82.1,86.4,2.8,11.9,19
-E05010676,Carsic,1 - Quintile 1 Highest 20%,4.9,75.2,81.4,6.4,49.4,30.4
-E05010677,Sutton Central & New Cross,1 - Quintile 1 Highest 20%,7.5,74.5,78.2,6.6,40.4,25.4
-E05010678,Hucknall Central,1 - Quintile 1 Highest 20%,6,77.8,83.2,5,21.9,25.6
-E05010679,Hucknall North,1 - Quintile 1 Highest 20%,6.2,80.8,84.2,4.3,21.9,24.7
-E05010680,Hucknall South,1 - Quintile 1 Highest 20%,6.6,77.7,80.8,5.9,27.6,27.5
-E05010681,Hucknall West,1 - Quintile 1 Highest 20%,8.1,78,81.1,4.8,24.1,20
-E05010682,Huthwaite & Brierley,1 - Quintile 1 Highest 20%,5,76.8,82.1,5.1,25.1,28.6
-E05010683,Jacksdale & Westwood,1 - Quintile 1 Highest 20%,7,78.1,82.1,4.7,19.7,27.3
-E05010684,Kingsway,1 - Quintile 1 Highest 20%,3.6,84.2,87.4,3.3,21.2,N/A - not available
-E05010685,Kirkby Cross & Portland,1 - Quintile 1 Highest 20%,10.6,77,79.3,4,18.6,22.7
-E05010686,Larwood,1 - Quintile 1 Highest 20%,5.6,81.9,84.2,1.5,16.7,26.7
-E05010687,Leamington,1 - Quintile 1 Highest 20%,7.2,72,76.1,7.7,44,26.1
-E05010688,Sutton St Mary's,1 - Quintile 1 Highest 20%,9,78.8,81,5.1,23.1,13.3
-E05010689,Selston,1 - Quintile 1 Highest 20%,5.3,78.1,82.1,3.8,19.7,25
-E05010690,Skegby,1 - Quintile 1 Highest 20%,7,77.7,80.7,3.8,25.5,23.1
-E05010691,Stanton Hill & Teversal,1 - Quintile 1 Highest 20%,8.5,79.7,81.5,6.2,30.3,23.8
-E05010692,Greenwood & Summit,2 - Quintile 2,8.5,74.6,80.2,6.4,40.9,30.2
-E05010693,Sutton Junction & Harlow Wood,1 - Quintile 1 Highest 20%,5.4,85,90.3,2.4,14.9,22.2
-E05010694,The Dales,1 - Quintile 1 Highest 20%,4.2,78.1,79.4,3.5,18,N/A - not available
-E05010695,Underwood,1 - Quintile 1 Highest 20%,7.4,82.1,86.6,2.2,13.2,20
-E05010784,Abbey,1 - Quintile 1 Highest 20%,7.8,75.3,81,7.3,34.2,25.4
-E05010785,Birchwood,1 - Quintile 1 Highest 20%,6.9,77.2,78.7,6.6,33.2,26.5
-E05010786,Boultham,1 - Quintile 1 Highest 20%,3.9,78.1,82.5,2.2,16.2,19.4
-E05010787,Carholme,1 - Quintile 1 Highest 20%,5.6,75.1,78.3,3.3,17,20
-E05010788,Castle,1 - Quintile 1 Highest 20%,6.2,75.4,82.7,7.2,31.5,21.3
-E05010789,Glebe,1 - Quintile 1 Highest 20%,8,73.9,79.3,6.2,32.4,27.4
-E05010790,Hartsholme,1 - Quintile 1 Highest 20%,7.8,81.2,83.7,4.3,18.6,25
-E05010791,Minster,1 - Quintile 1 Highest 20%,6.5,78.1,82.5,5.9,29.4,30
-E05010792,Moorland,1 - Quintile 1 Highest 20%,8.4,78.1,81.5,6.7,36,26.9
-E05010793,Park,1 - Quintile 1 Highest 20%,7.4,72.2,76.3,7.5,33.7,26.7
-E05010794,Witham,1 - Quintile 1 Highest 20%,8.2,79.8,83.4,3.4,15.9,22.4
-E05011552,Balderton North & Coddington,1 - Quintile 1 Highest 20%,7.3,81.5,81.4,3,14.1,22.9
-E05011553,Beacon,2 - Quintile 2,6.3,78.6,81.8,4.2,14.1,21.9
-E05011554,Castle,3 - Quintile 3,6.4,78.6,82,7.6,29.5,35.3
-E05011555,Farndon & Fernwood,3 - Quintile 3,7.9,79.4,84.6,2.5,10.9,15.6
-E05011964,Billesdon & Tilton,3 - Quintile 3,5.3,81.5,88.2,2.8,12.6,16.7
-E05011965,Bosworth,2 - Quintile 2,5,82.7,82.2,1.8,10.6,20
-E05011966,Broughton Astley-Primethorpe & Sutton,3 - Quintile 3,3.3,80.6,83.3,2.3,7,19.2
-E05011967,Broughton Astley South & Leire,3 - Quintile 3,4.2,83.3,86.8,1.5,2.6,23.3
-E05011968,Dunton,3 - Quintile 3,3.5,84.7,89.9,1.7,9.4,25
-E05011969,Fleckney,2 - Quintile 2,6.2,81.9,82.8,2.7,5.9,21.2
-E05011970,Glen,3 - Quintile 3,4.2,83,89.5,2.4,5.8,12
-E05011971,Kibworths,3 - Quintile 3,2.5,79.7,85.4,2.3,7.1,15.8
-E05011972,Lubenham,3 - Quintile 3,6.5,81.5,90.5,2.2,19.4,23.1
-E05011973,Lutterworth East,3 - Quintile 3,3.7,79.3,86.2,3.4,10,20
-E05011974,Lutterworth West,3 - Quintile 3,7.7,83.1,80.9,2.5,6.9,21.9
-E05011975,Market Harborough-Great Bowden & Arden,3 - Quintile 3,6,82.4,88,2.3,9.3,26.7
-E05011976,Market Harborough-Little Bowden,3 - Quintile 3,4.4,80,82.5,1.5,3.8,15.8
-E05011977,Market Harborough-Logan,3 - Quintile 3,7.5,80.5,83.8,1.7,6.3,17.9
-E05011978,Market Harborough-Welland,2 - Quintile 2,8.4,79.8,83,2.9,10.6,15.5
-E05011979,Misterton,3 - Quintile 3,6.4,78.6,84.1,1.6,11.2,10.5
-E05011980,Nevill,5 - Quintile 5 Lowest 20%,N/A - not available,82.9,84.7,1.7,8.6,25
-E05011981,Thurnby & Houghton,5 - Quintile 5 Lowest 20%,7.6,84.1,86.8,2.8,7,17
-E05011982,Ullesthorpe,4 - Quintile 4,N/A - not available,81.9,85,2.6,6.8,21.4
-E05011983,Ault Hucknall,4 - Quintile 4,5,80,82.9,3.4,23.6,26.3
-E05011984,Barlborough,4 - Quintile 4,6.1,83.3,84.8,2.7,9.1,21.7
-E05011985,Blackwell,5 - Quintile 5 Lowest 20%,7.9,77.5,80.2,3.2,20,14.3
-E05011986,Bolsover East,5 - Quintile 5 Lowest 20%,6.9,77.4,79.9,3.3,23.9,22.2
-E05011987,Bolsover North & Shuttlewood,5 - Quintile 5 Lowest 20%,11.7,75.7,82.9,4.5,34.7,22.2
-E05011988,Bolsover South,4 - Quintile 4,5.5,77.8,84,4.2,26.5,25
-E05011989,Clowne East,4 - Quintile 4,6,78,82.3,3.2,20.6,25.9
-E05011990,Clowne West,5 - Quintile 5 Lowest 20%,5.6,77.1,79.5,2.3,15.9,23.8
-E05011991,Elmton-with-Creswell,4 - Quintile 4,9.5,77.3,79.2,4.7,32.6,22
-E05011992,Langwith,5 - Quintile 5 Lowest 20%,6.2,77.1,79.6,4.5,39,23.7
-E05011993,Pinxton,5 - Quintile 5 Lowest 20%,8.6,78.3,81.3,5.5,29.3,31.8
-E05011994,Shirebrook North,5 - Quintile 5 Lowest 20%,6.9,74.8,81,3.3,30,16.1
-E05011995,Shirebrook South,4 - Quintile 4,5.6,75.7,81.4,4.1,28.6,23.3
-E05011996,South Normanton East,5 - Quintile 5 Lowest 20%,5.9,78.5,83.5,4.1,22.5,25
-E05011997,South Normanton West,5 - Quintile 5 Lowest 20%,9.1,82.1,85.3,2.8,16.8,25.7
-E05011998,Tibshelf,4 - Quintile 4,11.3,77.6,84.7,3.1,19.8,26.7
-E05011999,Whitwell,5 - Quintile 5 Lowest 20%,3.7,77.9,84,3,23.8,30
-E05012040,Ashover,5 - Quintile 5 Lowest 20%,N/A - not available,N/A - not available,N/A - not available,1.5,12.5,N/A - not available
-E05012041,Barlow & Holmesfield,4 - Quintile 4,N/A - not available,N/A - not available,86,2.4,13.1,N/A - not available
-E05012042,Brampton & Walton,4 - Quintile 4,N/A - not available,82.2,83.1,1.9,10.5,18.2
-E05012043,Clay Cross North,5 - Quintile 5 Lowest 20%,7.3,78.5,80.7,4.3,26.3,27.8
-E05012044,Clay Cross South,4 - Quintile 4,8.7,76.6,81.2,4.8,31,34.5
-E05012045,Coal Aston,4 - Quintile 4,6.2,79,88,1.9,6.9,14.3
-E05012046,Dronfield North,4 - Quintile 4,7.3,77.4,80.9,3.9,16.5,26.1
-E05012047,Dronfield South,4 - Quintile 4,7.5,83.2,85,2.1,7.6,13.9
-E05012048,Dronfield Woodhouse,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,1.4,N/A - not available,15.4
-E05012049,Eckington North,4 - Quintile 4,5.7,79.7,81.6,3.7,12,27.3
-E05012050,Eckington South & Renishaw,4 - Quintile 4,4.9,81.3,81.1,4.1,19.7,22
-E05012051,Gosforth Valley,4 - Quintile 4,6,83.2,88.8,1.4,5.3,11.1
-E05012052,Grassmoor,4 - Quintile 4,6.9,78.8,81.9,4.8,30.3,23.5
-E05012053,Holmewood & Heath,3 - Quintile 3,8.7,74.3,79.5,4.4,35,28.6
-E05012054,Killamarsh East,4 - Quintile 4,8,78.1,78.4,3.7,15.5,27.3
-E05012055,Killamarsh West,3 - Quintile 3,4.7,81.3,86.4,2.8,13,25.7
-E05012056,North Wingfield Central,3 - Quintile 3,7.3,78.7,81.9,3.8,28.9,25
-E05012057,Pilsley & Morton,2 - Quintile 2,4.7,77.5,83.3,2.8,15,33.3
-E05012058,Ridgeway & Marsh Lane,2 - Quintile 2,N/A - not available,N/A - not available,N/A - not available,3.2,16.9,N/A - not available
-E05012059,Shirland,4 - Quintile 4,6.8,80.3,83,4,23.4,23.3
-E05012060,Sutton,3 - Quintile 3,4,80.6,82.5,2.9,20.7,20
-E05012061,Tupton,4 - Quintile 4,7.3,77.6,82.9,2.9,20.8,20
-E05012062,Unstone,4 - Quintile 4,8,N/A - not available,N/A - not available,4.5,21.2,N/A - not available
-E05012063,Wingerworth,4 - Quintile 4,5.5,82.8,87.5,1.7,4.5,15.8
-E05012270,Aspley,3 - Quintile 3,8.2,75.8,79.6,9.9,54.7,25.9
-E05012271,Basford,3 - Quintile 3,6.3,76.7,81.8,7.4,34.6,24.6
-E05012272,Berridge,1 - Quintile 1 Highest 20%,7.8,76.3,79.9,9.5,32.5,22.9
-E05012273,Bestwood,3 - Quintile 3,7.9,75.7,80.3,9.3,43.3,27.7
-E05012274,Bilborough,2 - Quintile 2,7.6,74.3,77.7,7.5,48.7,27.8
-E05012275,Bulwell,4 - Quintile 4,7.8,73.8,78.4,10.6,52.9,26.9
-E05012276,Bulwell Forest,3 - Quintile 3,7,78,82.8,6,28.1,21.3
-E05012277,Castle,1 - Quintile 1 Highest 20%,7.9,77.5,89.8,2.1,18.4,30
-E05012278,Clifton East,3 - Quintile 3,7.5,77.2,80.9,7.2,36.9,25.2
-E05012279,Clifton West,5 - Quintile 5 Lowest 20%,6.7,80.7,84.1,3.1,24.6,22.4
-E05012280,Dales,2 - Quintile 2,9.2,78.2,81.6,9.1,38.1,26.2
-E05012281,Hyson Green & Arboretum,1 - Quintile 1 Highest 20%,8.5,73.7,78.9,7.5,39.1,24.2
-E05012282,Leen Valley,3 - Quintile 3,8.6,78.8,81.2,6.4,24.3,20.8
-E05012283,Lenton & Wollaton East,2 - Quintile 2,7.1,76.9,81.8,2.2,21,27.3
-E05012284,Mapperley,2 - Quintile 2,7.7,77.1,80.6,6.9,31.6,27.5
-E05012285,Meadows,2 - Quintile 2,6.6,75.4,80,7.4,36,26.6
-E05012286,Radford,1 - Quintile 1 Highest 20%,5.7,75.3,82.3,4.7,30.4,18.9
-E05012287,St. Ann's,3 - Quintile 3,8,75.4,79.2,6.4,43.1,27.6
-E05012288,Sherwood,2 - Quintile 2,6.9,76.9,82,6.5,28.1,23.5
-E05012289,Wollaton West,3 - Quintile 3,7.9,82.5,86.9,2.9,10.8,15
-E05012632,Barleythorpe,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,2.4,N/A - not available,18.2
-E05012633,Braunston & Martinsthorpe,4 - Quintile 4,N/A - not available,84.8,85.5,1.2,13.6,N/A - not available
-E05012634,Cottesmore,4 - Quintile 4,4.9,80.2,86.1,1.5,6.8,29.2
-E05012635,Exton,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,3,12.9,N/A - not available
-E05012636,Greetham,4 - Quintile 4,5.8,83.7,N/A - not available,1.9,20.1,N/A - not available
-E05012637,Ketton,4 - Quintile 4,11.4,82.8,84.6,1.8,9.8,16.7
-E05012638,Langham,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,2.5,3.8,N/A - not available
-E05012639,Lyddington,4 - Quintile 4,12.1,N/A - not available,N/A - not available,3.3,12,N/A - not available
-E05012640,Normanton,5 - Quintile 5 Lowest 20%,6.1,86.4,88,1.2,4.1,18.8
-E05012641,Oakham North East,5 - Quintile 5 Lowest 20%,10,81.3,88.3,2.5,7.1,28.6
-E05012642,Oakham North West,4 - Quintile 4,3.4,78.5,81,3.7,11.7,20.8
-E05012643,Oakham South,3 - Quintile 3,5,82,88.8,2.5,4.8,23.5
-E05012644,Ryhall & Casterton,4 - Quintile 4,3.7,84.1,89,2.5,7.9,27.8
-E05012645,Uppingham,4 - Quintile 4,3.7,83.6,84.7,2.7,7.3,20
-E05012646,Whissendine,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,2.6,5.8,N/A - not available
-E05013213,Brickhill and Queensway,5 - Quintile 5 Lowest 20%,7.6,77.8,81.1,N/A - not available,33.9,24.3
-E05013214,Burton and Broughton,5 - Quintile 5 Lowest 20%,7.4,80.6,84.1,N/A - not available,15.6,21.4
-E05013215,Clover Hill,5 - Quintile 5 Lowest 20%,8.3,80.4,81.1,N/A - not available,19.2,25
-E05013216,Corby Rural,5 - Quintile 5 Lowest 20%,5.7,80.4,83,N/A - not available,15.2,21.6
-E05013217,Corby West,5 - Quintile 5 Lowest 20%,9,77.1,80.6,N/A - not available,25.5,28.4
-E05013218,Croyland and Swanspool,5 - Quintile 5 Lowest 20%,8.5,76.1,79.5,N/A - not available,29.3,25
-E05013219,Desborough,5 - Quintile 5 Lowest 20%,6.8,78.9,82.9,N/A - not available,12.8,22.6
-E05013220,Earls Barton,5 - Quintile 5 Lowest 20%,5.6,81.4,83.7,N/A - not available,10.7,21.4
-E05013221,Finedon,5 - Quintile 5 Lowest 20%,6.7,79,82.8,N/A - not available,23.5,24.7
-E05013222,Hatton Park,5 - Quintile 5 Lowest 20%,7.1,80.3,84.5,N/A - not available,17.8,21.3
-E05013223,Higham Ferrers,5 - Quintile 5 Lowest 20%,6.8,80.2,83.6,N/A - not available,11.6,16.7
-E05013224,Irchester,5 - Quintile 5 Lowest 20%,5.2,80,83.5,N/A - not available,12.6,20.4
-E05013225,Irthlingborough,5 - Quintile 5 Lowest 20%,6.4,79.5,81.1,N/A - not available,17.3,20.3
-E05013226,Ise,5 - Quintile 5 Lowest 20%,8,80.9,84.7,N/A - not available,9,20.8
-E05013227,Kingswood,5 - Quintile 5 Lowest 20%,9.2,74.5,79.9,N/A - not available,41.1,22.9
-E05013228,Lloyds,5 - Quintile 5 Lowest 20%,6.8,75.2,79.3,N/A - not available,25.9,25.9
-E05013229,Northall,5 - Quintile 5 Lowest 20%,6.8,77.3,80.7,N/A - not available,24.7,21.1
-E05013230,Oakley,5 - Quintile 5 Lowest 20%,5.7,81.5,83,N/A - not available,15.4,21.6
-E05013231,Oundle,5 - Quintile 5 Lowest 20%,6.2,83.3,85.8,N/A - not available,10.1,20
-E05013232,Raunds,2 - Quintile 2,7.5,81,82.4,N/A - not available,12.1,22.2
-E05013233,Rothwell and Mawsley,2 - Quintile 2,6.5,80.6,83.9,N/A - not available,15.6,23.4
-E05013234,Rushden Pemberton West,4 - Quintile 4,9,79.5,82.2,N/A - not available,17.2,25
-E05013235,Rushden South,4 - Quintile 4,8.5,78.6,82.9,N/A - not available,18.1,23.7
-E05013236,Thrapston,2 - Quintile 2,5.3,81.1,85.2,N/A - not available,10.4,20.3
-E05013237,Wicksteed,2 - Quintile 2,9.1,78.9,82.4,N/A - not available,21.2,22.4
-E05013238,Windmill,3 - Quintile 3,8.1,78.7,81.7,N/A - not available,34.8,29.6
-E05013239,Abington and Phippsville,4 - Quintile 4,6.3,76.3,80.9,N/A - not available,19.3,15.4
-E05013240,Billing and Rectory Farm,3 - Quintile 3,8.4,77.7,79.7,N/A - not available,32.5,20.8
-E05013241,Boothville and Parklands,3 - Quintile 3,7.5,79.6,82.2,N/A - not available,14.9,22.7
-E05013242,Brackley,3 - Quintile 3,3.3,81.1,84.6,N/A - not available,6.1,19
-E05013243,Braunston and Crick,3 - Quintile 3,3.6,81.4,84.4,N/A - not available,11.6,16.9
-E05013244,Brixworth,2 - Quintile 2,4.5,81.2,84.9,N/A - not available,9.1,18.2
-E05013245,Bugbrooke,3 - Quintile 3,5.7,81.7,82.1,N/A - not available,8.6,17.2
-E05013246,Castle,3 - Quintile 3,6.1,73.6,78.4,N/A - not available,33,21.8
-E05013247,Dallington Spencer,2 - Quintile 2,8.6,74.6,79.1,N/A - not available,39.9,22.5
-E05013248,Daventry East,3 - Quintile 3,7,79,80.5,N/A - not available,24.6,25.5
-E05013249,Daventry West,3 - Quintile 3,6.4,78.9,85,N/A - not available,18,20.3
-E05013250,Deanshanger,2 - Quintile 2,5.3,81.8,85,N/A - not available,6.6,20.8
-E05013251,Delapre and Rushmere,3 - Quintile 3,7.1,76.2,79.8,N/A - not available,23.8,21.9
-E05013252,Duston East,3 - Quintile 3,6.9,78.7,84.8,N/A - not available,16.8,16.7
-E05013253,Duston West and St. Crispin,2 - Quintile 2,6.1,81,86,N/A - not available,12.6,16.1
-E05013254,East Hunsbury and Shelfleys,3 - Quintile 3,6.3,83,86.8,N/A - not available,8.3,19.6
-E05013255,Hackleton and Grange Park,2 - Quintile 2,6.8,81.5,85.1,N/A - not available,6.6,15.8
-E05013256,Headlands,2 - Quintile 2,7.5,79.2,81.2,N/A - not available,25.5,20.8
-E05013257,Kingsthorpe North,2 - Quintile 2,7.9,80.5,83.5,N/A - not available,14.5,20
-E05013258,Kingsthorpe South,2 - Quintile 2,6.6,76.5,80.8,N/A - not available,26.6,21.9
-E05013259,Long Buckby,3 - Quintile 3,5.8,82,87.9,N/A - not available,9.9,19.6
-E05013260,Middleton Cheney,3 - Quintile 3,6,82.1,84.9,N/A - not available,7.9,21.4
-E05013261,Moulton,2 - Quintile 2,6.7,82.3,82.1,N/A - not available,8.5,13.3
-E05013262,Nene Valley,4 - Quintile 4,7.8,81,83.9,N/A - not available,6.8,15.7
-E05013263,Riverside Park,4 - Quintile 4,4.9,79.2,84,N/A - not available,17.5,19.3
-E05013264,St. George,4 - Quintile 4,6.5,76.5,80.4,N/A - not available,29.6,25.5
-E05013265,Silverstone,4 - Quintile 4,3.3,83,85.5,N/A - not available,9.1,20.4
-E05013266,Sixfields,3 - Quintile 3,6.8,79.6,82.8,N/A - not available,23.3,21.7
-E05013267,Talavera,1 - Quintile 1 Highest 20%,8.9,77.3,80.9,N/A - not available,36.7,24.2
-E05013268,Towcester and Roade,1 - Quintile 1 Highest 20%,4.3,81.4,84,N/A - not available,8.8,22.1
-E05013269,Woodford and Weedon,1 - Quintile 1 Highest 20%,5.1,81.4,84.3,N/A - not available,12.3,17
+﻿code,label,obesity_nq5,low_birth_wgt,male_exp,fem_exp,unemploy,deprivation,obesity_prevalence,pop
+E05001767,Abbey,5 - Quintile 5 Lowest 20%,9.2,74.9,78.9,7.6,30.8,26.1,15490
+E05001768,Allestree,2 - Quintile 2,4.8,83.8,88,1.6,5,18.3,13233
+E05001769,Alvaston,3 - Quintile 3,8.6,75.7,80.5,6.4,34.2,26.3,16902
+E05001770,Arboretum,4 - Quintile 4,10.1,72.6,77.2,13.3,50.8,20.5,22250
+E05001771,Blagreaves,3 - Quintile 3,9,80.2,84.2,3.7,15.4,20,12812
+E05001772,Boulton,3 - Quintile 3,7.4,76.9,81.1,5.6,31.2,26.1,13631
+E05001773,Chaddesden,3 - Quintile 3,6.7,79.9,83.9,4.6,24,23.5,12963
+E05001774,Chellaston,3 - Quintile 3,6.7,78.4,81.9,3.2,14.6,22.1,15509
+E05001775,Darley,5 - Quintile 5 Lowest 20%,6.9,77.5,79.5,4.2,21.1,24.6,15570
+E05001776,Derwent,3 - Quintile 3,7.8,77.3,79.3,6.2,38.1,24.5,13949
+E05001777,Littleover,3 - Quintile 3,9.2,81.9,85.1,2.7,10.3,16.3,15015
+E05001778,Mackworth,5 - Quintile 5 Lowest 20%,7,75.9,82.9,5.8,29.6,21.4,15029
+E05001779,Mickleover,2 - Quintile 2,7.2,80.8,84.7,2.3,6.9,18.5,13808
+E05001780,Normanton,4 - Quintile 4,11.6,74.8,79.1,12.8,42.8,21.2,19745
+E05001781,Oakwood,3 - Quintile 3,6.6,81.9,85.8,2.7,11.1,23.5,12608
+E05001782,Sinfin,4 - Quintile 4,9,77.9,80.1,8.2,43.8,28.3,16173
+E05001783,Spondon,2 - Quintile 2,6.9,77.9,81.9,3.3,17.3,24.6,12127
+E05003280,Alfreton,1 - Quintile 1 Highest 20%,5.2,76,80.1,4.9,29.3,19.6,8701
+E05003281,Alport,1 - Quintile 1 Highest 20%,10,85.6,84.2,1.6,11.3,20,2691
+E05003282,Belper Central,1 - Quintile 1 Highest 20%,7.1,79.9,82.1,3,13.6,15.8,5554
+E05003283,Belper East,2 - Quintile 2,9.2,81.4,86.1,1.6,8.6,13,6083
+E05003284,Belper North,1 - Quintile 1 Highest 20%,9.3,81.8,83.9,1.6,9.5,21.4,4802
+E05003286,Codnor and Waingroves,1 - Quintile 1 Highest 20%,7.8,79.6,81.3,3.3,17.5,17.6,5080
+E05003287,Crich,1 - Quintile 1 Highest 20%,7.3,80.8,85.8,2.1,11.6,16.7,2677
+E05003289,Heage and Ambergate,1 - Quintile 1 Highest 20%,4.8,81.7,84.2,2.3,13.3,17.6,5086
+E05003290,Heanor and Loscoe,1 - Quintile 1 Highest 20%,9,78.6,84.9,3.1,19.6,31.8,5373
+E05003292,Heanor West,2 - Quintile 2,6,75.6,80.9,4,24.1,27.3,6358
+E05003293,Ironville and Riddings,1 - Quintile 1 Highest 20%,6.5,79.9,84.8,4.8,25.3,23.3,6451
+E05003295,Langley Mill and Aldercar,2 - Quintile 2,5.2,77.6,80,5,32.5,25,5883
+E05003296,Ripley,1 - Quintile 1 Highest 20%,7.5,78.2,82.2,4.3,20.5,23.1,9356
+E05003297,Ripley and Marehay,1 - Quintile 1 Highest 20%,4.6,78.4,81.1,3,21,22.7,5739
+E05003299,Somercotes,2 - Quintile 2,7.2,77.2,81,5.7,32.7,23.7,6514
+E05003300,South West Parishes,1 - Quintile 1 Highest 20%,8,85,84.4,1.9,11.2,17.6,3624
+E05003301,Swanwick,1 - Quintile 1 Highest 20%,7.6,81.8,85.1,2.1,10.1,17.4,5131
+E05003302,Wingfield,1 - Quintile 1 Highest 20%,6.1,80.3,82.3,2.4,15,30,2268
+E05003323,Barrow Hill and New Whittington,1 - Quintile 1 Highest 20%,10.5,80.5,82.6,4,26.3,31,5771
+E05003324,Brimington North,1 - Quintile 1 Highest 20%,10.3,79.6,84.8,4,27.2,25.8,4224
+E05003325,Brimington South,1 - Quintile 1 Highest 20%,8.1,78.8,80.1,3,19.5,19.4,5953
+E05003326,Brockwell,1 - Quintile 1 Highest 20%,5,79.4,84,3.9,13.7,21.6,6782
+E05003327,Dunston,1 - Quintile 1 Highest 20%,7.9,77.3,81.9,6.1,32.7,30,6417
+E05003328,Hasland,1 - Quintile 1 Highest 20%,6,79.2,82.2,3.3,17.4,20.6,6472
+E05003329,Hollingwood and Inkersall,1 - Quintile 1 Highest 20%,7.1,78.4,81.6,2.9,22.9,25.5,7718
+E05003330,Holmebrook,1 - Quintile 1 Highest 20%,9.1,77.6,80.6,5,30.3,25,4252
+E05003331,Linacre,1 - Quintile 1 Highest 20%,2.7,81.7,89.5,1.8,10.6,15,3965
+E05003332,Loundsley Green,1 - Quintile 1 Highest 20%,8.4,73.3,80.4,6.2,38.8,23.8,3823
+E05003333,Lowgates and Woodthorpe,1 - Quintile 1 Highest 20%,5,76.7,80.3,4.5,37.6,29,4596
+E05003334,Middlecroft and Poolsbrook,1 - Quintile 1 Highest 20%,4.1,74.7,77.9,6.1,43.2,23.1,5135
+E05003335,Moor,1 - Quintile 1 Highest 20%,7.7,77,81.9,5.2,31.1,20.8,4303
+E05003336,Old Whittington,1 - Quintile 1 Highest 20%,9,76.8,78.5,5.9,27.5,21.7,4306
+E05003337,Rother,1 - Quintile 1 Highest 20%,9.5,75.1,82.4,7.7,44.7,20,6562
+E05003338,St Helen's,1 - Quintile 1 Highest 20%,3.9,74.3,79.9,6.1,35.4,27.6,4812
+E05003339,St Leonard's,1 - Quintile 1 Highest 20%,7.5,78,79.3,3.7,19.2,25.5,8362
+E05003340,Walton,1 - Quintile 1 Highest 20%,8.7,81.4,86.2,1.9,6.5,14.3,5213
+E05003341,West,1 - Quintile 1 Highest 20%,4.7,81.9,86,1.9,5.2,17.2,6264
+E05003342,Ashbourne North,5 - Quintile 5 Lowest 20%,3.6,79.2,85.5,2.9,11.9,16.7,3888
+E05003343,Ashbourne South,5 - Quintile 5 Lowest 20%,5.7,80.4,85,2.7,10.8,22.2,5571
+E05003344,Bakewell,4 - Quintile 4,4.3,79.3,82.9,2,9.7,18.8,4407
+E05003345,Bradwell,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.1,8.3,N/A - not available,1801
+E05003346,Brailsford,4 - Quintile 4,6.6,N/A - not available,N/A - not available,1.9,9.5,N/A - not available,1829
+E05003347,Calver,4 - Quintile 4,6.4,N/A - not available,N/A - not available,1.6,4.4,N/A - not available,1705
+E05003348,Carsington Water,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.4,19.3,N/A - not available,1826
+E05003349,Chatsworth,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.2,4.3,N/A - not available,1650
+E05003350,Clifton and Bradley,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.6,12.6,N/A - not available,1815
+E05003351,Darley Dale,4 - Quintile 4,4.4,80.7,85.6,2.1,10.7,21.4,5854
+E05003352,Dovedale and Parwich,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.7,19.4,N/A - not available,1612
+E05003353,Doveridge and Sudbury,4 - Quintile 4,8.2,84.2,88.6,2.5,13,N/A - not available,2789
+E05003354,Hartington and Taddington,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.3,18.5,N/A - not available,1683
+E05003355,Hathersage and Eyam,4 - Quintile 4,3,85.1,84.8,1.4,5.9,21.4,3807
+E05003356,Hulland,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.5,9.5,N/A - not available,1776
+E05003357,Lathkill and Bradford,4 - Quintile 4,6.1,N/A - not available,N/A - not available,1.7,14,N/A - not available,1560
+E05003358,Litton and Longstone,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,2.4,7.7,N/A - not available,1470
+E05003359,Masson,4 - Quintile 4,3,79.3,83,2.5,15.4,36.4,2990
+E05003360,Matlock All Saints,4 - Quintile 4,6.3,80.7,89.1,2.7,10.6,20.7,5598
+E05003361,Matlock St Giles,4 - Quintile 4,10.1,78.4,83.5,3.7,20.6,22.9,5643
+E05003362,Norbury,4 - Quintile 4,10,N/A - not available,N/A - not available,1.1,17.3,N/A - not available,1744
+E05003363,Stanton,4 - Quintile 4,6,N/A - not available,N/A - not available,1.8,11.1,N/A - not available,1817
+E05003364,Tideswell,4 - Quintile 4,4.8,N/A - not available,N/A - not available,2.4,7.6,N/A - not available,1725
+E05003365,Winster and South Darley,4 - Quintile 4,9.7,N/A - not available,N/A - not available,1.5,7.9,N/A - not available,1724
+E05003366,Wirksworth,4 - Quintile 4,6.7,80.2,85,2.2,12.6,23.3,6138
+E05005408,Blaby South,2 - Quintile 2,5.7,80.1,86.6,3,13.2,24.3,5184
+E05005409,Cosby with South Whetstone,4 - Quintile 4,3.8,82.9,87.8,1.8,6.6,14,5500
+E05005410,Countesthorpe,2 - Quintile 2,4.6,81.1,86.1,2.4,7,18.9,7759
+E05005411,Croft Hill,5 - Quintile 5 Lowest 20%,N/A - not available,83.6,85.4,2.8,11.3,18.8,2406
+E05005412,Ellis,4 - Quintile 4,4.4,81.5,86.7,2.6,9.7,20.6,5876
+E05005413,Enderby and St John's,3 - Quintile 3,5.9,78.9,85.2,3.7,15.9,21.7,5830
+E05005414,Fairestone,3 - Quintile 3,7.2,80.2,87.5,2.8,14.3,18.5,4797
+E05005416,Millfield,3 - Quintile 3,N/A - not available,80.9,88.4,3.4,10.8,23.1,2890
+E05005417,Muxloe,5 - Quintile 5 Lowest 20%,4.9,82.6,86.2,2,6.8,15,4280
+E05005418,Narborough and Littlethorpe,5 - Quintile 5 Lowest 20%,3.7,79.6,86.2,2.7,7.6,20.6,5268
+E05005419,Normanton,5 - Quintile 5 Lowest 20%,5.6,81.1,84.3,2.9,10.6,26.3,2962
+E05005420,North Whetstone,5 - Quintile 5 Lowest 20%,5.4,80.1,84.2,2.1,11.3,20.6,5476
+E05005421,Pastures,5 - Quintile 5 Lowest 20%,6.1,82.2,84.9,1.4,4.5,15.2,4933
+E05005422,Ravenhurst and Fosse,5 - Quintile 5 Lowest 20%,5.4,81.4,84.8,4.4,16.8,23.9,7049
+E05005423,Saxondale,5 - Quintile 5 Lowest 20%,4.4,80.3,84.3,2.6,12.5,22,7454
+E05005424,Stanton and Flamville,5 - Quintile 5 Lowest 20%,5.5,81.7,82,3,9.5,21.7,8854
+E05005426,Anstey,5 - Quintile 5 Lowest 20%,5.5,82.3,86.6,2.6,11.2,24.4,7578
+E05005427,Barrow and Sileby West,5 - Quintile 5 Lowest 20%,3.3,82,84.8,3,8.4,20.5,7428
+E05005428,Birstall Wanlip,5 - Quintile 5 Lowest 20%,7.5,83.6,85.7,2.6,7.1,21.4,7686
+E05005429,Birstall Watermead,5 - Quintile 5 Lowest 20%,6.7,80.2,86.3,3.2,11.5,20,6663
+E05005430,East Goscote,5 - Quintile 5 Lowest 20%,5,79.7,82.5,2.2,8.8,12.5,2843
+E05005431,Forest Bradgate,5 - Quintile 5 Lowest 20%,7.4,85.1,86.7,1.2,8,21.4,3760
+E05005432,Loughborough Ashby,5 - Quintile 5 Lowest 20%,6.2,76.7,84.6,1.7,16.2,36,8289
+E05005433,Loughborough Dishley and Hathern,2 - Quintile 2,5.2,81.4,86.8,2.9,10.5,22.9,6653
+E05005434,Loughborough Garendon,1 - Quintile 1 Highest 20%,5.8,79.6,81.7,2,10.6,17.4,5692
+E05005435,Loughborough Hastings,1 - Quintile 1 Highest 20%,7.2,77.4,82.1,7.9,36.4,35.1,6862
+E05005436,Loughborough Lemyngton,1 - Quintile 1 Highest 20%,6.6,74.5,78.9,4.9,24.7,24.4,7753
+E05005437,Loughborough Nanpantan,2 - Quintile 2,5.8,82.3,87.7,0.8,3.1,21.7,5674
+E05005438,Loughborough Outwoods,1 - Quintile 1 Highest 20%,N/A - not available,82.1,88.7,1.5,4.3,22.2,5873
+E05005439,Loughborough Shelthorpe,1 - Quintile 1 Highest 20%,6.5,79.6,85,3.6,18.7,29.7,9552
+E05005440,Loughborough Southfields,3 - Quintile 3,8.6,77.5,83.3,2,14,22.2,8199
+E05005441,Loughborough Storer,3 - Quintile 3,8.1,74.2,79.9,2.6,21.5,27.3,6782
+E05005442,Mountsorrel,3 - Quintile 3,6.2,80.2,84.2,2.7,11.7,24.4,7229
+E05005443,Queniborough,2 - Quintile 2,6.9,80.7,87.6,2.5,9.9,19.2,4535
+E05005444,Quorn and Mountsorrel Castle,1 - Quintile 1 Highest 20%,3.7,82.4,86.3,2.3,8.3,11.4,7432
+E05005445,Rothley and Thurcaston,3 - Quintile 3,3.8,81.6,86.8,1.9,7.4,21.4,7833
+E05005446,Shepshed East,2 - Quintile 2,4.7,78,80.1,3,14.9,26.3,6709
+E05005447,Shepshed West,3 - Quintile 3,6.4,79.7,82.7,2.7,13.3,26.1,7595
+E05005448,Sileby,2 - Quintile 2,5.3,80.3,86.2,2.8,13.5,25,8617
+E05005449,Syston East,2 - Quintile 2,3.5,80.6,83.4,3,15.9,23.3,7529
+E05005450,Syston West,3 - Quintile 3,8.7,78.9,80.9,3.2,13.1,27.6,6781
+E05005451,The Wolds,3 - Quintile 3,4.7,84.9,85.2,1.4,5.5,10.5,3285
+E05005452,Thurmaston,1 - Quintile 1 Highest 20%,6.9,79.1,81.4,3.7,16.3,18.8,10326
+E05005453,Wreake Villages,1 - Quintile 1 Highest 20%,N/A - not available,81.6,85.1,1.4,6.1,15.4,3258
+E05005479,Ambien,2 - Quintile 2,6,83.2,85.7,1.9,11.2,23.1,3804
+E05005480,"Barlestone, Nailstone and Osbaston",2 - Quintile 2,5.6,80.8,89.3,3.1,10.3,12.5,3330
+E05005481,Barwell,5 - Quintile 5 Lowest 20%,4.4,78.8,81.2,4.1,18.9,20,9243
+E05005482,Burbage St Catherines and Lash Hill,4 - Quintile 4,9.2,80.5,83.8,4.2,19.1,25.8,5853
+E05005483,Burbage Sketchley and Stretton,5 - Quintile 5 Lowest 20%,6.4,84.6,86.3,2.1,5.4,18.8,10005
+E05005484,"Cadeby, Carlton and Market Bosworth with Shackerstone",4 - Quintile 4,4.7,79.9,85.2,2.6,7.2,15.8,3842
+E05005485,Earl Shilton,5 - Quintile 5 Lowest 20%,6.7,80.3,83.2,4.5,18.5,17.9,10942
+E05005486,Groby,4 - Quintile 4,3.9,82.7,90.8,2,6.1,17.9,6874
+E05005487,Hinckley Castle,4 - Quintile 4,6.7,79,82.3,5.3,20.6,17.9,6703
+E05005488,Hinckley Clarendon,4 - Quintile 4,5.8,80.9,83.9,3.5,14.5,15.4,9663
+E05005489,Hinckley De Montfort,4 - Quintile 4,5.2,80.4,83.5,3.3,12.5,23.4,10443
+E05005490,Hinckley Trinity,4 - Quintile 4,7.1,77.3,81.6,4,18.9,19.6,7186
+E05005491,"Markfield, Stanton and Fieldhead",4 - Quintile 4,1.9,81.7,85.3,2.5,9,16.1,6044
+E05005492,Newbold Verdon with Desford and Peckleton,4 - Quintile 4,6.2,80.6,82.7,2.4,11.2,17.3,8765
+E05005493,"Ratby, Bagworth and Thornton",4 - Quintile 4,4.4,81.9,83,2.5,12.5,21.6,7801
+E05005494,Twycross and Witherley with Sheepy,5 - Quintile 5 Lowest 20%,3.4,82.1,86.2,1.5,12.4,N/A - not available,3168
+E05005495,Asfordby,5 - Quintile 5 Lowest 20%,7.7,83.1,83,3.7,12.3,28,3406
+E05005496,Bottesford,5 - Quintile 5 Lowest 20%,6.8,81.8,87.1,1.6,5,18.8,3543
+E05005497,Croxton Kerrial,5 - Quintile 5 Lowest 20%,8.9,N/A - not available,N/A - not available,2.8,21.3,N/A - not available,1813
+E05005498,Frisby-on-the-Wreake,5 - Quintile 5 Lowest 20%,N/A - not available,N/A - not available,N/A - not available,1.2,10.9,N/A - not available,1891
+E05005499,Gaddesby,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,1.4,13.3,N/A - not available,1745
+E05005500,Long Clawson and Stathern,4 - Quintile 4,5.3,80.1,86.2,1.6,7.3,21.7,4358
+E05005501,Melton Craven,3 - Quintile 3,3.4,84.4,82.5,4.8,15.9,21.1,3479
+E05005502,Melton Dorian,2 - Quintile 2,5.4,78.9,84.1,3.1,11.8,22.2,5512
+E05005503,Melton Egerton,2 - Quintile 2,4.8,76.9,81,5.6,19.4,23.3,4236
+E05005504,Melton Newport,1 - Quintile 1 Highest 20%,6.7,83.4,85.7,2.9,9.2,24.2,5416
+E05005505,Melton Sysonby,2 - Quintile 2,6.6,79.7,83.8,3.4,12.6,20,5421
+E05005506,Melton Warwick,5 - Quintile 5 Lowest 20%,4.1,79.8,82.6,4.1,16,25,3618
+E05005507,Old Dalby,3 - Quintile 3,6.2,N/A - not available,83.7,2,13.7,20,1993
+E05005508,Somerby,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,2.3,12.4,N/A - not available,1808
+E05005509,Waltham-on-the-Wolds,2 - Quintile 2,N/A - not available,N/A - not available,N/A - not available,2.5,9.7,N/A - not available,1661
+E05005510,Wymondham,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,3.2,15.9,N/A - not available,1494
+E05005531,Oadby Brocks Hill,3 - Quintile 3,5,79.8,84.6,2.8,6.6,14.8,4173
+E05005532,Oadby Grange,3 - Quintile 3,10.5,83.1,85.6,1.7,6.1,15.4,6126
+E05005533,Oadby St Peter's,3 - Quintile 3,7.9,77.9,86.7,3.9,17,18.5,4584
+E05005534,Oadby Uplands,3 - Quintile 3,5.7,82.1,87.1,3.2,7.2,13.8,4527
+E05005535,Oadby Woodlands,2 - Quintile 2,11.9,81.1,88.6,2.3,6.3,12.1,4928
+E05005536,South Wigston,4 - Quintile 4,4.8,76.9,82.4,5.1,22.3,18.5,8029
+E05005537,Wigston All Saints,4 - Quintile 4,3.6,78.3,81.8,3.9,15.4,21.2,5681
+E05005538,Wigston Fields,3 - Quintile 3,6.5,78.1,83.4,4.4,21.5,16.3,6720
+E05005539,Wigston Meadowcourt,3 - Quintile 3,3.7,85.3,93.3,3.1,9.9,16.7,6006
+E05005540,Wigston St Wolstan's,4 - Quintile 4,4.9,78.3,82.5,3.3,11.4,15.6,6539
+E05005618,Ashby de la Launde and Cranwell,3 - Quintile 3,4.6,81.9,85.1,1.5,10.7,17.6,6034
+E05005619,Bassingham and Brant Broughton,3 - Quintile 3,6.6,79.8,84.8,2,12.3,20.8,5191
+E05005620,"Billinghay, Martin and North Kyme",4 - Quintile 4,7.6,77.7,81.5,3.9,24,32.3,5286
+E05005621,Bracebridge Heath and Waddington East,5 - Quintile 5 Lowest 20%,6.4,80.9,84.7,2.1,6.9,15.3,10398
+E05005622,Branston,4 - Quintile 4,6.3,79.2,83.1,2.8,12.6,19.4,5299
+E05005623,Cliff Villages,4 - Quintile 4,6.8,80.6,85.5,1.9,7.3,16,5548
+E05005624,"Eagle, Swinderby and Witham St Hughs",4 - Quintile 4,4.3,80.7,85.4,2.1,9.6,26.3,7010
+E05005625,Heckington Rural,4 - Quintile 4,4.1,81.3,84.5,3.3,13.3,27.3,5649
+E05005626,Heighington and Washingborough,4 - Quintile 4,5.5,81.8,84.3,2.2,6.6,20.6,7210
+E05005627,Kirkby la Thorpe and South Kyme,4 - Quintile 4,N/A - not available,78.3,79.9,3,11.9,30,2490
+E05005628,Leasingham and Rauceby,3 - Quintile 3,N/A - not available,N/A - not available,85.7,1.7,7.8,N/A - not available,2050
+E05005629,Metheringham,3 - Quintile 3,2.8,80.1,82.5,3.1,11.6,21.9,5547
+E05005630,North Hykeham Forum,2 - Quintile 2,4.5,N/A - not available,87.2,2.7,7.2,N/A - not available,1916
+E05005631,North Hykeham Memorial,3 - Quintile 3,3.8,78.6,84.4,3,9.6,20.8,3477
+E05005632,North Hykeham Mill,4 - Quintile 4,4.2,80.5,83.5,2.6,10.6,23.1,6368
+E05005633,North Hykeham Moor,1 - Quintile 1 Highest 20%,N/A - not available,83.8,87,2.7,10.4,N/A - not available,2620
+E05005634,North Hykeham Witham,1 - Quintile 1 Highest 20%,N/A - not available,81.1,82.7,2.6,14.3,N/A - not available,2207
+E05005635,Osbournby,1 - Quintile 1 Highest 20%,7.1,82.8,86,2.8,19.4,20,2484
+E05005636,Ruskington,1 - Quintile 1 Highest 20%,9,80,84.9,3,13.3,25,5606
+E05005637,Skellingthorpe,1 - Quintile 1 Highest 20%,5.3,80,81.3,2.3,7.1,26.3,3480
+E05005638,Sleaford Castle,1 - Quintile 1 Highest 20%,9.5,80.4,86.5,3.9,17.3,27.3,2769
+E05005639,Sleaford Holdingham,1 - Quintile 1 Highest 20%,6.2,78.2,84.9,3.9,15.3,28.1,3673
+E05005640,Sleaford Navigation,1 - Quintile 1 Highest 20%,3.9,75.1,79.9,5.8,19.9,23.1,2557
+E05005641,Sleaford Quarrington and Mareham,1 - Quintile 1 Highest 20%,5.1,84.7,84.9,2,6.3,18.9,7791
+E05005642,Sleaford Westholme,1 - Quintile 1 Highest 20%,6.7,77.4,80.8,6.7,22,23.5,3014
+E05005643,Waddington West,2 - Quintile 2,4.3,82.8,83.8,1.9,9,25,2475
+E05005644,Crowland and Deeping St Nicholas,1 - Quintile 1 Highest 20%,7.3,82,82.6,3.4,16.7,22.9,6876
+E05005645,"Donington, Quadring and Gosberton",2 - Quintile 2,8,78.2,81.8,3.5,16.6,25.6,7235
+E05005646,Fleet,1 - Quintile 1 Highest 20%,4.8,75.1,79.4,4.3,22.5,N/A - not available,2298
+E05005647,Gedney,1 - Quintile 1 Highest 20%,N/A - not available,80,83.2,4.8,29.9,36.4,2391
+E05005648,Holbeach Hurn,1 - Quintile 1 Highest 20%,N/A - not available,80.2,81.7,3.9,27.6,27.3,2237
+E05005649,Holbeach Town,2 - Quintile 2,6.1,79.4,82.8,4.9,18.1,24,7790
+E05005650,Long Sutton,1 - Quintile 1 Highest 20%,7.2,78.1,83.6,4.6,20.6,29.5,7387
+E05005651,"Moulton, Weston and Cowbit",1 - Quintile 1 Highest 20%,5.6,81.4,83.8,3.3,16.3,26.2,6967
+E05005652,Pinchbeck and Surfleet,2 - Quintile 2,5.7,81.6,86.1,3.9,17.3,19.5,7473
+E05005653,Spalding Castle,1 - Quintile 1 Highest 20%,4.2,82.1,86.1,4.9,14.8,27.3,2691
+E05005654,Spalding Monks House,2 - Quintile 2,5,81.5,91.8,3.2,11.8,16.2,5846
+E05005655,Spalding St John's,2 - Quintile 2,4.3,76.4,81.5,4.7,13.5,22.5,7218
+E05005656,Spalding St Mary's,1 - Quintile 1 Highest 20%,6.5,77.3,84.4,5.1,15.6,24.1,4776
+E05005657,Spalding St Paul's,4 - Quintile 4,3.1,78.9,83.8,4.8,22.3,26.3,6248
+E05005658,Spalding Wygate,2 - Quintile 2,5.6,80.3,82.3,2.5,7.6,22.2,6718
+E05005659,Sutton Bridge,1 - Quintile 1 Highest 20%,5.1,76.8,83.1,5.5,26.5,27.6,4626
+E05005660,The Saints,2 - Quintile 2,5.3,83.3,85.4,3.4,23.4,16.7,2592
+E05005661,Whaplode and Holbeach St John's,1 - Quintile 1 Highest 20%,4.3,82.3,81.4,3,20.2,35.3,4488
+E05006377,Beckingham,1 - Quintile 1 Highest 20%,5.4,83.8,82,2.6,13.1,35.7,2486
+E05006378,Blyth,2 - Quintile 2,N/A - not available,81.9,82.1,2.6,11.8,N/A - not available,2254
+E05006379,Carlton,2 - Quintile 2,8.3,80.1,82.7,3.6,24.6,32.5,5611
+E05006380,Clayworth,1 - Quintile 1 Highest 20%,N/A - not available,N/A - not available,N/A - not available,3,12.9,N/A - not available,1891
+E05006381,East Markham,2 - Quintile 2,4.7,79,87.2,1.6,14.2,16.7,2672
+E05006382,East Retford East,1 - Quintile 1 Highest 20%,7.4,77,81.3,5.1,23.3,29.7,7169
+E05006383,East Retford North,2 - Quintile 2,5.9,78.2,82.3,3.3,19.9,31.2,6391
+E05006384,East Retford South,2 - Quintile 2,6.5,76.4,84.5,4.3,23.5,22.7,5044
+E05006385,East Retford West,2 - Quintile 2,5.5,77.8,82,5.1,20.3,22.9,5245
+E05006386,Everton,2 - Quintile 2,7.1,82.5,86.2,2.3,13,14.3,2643
+E05006387,Harworth,2 - Quintile 2,8.2,77.7,81.1,5.1,30.1,25.9,8683
+E05006388,Langold,2 - Quintile 2,5.7,79.7,80.6,4.7,33.2,21.4,2617
+E05006389,Misterton,1 - Quintile 1 Highest 20%,7.5,77.6,80.5,3.7,14.6,23.1,2469
+E05006390,Rampton,5 - Quintile 5 Lowest 20%,N/A - not available,77.5,83.1,2.2,33.6,N/A - not available,2273
+E05006391,Ranskill,5 - Quintile 5 Lowest 20%,4.3,79.3,84.2,3.5,15.8,28.6,2353
+E05006392,Sturton,5 - Quintile 5 Lowest 20%,N/A - not available,82.6,88.4,2.7,8.9,25,2370
+E05006393,Sutton,5 - Quintile 5 Lowest 20%,5.5,79.6,79.6,2.5,23.4,N/A - not available,2965
+E05006394,Tuxford and Trent,5 - Quintile 5 Lowest 20%,7,80.8,82.6,3.3,19.3,25,4489
+E05006395,Welbeck,5 - Quintile 5 Lowest 20%,4.4,N/A - not available,N/A - not available,2.4,29.8,N/A - not available,1982
+E05006396,Worksop East,5 - Quintile 5 Lowest 20%,7.5,79.6,84.5,4.2,25.2,29.5,6523
+E05006397,Worksop North,5 - Quintile 5 Lowest 20%,5.1,79.1,81.8,2.3,14.4,25.4,9476
+E05006398,Worksop North East,5 - Quintile 5 Lowest 20%,5.6,79.1,82,3.1,16.9,25.8,6161
+E05006399,Worksop North West,5 - Quintile 5 Lowest 20%,7.7,76.9,80.6,4.4,24.1,22,8412
+E05006400,Worksop South,5 - Quintile 5 Lowest 20%,5.9,81.7,84.2,3.8,15.6,22.6,7283
+E05006401,Worksop South East,5 - Quintile 5 Lowest 20%,7.6,74.1,77.6,6.8,46.5,29.9,8818
+E05008520,Belper South,5 - Quintile 5 Lowest 20%,9.3,80.2,84.2,2.8,15.3,22.7,5925
+E05008521,Duffield,4 - Quintile 4,8.3,83.9,84.1,1.4,4,19,5196
+E05008522,Heanor East,4 - Quintile 4,8.1,80.9,81.7,3.8,19.6,25.9,6148
+E05008523,"Kilburn, Denby and Holbrook",5 - Quintile 5 Lowest 20%,6.2,81.3,84.6,2.2,12.1,22.6,7634
+E05008524,"Shipley Park, Horsley and Horsley Woodhouse",4 - Quintile 4,7.3,81,84.3,1.7,13.6,23.8,6555
+E05008809,Aston,5 - Quintile 5 Lowest 20%,8.6,81.5,87,2.5,8.7,20.9,8893
+E05008810,Church Gresley,5 - Quintile 5 Lowest 20%,8,78.6,82.1,3.1,15.9,26.7,9192
+E05008811,Etwall,3 - Quintile 3,7.6,77.7,82.3,1.8,9.2,21.4,6507
+E05008812,Hatton,2 - Quintile 2,9.9,81.6,86.3,2.3,13.6,27.3,2730
+E05008813,Hilton,3 - Quintile 3,7.2,81.8,84.2,1.9,8.6,23.4,10590
+E05008814,Linton,3 - Quintile 3,8.5,79.9,82.7,2.6,16.3,25,5961
+E05008815,Melbourne,3 - Quintile 3,4.6,81.3,87.8,2.5,7.4,13,5575
+E05008816,Midway,2 - Quintile 2,8.9,80,84.9,3.6,19.3,24.3,8587
+E05008817,Newhall and Stanton,3 - Quintile 3,11,76.5,82.9,4.4,25.2,27.8,8502
+E05008818,Repton,2 - Quintile 2,6.4,78,84.2,1.2,7.8,27.3,6100
+E05008819,Seales,3 - Quintile 3,5.9,78.4,80.4,2.9,15.1,25,5723
+E05008820,Stenson,3 - Quintile 3,10.9,80.3,82.8,2.4,13.4,23.3,5465
+E05008821,Swadlincote,2 - Quintile 2,7.9,77.8,80.8,3.4,20.1,28.9,8609
+E05008822,Willington and Findern,2 - Quintile 2,6.1,83.9,86.8,2.4,8.2,24.1,6774
+E05008823,Woodville,4 - Quintile 4,7.3,77.2,80.1,3.7,17.9,26.5,10308
+E05008857,Abbott,2 - Quintile 2,8.5,77.7,81.5,4.2,30.1,N/A - not available,2321
+E05008858,Berry Hill,2 - Quintile 2,3.7,79.8,82.8,1.3,6.5,23.1,2583
+E05008859,Brick Kiln,4 - Quintile 4,6.7,80.4,82,4.5,27.7,15,3081
+E05008860,Broomhill,2 - Quintile 2,5.7,75.6,79.9,8,34,33.3,3537
+E05008861,Bull Farm and Pleasley Hill,3 - Quintile 3,7.7,77,78.7,5.4,35.6,26.9,3870
+E05008862,Carr Bank,3 - Quintile 3,4.9,73.5,74.3,7.8,45.8,24,3273
+E05008863,Eakring,3 - Quintile 3,N/A - not available,79.1,83.6,1.5,7.9,18.8,2742
+E05008864,Grange Farm,5 - Quintile 5 Lowest 20%,6.5,81.2,80.5,2.3,9,25,2854
+E05008865,Holly,5 - Quintile 5 Lowest 20%,7.2,81.4,84.3,2.3,8,22.2,3324
+E05008866,Hornby,2 - Quintile 2,5.9,77,87.1,1.3,10.3,28.6,2597
+E05008867,Kings Walk,2 - Quintile 2,2.5,N/A - not available,85.4,2.1,7.3,13,3308
+E05008868,Kingsway,3 - Quintile 3,7.5,77.9,80.4,4.6,21.1,18.2,3179
+E05008869,Ladybrook,3 - Quintile 3,12.5,76.8,84,7.9,41.9,25,3748
+E05008870,Lindhurst,3 - Quintile 3,N/A - not available,83.7,85.6,1.9,10.2,16.7,2751
+E05008871,Ling Forest,2 - Quintile 2,4.8,79.5,85,2.4,11.3,12.5,2430
+E05008872,Manor,3 - Quintile 3,N/A - not available,81.3,84.9,1.7,11,18.2,2618
+E05008873,Market Warsop,2 - Quintile 2,8.6,74.5,78.4,6.8,32.5,26.1,3442
+E05008874,Maun Valley,2 - Quintile 2,6.6,80,81.3,2.9,17.5,28.6,2843
+E05008875,Meden,2 - Quintile 2,4.9,76.5,82.6,4.6,30.8,21.4,2643
+E05008876,Netherfield,1 - Quintile 1 Highest 20%,11.7,78.7,84.5,5.4,32.4,23.5,2722
+E05008877,Newgate,2 - Quintile 2,7.9,68.3,76.7,9.4,49.5,26.1,3201
+E05008878,Newlands,2 - Quintile 2,3.9,77.5,83.9,3.5,26.3,22.7,3274
+E05008879,Oak Tree,2 - Quintile 2,8.4,75.6,78.5,8.7,61.3,20,2861
+E05008880,Oakham,2 - Quintile 2,10.9,83.2,87.8,1.7,13.4,13.3,2575
+E05008881,Park Hall,2 - Quintile 2,7.5,76.4,78.9,4.8,29.7,26.1,3246
+E05008882,Peafields,2 - Quintile 2,6.9,80.1,82.4,4.6,22.8,16.7,2727
+E05008883,Penniment,3 - Quintile 3,4.7,80.8,83.3,4.9,33,17.6,2931
+E05008884,Portland,1 - Quintile 1 Highest 20%,8.6,75.9,81.3,9.4,46.8,33.3,2825
+E05008885,Racecourse,1 - Quintile 1 Highest 20%,10.3,76.6,82,4.9,27.9,25,3193
+E05008886,Ransom Wood,3 - Quintile 3,9.4,74.7,79.9,7.9,52.5,31.6,2860
+E05008887,Sandhurst,3 - Quintile 3,4,80.8,84.7,4.8,15.5,18.2,3132
+E05008888,Sherwood,2 - Quintile 2,7.6,81.1,79.1,3.7,35.4,25,3133
+E05008889,Warsop Carrs,2 - Quintile 2,8.1,79.4,82.3,4.9,35.6,25.7,3681
+E05008890,Woodhouse,2 - Quintile 2,10.7,73,79.5,7.1,43.5,32.1,3486
+E05008891,Woodlands,2 - Quintile 2,4.4,74.9,80.5,6.6,26.8,N/A - not available,2735
+E05008892,Yeoman Hill,2 - Quintile 2,7.1,79.2,83.7,4.2,27.7,21.4,3625
+E05009619,Forest,1 - Quintile 1 Highest 20%,3.6,80.9,82.6,2.2,8.5,16.7,7888
+E05009620,Winstanley,1 - Quintile 1 Highest 20%,5.7,80.9,86.1,3.6,13.3,19.6,7544
+E05009621,Coastal,2 - Quintile 2,6.1,81.2,84.8,3.2,22.3,33.3,3844
+E05009622,Fenside,2 - Quintile 2,5.2,77.1,82.1,7.6,37.2,35,5100
+E05009623,Fishtoft,2 - Quintile 2,5.9,79.4,82.8,3.5,15.9,24.4,7057
+E05009624,Five Village,1 - Quintile 1 Highest 20%,8.2,76.8,87.7,3.4,28.2,25,3954
+E05009625,Kirton and Frampton,2 - Quintile 2,7.3,78.8,81.4,4.5,19.2,20,7324
+E05009626,Old Leake and Wrangle,2 - Quintile 2,9.2,78,82.5,4.7,28.9,29.4,3627
+E05009627,St Thomas',2 - Quintile 2,7,76,78.3,4.6,13.1,23.8,3101
+E05009628,Skirbeck,1 - Quintile 1 Highest 20%,7.8,74.9,81.6,7.6,28.3,25.8,8586
+E05009629,Staniland,2 - Quintile 2,5.7,75.3,80.5,6.2,27,29,4148
+E05009630,Station,2 - Quintile 2,8.6,75.4,81.1,11.1,22,29.2,3312
+E05009631,Swineshead and Holland Fen,1 - Quintile 1 Highest 20%,6.7,79.7,85.8,4.4,25.7,22.7,3961
+E05009632,Trinity,1 - Quintile 1 Highest 20%,7.6,77.2,81.1,6.5,16.7,20.6,5370
+E05009633,West,2 - Quintile 2,6,N/A - not available,85.6,2.3,8.6,25,2147
+E05009634,Witham,1 - Quintile 1 Highest 20%,7,77.5,85.5,7.6,24.5,22.6,4975
+E05009635,Wyberton,3 - Quintile 3,7.1,79.9,82.8,4.4,20.1,24.1,4331
+E05009636,Bardney,2 - Quintile 2,5.9,77.6,84.3,3.2,23.4,26.3,2800
+E05009637,Caistor and Yarborough,2 - Quintile 2,6.5,80.8,85.5,2.9,13.5,28,5547
+E05009638,Cherry Willingham,3 - Quintile 3,3.9,81.6,82.9,2.4,12.6,22.7,7764
+E05009639,Dunholme and Welton,2 - Quintile 2,6.5,81.6,85.7,2.6,11.1,25,8690
+E05009640,Gainsborough East,2 - Quintile 2,7.6,75.5,80.2,7.1,41.8,27.7,7823
+E05009641,Gainsborough North,4 - Quintile 4,7.5,79.8,84.6,6.3,32.9,29.4,7613
+E05009642,Gainsborough South-West,3 - Quintile 3,11,72.2,78.1,12.1,56.5,37.5,5567
+E05009643,Hemswell,2 - Quintile 2,12.2,78.1,86,4,27,20,2781
+E05009644,Kelsey Wold,2 - Quintile 2,8.8,80.8,86.3,2.3,16.6,28.6,2773
+E05009645,Lea,2 - Quintile 2,4.7,N/A - not available,81,2.4,13.3,N/A - not available,2106
+E05009646,Market Rasen,4 - Quintile 4,7.5,81,83.4,4,17.7,19.1,8943
+E05009647,Nettleham,3 - Quintile 3,3,81.9,87.8,1.6,6.7,15.4,4364
+E05009648,Saxilby,4 - Quintile 4,3.4,81,84.8,2.5,11.1,23.3,5672
+E05009649,Scampton,5 - Quintile 5 Lowest 20%,2.5,84.2,86.9,2,12.2,29.2,2912
+E05009650,Scotter and Blyton,4 - Quintile 4,7.3,80.3,81.3,2.3,13.2,26.7,7709
+E05009651,Stow,4 - Quintile 4,4.9,79.4,81,1.9,16.6,N/A - not available,2379
+E05009652,Sudbrooke,4 - Quintile 4,7.6,81.7,85,1,7.9,23.1,2754
+E05009653,Torksey,4 - Quintile 4,10.8,81.1,88.3,3.7,19.2,N/A - not available,2930
+E05009654,Waddingham and Spital,4 - Quintile 4,11.8,82.7,85.4,2.5,14.9,N/A - not available,2546
+E05009655,Wold View,4 - Quintile 4,9.8,77.8,82.9,4.2,26.6,28.6,2513
+E05009689,Bestwood St Albans,2 - Quintile 2,6.1,79.9,82.7,5.1,16,25.8,5461
+E05009690,Calverton,2 - Quintile 2,6.6,79.4,83.1,3.3,14.6,25,7721
+E05009691,Carlton,2 - Quintile 2,4.6,79.3,82.4,5.1,17.7,22.6,5733
+E05009692,Carlton Hill,2 - Quintile 2,6,79.3,82.8,4.5,16.9,23.7,9328
+E05009693,Cavendish,2 - Quintile 2,4,78,82.1,4.5,23.3,26.7,5112
+E05009694,Colwick,3 - Quintile 3,5.8,N/A - not available,N/A - not available,3.9,13.4,21.1,2875
+E05009695,Coppice,5 - Quintile 5 Lowest 20%,6.5,80.8,83.9,4.3,19.7,26.9,6062
+E05009696,Daybrook,2 - Quintile 2,6.6,77.4,81.2,5.3,24.6,21.2,6633
+E05009697,Dumbles,1 - Quintile 1 Highest 20%,6.2,80.3,83.7,2.1,7.3,26.7,2925
+E05009698,Ernehale,1 - Quintile 1 Highest 20%,6.3,80.3,83.8,4.1,19.2,25,6338
+E05009699,Gedling,2 - Quintile 2,4.8,81.7,83.7,2.9,10.8,21.1,7250
+E05009700,Netherfield,1 - Quintile 1 Highest 20%,3.3,77.4,78.4,6.3,28.5,26.8,5568
+E05009701,Newstead Abbey,1 - Quintile 1 Highest 20%,7.5,84.1,85,2.5,9.1,22.2,8374
+E05009702,Phoenix,2 - Quintile 2,7.3,78.7,82.5,3.8,14.1,21.2,5722
+E05009703,Plains,1 - Quintile 1 Highest 20%,6.6,81.9,86.6,2.7,9.3,14.8,7879
+E05009704,Porchester,1 - Quintile 1 Highest 20%,5.2,81.2,83.5,2.6,8.8,22,7931
+E05009705,Redhill,1 - Quintile 1 Highest 20%,8,82,81.7,3.7,16.7,21.4,5714
+E05009706,Trent Valley,1 - Quintile 1 Highest 20%,6.4,80.7,84.1,2.4,6.7,18.5,5357
+E05009707,Woodthorpe,1 - Quintile 1 Highest 20%,4.5,80.3,81.3,2.3,6.6,14.8,6256
+E05009708,Abbey,1 - Quintile 1 Highest 20%,4.8,82.7,85.2,1.7,4,15,5464
+E05009709,Bingham East,1 - Quintile 1 Highest 20%,1.5,80.3,86.2,2.6,4.3,11.4,5314
+E05009710,Bingham West,1 - Quintile 1 Highest 20%,4.7,79,83.2,2.9,9.5,23.7,5035
+E05009711,Bunny,1 - Quintile 1 Highest 20%,N/A - not available,84.7,86.3,1.2,6.2,33.3,2567
+E05009712,Compton Acres,2 - Quintile 2,9.7,83.7,87.8,2.1,2.8,10.3,5692
+E05009713,Cotgrave,1 - Quintile 1 Highest 20%,4.3,79.1,79.9,3.1,12.8,27.9,8299
+E05009714,Cranmer,1 - Quintile 1 Highest 20%,6.9,81.5,83.7,1.6,9.1,21.4,3293
+E05009715,Cropwell,3 - Quintile 3,9.1,82.5,87.6,2.3,6.5,21.4,2487
+E05009716,East Bridgford,2 - Quintile 2,7.7,84.7,91.5,1.8,4.2,17.6,3086
+E05009717,Edwalton,1 - Quintile 1 Highest 20%,7.1,80.9,83.3,3.1,10,17.1,5384
+E05009718,Gamston North,1 - Quintile 1 Highest 20%,6.3,78.8,80.4,2.5,8,20,2635
+E05009719,Gamston South,1 - Quintile 1 Highest 20%,6.8,82.4,83.8,2.1,1.7,11.8,2662
+E05009720,Gotham,2 - Quintile 2,N/A - not available,78.8,85.6,3.1,12,21.4,2431
+E05009721,Keyworth & Wolds,1 - Quintile 1 Highest 20%,5.8,82.4,85.9,2.6,7.3,20,7997
+E05009722,Lady Bay,2 - Quintile 2,3.8,82.1,83.9,2.1,5.3,14.3,5757
+E05009723,Leake,2 - Quintile 2,6,82.4,84.9,1.9,5.4,17.6,8985
+E05009724,Lutterell,1 - Quintile 1 Highest 20%,3.9,80.7,83.1,2.7,9.4,15.6,6161
+E05009725,Musters,1 - Quintile 1 Highest 20%,5.1,85.7,86.8,1.5,3.3,14.3,5312
+E05009726,Nevile & Langar,5 - Quintile 5 Lowest 20%,5.6,85.7,87.4,1.6,12.1,16.7,2617
+E05009727,Radcliffe on Trent,1 - Quintile 1 Highest 20%,3,81.5,84,2.3,6.7,17.8,8266
+E05009728,Ruddington,1 - Quintile 1 Highest 20%,6,81,83,2.3,6.9,13.7,7913
+E05009729,Sutton Bonington,1 - Quintile 1 Highest 20%,5.3,N/A - not available,87.4,1.2,5.1,N/A - not available,2041
+E05009730,Thoroton,1 - Quintile 1 Highest 20%,12,84.1,86.7,2.5,10.2,21.4,2900
+E05009731,Tollerton,2 - Quintile 2,N/A - not available,83.6,91.4,1.3,3,16.7,2518
+E05009732,Trent Bridge,1 - Quintile 1 Highest 20%,5.3,78.4,86.3,2.5,10.4,17.6,6600
+E05009873,Alford,1 - Quintile 1 Highest 20%,8.4,78.2,79.4,5.6,27.9,20.7,4979
+E05009874,Binbrook,1 - Quintile 1 Highest 20%,10.2,81.7,82.8,2,24.4,N/A - not available,2472
+E05009875,Burgh le Marsh,2 - Quintile 2,5.2,75.9,85.4,4.7,25.1,N/A - not available,2595
+E05009876,Chapel St Leonards,1 - Quintile 1 Highest 20%,8.4,73.4,78.7,7.3,49.3,35.3,4603
+E05009877,Coningsby & Mareham,1 - Quintile 1 Highest 20%,5.6,81.5,84.3,3.5,18.2,19.4,9982
+E05009878,Croft,2 - Quintile 2,N/A - not available,79.3,82.8,6.1,32.2,N/A - not available,2210
+E05009879,Friskney,2 - Quintile 2,12.8,77.7,85.4,4.9,38.1,30,2266
+E05009880,Fulstow,4 - Quintile 4,N/A - not available,81.2,87.1,2.5,N/A - not available,25,2721
+E05009881,Grimoldby,2 - Quintile 2,5.9,82.5,82.5,2.2,14.9,30.8,2260
+E05009882,Hagworthingham,1 - Quintile 1 Highest 20%,5.5,80,85.2,3.2,27,N/A - not available,2289
+E05009883,Halton Holegate,1 - Quintile 1 Highest 20%,12.3,80.6,82.8,3.3,28.3,18.2,2692
+E05009884,Holton-le-Clay & North Thoresby,1 - Quintile 1 Highest 20%,7.8,81.7,84.3,2.7,11,16.7,5011
+E05009885,Horncastle,1 - Quintile 1 Highest 20%,6.2,77,83.1,4,18.9,23.8,7700
+E05009886,Ingoldmells,1 - Quintile 1 Highest 20%,5.9,72.1,76.4,9.1,52.3,25,2367
+E05009887,Legbourne,2 - Quintile 2,4.5,79.9,85.8,1.5,22.4,16.7,2171
+E05009888,Mablethorpe,3 - Quintile 3,6.4,73.6,77.3,7.8,54.3,33.3,7845
+E05009889,Marshchapel & Somercotes,2 - Quintile 2,6.2,80.5,84.5,3.3,27,21.4,4446
+E05009890,North Holme,1 - Quintile 1 Highest 20%,9.5,77.6,78.4,4.4,30.3,27.8,2630
+E05009891,Priory & St James',1 - Quintile 1 Highest 20%,6.4,78.8,82.2,5.1,22.5,25.9,5035
+E05009892,Roughton,1 - Quintile 1 Highest 20%,11.5,77.6,83.5,3.3,21.9,N/A - not available,2364
+E05009893,St Clement's,1 - Quintile 1 Highest 20%,9.5,72.8,79.4,6.1,43.4,27,5112
+E05009894,St Margaret's,1 - Quintile 1 Highest 20%,7.5,77.3,78,3.5,22.9,28.6,2850
+E05009895,St Mary's,1 - Quintile 1 Highest 20%,N/A - not available,82.5,84.5,2.6,13.3,N/A - not available,2375
+E05009896,St Michael's,3 - Quintile 3,7.5,78.7,82.7,2.4,18.3,25,2202
+E05009897,Scarbrough & Seacroft,2 - Quintile 2,8.4,74.2,79,8.5,44.5,28,9380
+E05009898,Sibsey & Stickney,4 - Quintile 4,5.7,79.4,82.8,3.7,23.6,26.1,5153
+E05009899,Spilsby,5 - Quintile 5 Lowest 20%,8.8,78.7,80.9,5.2,25.9,28,3317
+E05009900,Sutton on Sea,2 - Quintile 2,6,78.3,81.6,4.9,34.1,28.6,4706
+E05009901,Tetford & Donington,1 - Quintile 1 Highest 20%,N/A - not available,83.6,81.2,2.5,22.8,N/A - not available,2505
+E05009902,Tetney,1 - Quintile 1 Highest 20%,N/A - not available,79.4,83.3,2.1,14.4,N/A - not available,2578
+E05009903,Trinity,1 - Quintile 1 Highest 20%,8.4,77.7,83.5,5.5,41,35,2545
+E05009904,Wainfleet,1 - Quintile 1 Highest 20%,5.4,77.7,80.9,6.3,48.1,33.3,2788
+E05009905,Willoughby with Sloothby,1 - Quintile 1 Highest 20%,7.7,78.4,84.9,3.2,34,N/A - not available,2496
+E05009906,Winthorpe,1 - Quintile 1 Highest 20%,6.3,75.1,81.2,9.9,45.5,32.4,5922
+E05009907,Withern & Theddlethorpe,1 - Quintile 1 Highest 20%,7.4,79.6,84.8,3,28.7,N/A - not available,2464
+E05009908,Woodhall Spa,1 - Quintile 1 Highest 20%,6.3,81.7,85.6,2.3,11.2,22.2,4389
+E05009909,Wragby,1 - Quintile 1 Highest 20%,8.5,82.1,82.1,3.8,25.4,21.4,2610
+E05010064,Balderton South,5 - Quintile 5 Lowest 20%,10.8,83.1,85.2,4.2,15.4,27.8,5358
+E05010066,Bilsthorpe,5 - Quintile 5 Lowest 20%,5.8,79.5,82.7,3.7,23.6,26.3,3496
+E05010067,Boughton,5 - Quintile 5 Lowest 20%,7.9,78.4,81.4,6.1,16.4,38.9,3416
+E05010068,Bridge,5 - Quintile 5 Lowest 20%,5.3,75,80.5,5.7,26.6,21.2,7901
+E05010070,Collingham,5 - Quintile 5 Lowest 20%,6.8,79.4,83,2.6,15,15.4,5643
+E05010071,Devon,5 - Quintile 5 Lowest 20%,6.5,79.1,81.8,6,34.2,29.1,9987
+E05010072,Dover Beck,5 - Quintile 5 Lowest 20%,N/A - not available,83.6,85.2,1.7,6.3,15.4,2923
+E05010073,Edwinstowe & Clipstone,5 - Quintile 5 Lowest 20%,7.2,78.1,81.9,3.1,19.9,25.3,11127
+E05010075,Farnsfield,5 - Quintile 5 Lowest 20%,3.5,82.9,89.4,1.8,6.3,29.4,3147
+E05010076,Lowdham,5 - Quintile 5 Lowest 20%,5.3,84.1,88.6,1.5,11.3,27.3,3541
+E05010077,Muskham,5 - Quintile 5 Lowest 20%,9.4,82.8,86.6,2.2,10.2,25,2933
+E05010078,Ollerton,5 - Quintile 5 Lowest 20%,7.9,76,80.6,4.2,33.2,23.1,9262
+E05010079,Rainworth North & Rufford,4 - Quintile 4,8.9,80.5,83.5,3.2,19.5,25.5,6748
+E05010080,Rainworth South & Blidworth,4 - Quintile 4,7,78.4,80,3.8,28.4,25,5929
+E05010081,Southwell,4 - Quintile 4,2.4,82.9,84.3,2,6.4,17.2,8945
+E05010082,Sutton-on-Trent,4 - Quintile 4,4.3,82.4,83,2.4,15,23.1,3115
+E05010083,Trent,4 - Quintile 4,N/A - not available,82.2,82.8,1.5,9.5,23.1,2891
+E05010090,Appleby,4 - Quintile 4,7.8,82.2,82.3,1.4,9.3,25,2523
+E05010091,Ashby Castle,5 - Quintile 5 Lowest 20%,9.1,84.1,87.2,0.6,5.4,18.2,2491
+E05010092,Ashby Holywell,4 - Quintile 4,9,N/A - not available,86,3,15.2,15.8,3128
+E05010093,Ashby Ivanhoe,3 - Quintile 3,4.2,80.4,86.5,2.3,12.6,14.3,3324
+E05010094,Ashby Money Hill,4 - Quintile 4,8,N/A - not available,82.7,2.5,7.3,13.8,4040
+E05010095,Ashby Willesley,4 - Quintile 4,6.6,N/A - not available,79.1,2.6,15.1,N/A - not available,2064
+E05010096,Ashby Woulds,4 - Quintile 4,3.9,79.6,81.4,3,18.2,15,3083
+E05010097,Bardon,4 - Quintile 4,7,81.3,83.8,2.3,7.1,25,2867
+E05010098,Blackfordby,5 - Quintile 5 Lowest 20%,13.6,78.6,82.3,4.3,14.2,23.1,2636
+E05010099,Broom Leys,4 - Quintile 4,7.9,74.7,85.1,2.7,15.3,20,2115
+E05010100,Castle Donington Castle,4 - Quintile 4,9.2,81.3,80.9,2.6,17.7,30,2644
+E05010101,Castle Donington Central,5 - Quintile 5 Lowest 20%,1.9,83.9,85.7,2.2,7.1,13,3167
+E05010102,Castle Donington Park,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,3.2,N/A - not available,N/A - not available,1520
+E05010103,Castle Rock,4 - Quintile 4,9.5,79.3,88.7,4.9,30.6,31.2,2499
+E05010104,Coalville East,4 - Quintile 4,4.9,81.3,83.1,2.1,15.4,N/A - not available,2797
+E05010105,Coalville West,4 - Quintile 4,5.9,75.2,75.8,5.7,22.8,22.7,3173
+E05010106,Daleacre Hill,4 - Quintile 4,4,79.6,85.4,3,10.8,16.7,2492
+E05010107,Ellistown & Battleflat,4 - Quintile 4,4.6,82,80.9,2.5,12.6,16.7,2825
+E05010108,Greenhill,5 - Quintile 5 Lowest 20%,8.5,75.2,79.8,5,37.4,22.2,3427
+E05010109,Hermitage,4 - Quintile 4,4.5,81.5,82.3,3.1,12.9,21.4,2759
+E05010110,Holly Hayes,4 - Quintile 4,N/A - not available,80.6,83,2.7,20.7,16.7,2619
+E05010111,Hugglescote St John's,2 - Quintile 2,3.8,N/A - not available,N/A - not available,2.7,12.7,30.8,1949
+E05010112,Hugglescote St Mary's,3 - Quintile 3,3.4,77.4,86.2,2.5,9.7,21.1,3609
+E05010113,Ibstock East,4 - Quintile 4,4.1,77.5,80.5,2.8,19.6,18.8,3117
+E05010114,Ibstock West,5 - Quintile 5 Lowest 20%,5.8,81.2,85.6,2.6,10.1,20,2570
+E05010115,Kegworth,5 - Quintile 5 Lowest 20%,N/A - not available,80,86.8,1.8,7.8,25,2484
+E05010116,Long Whatton & Diseworth,5 - Quintile 5 Lowest 20%,5.3,81.6,90.2,1.8,7.9,21.4,2540
+E05010117,Measham North,5 - Quintile 5 Lowest 20%,6.5,76.9,85.5,2.6,8.3,17.6,2999
+E05010118,Measham South,5 - Quintile 5 Lowest 20%,7,76.8,84.3,3.8,17.3,18.2,2577
+E05010119,Oakthorpe & Donisthorpe,5 - Quintile 5 Lowest 20%,5.1,80.6,84.3,3,16.2,23.5,2906
+E05010120,Ravenstone & Packington,5 - Quintile 5 Lowest 20%,6.2,80.4,90.6,1.6,9.7,23.5,3135
+E05010121,Sence Valley,5 - Quintile 5 Lowest 20%,N/A - not available,82.8,85.2,2.6,12.9,12,2950
+E05010122,Snibston North,5 - Quintile 5 Lowest 20%,2.9,78.4,82.8,3.5,11.4,10,2644
+E05010123,Snibston South,5 - Quintile 5 Lowest 20%,6,79.9,79.2,4.1,20.9,11.1,2470
+E05010124,Thornborough,5 - Quintile 5 Lowest 20%,9.2,N/A - not available,82.6,2,6.9,N/A - not available,2072
+E05010125,Thringstone,5 - Quintile 5 Lowest 20%,5.1,78.1,80.4,4.6,19,21.1,2844
+E05010126,Valley,5 - Quintile 5 Lowest 20%,6.7,80.9,86,2.4,16.2,27.3,2923
+E05010127,Worthington & Breedon,5 - Quintile 5 Lowest 20%,8,81.2,84.1,1.8,13.5,15.4,2827
+E05010148,Aveland,5 - Quintile 5 Lowest 20%,8.3,81.2,83,2.8,20.9,N/A - not available,2486
+E05010149,Belmont,5 - Quintile 5 Lowest 20%,2.7,79.4,86.7,2.7,6.8,25.9,4832
+E05010150,Belvoir,5 - Quintile 5 Lowest 20%,5.8,82.9,84.9,2.2,12.4,16.7,4789
+E05010151,Bourne Austerby,5 - Quintile 5 Lowest 20%,5.8,79.4,82.4,2.4,7.7,21.7,7273
+E05010152,Bourne East,5 - Quintile 5 Lowest 20%,4.7,79.1,84,3.3,14.7,27.6,4994
+E05010153,Bourne West,2 - Quintile 2,5.6,80.6,83.1,2.9,6.8,25,5283
+E05010154,Casewick,1 - Quintile 1 Highest 20%,4.1,80,87.5,2.4,5.3,15.4,5542
+E05010155,Castle,1 - Quintile 1 Highest 20%,N/A - not available,79.4,88.7,2.3,16.2,N/A - not available,2310
+E05010156,Deeping St James,2 - Quintile 2,5.3,80.3,85.5,2.9,7.8,18.2,7209
+E05010157,Dole Wood,2 - Quintile 2,N/A - not available,82.3,86.1,2.5,6.4,27.3,2489
+E05010158,Glen,1 - Quintile 1 Highest 20%,5.6,84.4,92.1,1.8,13.2,N/A - not available,2513
+E05010159,Grantham Arnoldfield,2 - Quintile 2,4.3,78.7,80.5,2.4,5.6,26.5,5263
+E05010160,Grantham Barrowby Gate,2 - Quintile 2,5.8,81.2,84,3.2,10,25,5076
+E05010161,Grantham Earlesfield,2 - Quintile 2,7.8,77.7,81.8,9.1,35.9,27.3,6648
+E05010162,Grantham Harrowby,2 - Quintile 2,4,78,80.6,5.9,30.6,25,4796
+E05010163,Grantham St Vincent's,1 - Quintile 1 Highest 20%,6.6,77.4,82.1,7.2,18.3,32.5,7758
+E05010164,Grantham St Wulfram's,1 - Quintile 1 Highest 20%,3.3,77.1,80.2,6,17.7,20.8,5252
+E05010165,Grantham Springfield,1 - Quintile 1 Highest 20%,6,79.2,82.3,4.7,19.7,26.1,5845
+E05010166,Isaac Newton,2 - Quintile 2,4.9,81.5,82.6,3.8,16.3,26.1,4933
+E05010167,Lincrest,1 - Quintile 1 Highest 20%,N/A - not available,84.4,86.5,2,14.4,N/A - not available,2478
+E05010168,Loveden Heath,1 - Quintile 1 Highest 20%,3.9,82.7,84.6,2.6,13.5,N/A - not available,2598
+E05010169,Market & West Deeping,2 - Quintile 2,5,82.8,85.2,3.8,11.4,20.6,6946
+E05010170,Morton,2 - Quintile 2,5.4,84.9,85,2.7,10.8,25,2557
+E05010171,Peascliffe & Ridgeway,2 - Quintile 2,5.8,81.5,86.1,3.3,11.6,20,4909
+E05010172,Stamford All Saints,3 - Quintile 3,7.4,80.9,83.3,3.5,12.3,25,4969
+E05010173,Stamford St George's,3 - Quintile 3,9.1,79.5,84.7,4.3,13.8,29.2,5297
+E05010174,Stamford St John's,3 - Quintile 3,4,84.2,87.8,1.9,3.5,24.3,5513
+E05010175,Stamford St Mary's,3 - Quintile 3,3.6,81.8,84.1,4.1,13.2,21.4,5037
+E05010176,Toller,3 - Quintile 3,4.8,82.1,84,2.9,17.1,28.6,2686
+E05010177,Viking,3 - Quintile 3,5.9,83.7,86.7,2.2,9.6,20,4944
+E05010458,Abbey,4 - Quintile 4,6.4,77.5,80.9,7,36.5,25.9,20863
+E05010459,Aylestone,3 - Quintile 3,7.2,78.9,80.4,5.8,26.6,22.4,11128
+E05010460,Beaumont Leys,3 - Quintile 3,7.3,77.3,81.5,7.8,34.1,27,17653
+E05010461,Belgrave,2 - Quintile 2,12,77.5,83.1,5.7,29.8,14,17460
+E05010462,Braunstone Park & Rowley Fields,2 - Quintile 2,7.6,73.9,78.3,8.7,45.3,27.1,20069
+E05010463,Castle,3 - Quintile 3,7.9,77,84.1,3.6,22.4,18.2,27184
+E05010464,Evington,3 - Quintile 3,8.2,78.2,82,6.4,25.3,15.7,16619
+E05010465,Eyres Monsell,2 - Quintile 2,6.7,75.9,80.6,7.9,48.8,23.1,10973
+E05010466,Fosse,2 - Quintile 2,7.6,75.9,82.3,7.5,34.9,27.6,14272
+E05010467,Humberstone & Hamilton,2 - Quintile 2,7.8,77.5,81.6,5.2,22.2,17.9,20409
+E05010468,Knighton,2 - Quintile 2,8.3,78.6,82.5,3.8,14.3,19.4,15704
+E05010469,North Evington,3 - Quintile 3,12.7,77.1,83.6,5.9,31.5,13.9,21347
+E05010470,Rushey Mead,4 - Quintile 4,10.2,77.9,84.1,5.2,24.3,17.8,16714
+E05010471,Saffron,2 - Quintile 2,8.1,71.4,78.9,5.9,45.2,23.7,15269
+E05010472,Spinney Hills,2 - Quintile 2,9.7,79.7,83.9,6.1,26.2,14.7,12268
+E05010473,Stoneygate,2 - Quintile 2,8.8,78.1,85.6,7.5,25.8,19.4,21521
+E05010474,Thurncourt,3 - Quintile 3,8.1,76.6,81.8,6.1,29.2,20.2,11258
+E05010475,Troon,3 - Quintile 3,8.7,75.6,82.3,6.5,29.1,17,12863
+E05010476,Westcotes,2 - Quintile 2,7,75.1,80.9,5.8,26.3,19.5,16388
+E05010477,Western,3 - Quintile 3,8.1,75.1,79.9,8.4,40.7,26,19579
+E05010478,Wycliffe,2 - Quintile 2,9.6,77.5,82.5,8.4,38.3,15.3,14495
+E05010514,Attenborough & Chilwell East,4 - Quintile 4,3.1,80.3,82.1,2.1,8,18.8,7276
+E05010515,"Awsworth, Cossall & Trowell",4 - Quintile 4,5,81.9,86,2.8,12.8,23.1,5057
+E05010516,Beeston Central,4 - Quintile 4,5.8,77.2,80.5,2.9,18.2,21.7,6840
+E05010517,Beeston North,4 - Quintile 4,5.5,80.6,84.1,3.7,17.1,16.7,6556
+E05010518,Beeston Rylands,5 - Quintile 5 Lowest 20%,4.3,78.5,80.1,3.6,13.7,24,5043
+E05010519,Beeston West,3 - Quintile 3,4.1,78.3,82.2,2.3,9.9,20.8,5686
+E05010520,Bramcote,4 - Quintile 4,5.7,82.5,85.2,1.8,5.8,10.3,7278
+E05010521,Brinsley,5 - Quintile 5 Lowest 20%,N/A - not available,80.4,83.1,3.2,15.7,18.2,2444
+E05010522,Chilwell West,5 - Quintile 5 Lowest 20%,6.6,80.6,81.7,4,17.4,20.8,8241
+E05010523,Eastwood Hall,5 - Quintile 5 Lowest 20%,N/A - not available,80.8,85.9,1.9,12.1,18.2,2353
+E05010524,Eastwood Hilltop,5 - Quintile 5 Lowest 20%,8.1,76.5,80.9,4.2,22.7,20,5586
+E05010525,Eastwood St Mary's,5 - Quintile 5 Lowest 20%,6.6,78.4,82.1,6.1,36.4,25,4828
+E05010526,Greasley,5 - Quintile 5 Lowest 20%,4.9,81.2,83.5,2.4,8.5,20.6,6494
+E05010527,Kimberley,4 - Quintile 4,6.5,80.9,84.1,4.1,15.8,26.8,6901
+E05010528,Nuthall East & Strelley,4 - Quintile 4,5.5,82.3,82.3,2.4,7.4,18.5,5345
+E05010529,Stapleford North,5 - Quintile 5 Lowest 20%,5.9,80.1,86,5.8,22.4,25.6,4994
+E05010530,Stapleford South East,5 - Quintile 5 Lowest 20%,5.5,80.1,84.5,4.1,16.1,24.1,5178
+E05010531,Stapleford South West,5 - Quintile 5 Lowest 20%,7.3,79.9,84.3,5.2,19,24.3,5701
+E05010532,Toton & Chilwell Meadows,5 - Quintile 5 Lowest 20%,4.5,82.2,86.4,1.5,3.5,18.8,8254
+E05010533,Watnall & Nuthall West,4 - Quintile 4,4.6,82.6,82.8,2.7,13.1,22.2,4572
+E05010604,Awsworth Road,1 - Quintile 1 Highest 20%,5.7,74.7,80.2,6.5,32.5,29,5074
+E05010605,Breaston,4 - Quintile 4,8.5,81.4,84.9,1.9,7.7,15.4,4512
+E05010606,Cotmanhay,1 - Quintile 1 Highest 20%,7.5,77.2,81.5,7.3,46.3,25.8,5113
+E05010607,Derby Road East,3 - Quintile 3,7.5,78.9,81.9,5.3,23.6,24.1,5770
+E05010608,Derby Road West,2 - Quintile 2,5.1,79.7,84.9,3.5,16.6,24.1,7161
+E05010609,Draycott & Risley,1 - Quintile 1 Highest 20%,7.9,79.2,84.1,2.6,13.7,23.1,4276
+E05010610,Hallam Fields,2 - Quintile 2,5.7,83.8,86.2,3.9,18,26.9,5322
+E05010611,Kirk Hallam & Stanton-by-Dale,2 - Quintile 2,9.1,78.5,80.9,4.1,32,24.1,6614
+E05010612,Larklands,1 - Quintile 1 Highest 20%,6,77,82.2,5.2,27.7,20.6,8412
+E05010613,Little Eaton & Stanley,1 - Quintile 1 Highest 20%,4.1,84.1,89.8,1.8,7,18.8,4499
+E05010614,Little Hallam,3 - Quintile 3,6.9,77.1,79.6,4.8,21,26.3,4807
+E05010615,Long Eaton Central,1 - Quintile 1 Highest 20%,4.8,78.5,82.9,5.1,20.3,24.2,7526
+E05010616,Nottingham Road,1 - Quintile 1 Highest 20%,7.4,79.2,82.5,5.1,15.7,20,4972
+E05010617,Ockbrook & Borrowash,1 - Quintile 1 Highest 20%,7.1,79.3,83.4,3.2,10.8,24.1,7320
+E05010618,Sandiacre,1 - Quintile 1 Highest 20%,5.2,78.3,81.9,4.1,17.9,19.5,8251
+E05010619,Sawley,2 - Quintile 2,8.1,80.1,84.4,3.8,17.5,26.3,6711
+E05010620,Shipley View,2 - Quintile 2,10.4,78.6,82.8,1.8,6.5,26.3,4950
+E05010621,West Hallam & Dale Abbey,3 - Quintile 3,5.6,81.3,84.8,1.9,8.9,18.2,6289
+E05010622,Wilsthorpe,2 - Quintile 2,6.6,80.2,84.7,2.8,11.1,18.9,7753
+E05010623,Barms,2 - Quintile 2,N/A - not available,77.5,81,5.2,25.3,N/A - not available,1994
+E05010624,Blackbrook,1 - Quintile 1 Highest 20%,7.4,81.5,82.3,2.3,9,12.9,4226
+E05010625,Burbage,2 - Quintile 2,2.3,78.3,88.4,2.1,8.8,25,2116
+E05010626,Buxton Central,2 - Quintile 2,6.6,77.1,81.9,4.7,18.9,12.5,4036
+E05010627,Chapel East,1 - Quintile 1 Highest 20%,6.6,77.9,84.8,2.8,14.2,28.6,2158
+E05010628,Chapel West,1 - Quintile 1 Highest 20%,8.6,81.2,83.7,2.1,11.1,17.1,5036
+E05010629,Corbar,2 - Quintile 2,6.3,76.9,77.1,4.1,14.6,21.4,3611
+E05010630,Cote Heath,1 - Quintile 1 Highest 20%,5.8,78.2,83.9,3.1,13.7,13,4114
+E05010631,Dinting,2 - Quintile 2,3.4,N/A - not available,88.8,2,5,18.2,2186
+E05010632,Gamesley,2 - Quintile 2,8.8,N/A - not available,75.5,7.7,52.4,21.1,2507
+E05010633,Hadfield North,3 - Quintile 3,9.3,74.4,78.7,4.6,25.5,23.5,2487
+E05010634,Hadfield South,2 - Quintile 2,3.9,76,80.9,3.2,14.3,20,4162
+E05010635,Hayfield,1 - Quintile 1 Highest 20%,N/A - not available,82,N/A - not available,1.6,8.6,25,1973
+E05010636,Hope Valley,4 - Quintile 4,3.5,81.8,88.3,1.5,10,15.4,3671
+E05010637,Howard Town,3 - Quintile 3,4.1,76.3,82,4.4,19.7,18.5,4614
+E05010638,Limestone Peak,2 - Quintile 2,5.7,78.2,N/A - not available,3,19.9,36.4,2155
+E05010639,New Mills East,1 - Quintile 1 Highest 20%,7.4,77.9,79.7,4.1,26.3,23.1,3954
+E05010640,New Mills West,2 - Quintile 2,6.6,83.4,85.6,2.7,10.1,18.2,4327
+E05010641,Old Glossop,1 - Quintile 1 Highest 20%,2.6,83.5,86,2.4,10,19.2,4705
+E05010642,Padfield,1 - Quintile 1 Highest 20%,2,78.2,84.6,2.5,13.4,29.4,2417
+E05010643,St John's,2 - Quintile 2,3.8,N/A - not available,N/A - not available,3.2,13.5,N/A - not available,1749
+E05010644,Sett,2 - Quintile 2,N/A - not available,N/A - not available,84.6,1.9,10.2,N/A - not available,2027
+E05010645,Simmondley,2 - Quintile 2,4.7,83.2,85.6,1.7,4.4,27.6,4302
+E05010646,Stone Bench,5 - Quintile 5 Lowest 20%,6.4,77,81.7,4.7,30.8,24.4,4633
+E05010647,Temple,1 - Quintile 1 Highest 20%,N/A - not available,N/A - not available,86,1.1,4.5,15.4,2430
+E05010648,Tintwistle,1 - Quintile 1 Highest 20%,N/A - not available,83.5,84,3.6,18.7,25,2061
+E05010649,Whaley Bridge,1 - Quintile 1 Highest 20%,6.5,81.1,86.4,2.7,9.6,23.3,6568
+E05010650,Whitfield,1 - Quintile 1 Highest 20%,8.2,76.1,80.2,5,30.6,21.4,2414
+E05010673,Abbey Hill,1 - Quintile 1 Highest 20%,6.6,N/A - not available,81.3,7.5,41.9,25,3593
+E05010674,Annesley & Kirkby Woodhouse,1 - Quintile 1 Highest 20%,4.8,80.1,82.9,3.6,18.8,21.2,7829
+E05010675,Ashfields,1 - Quintile 1 Highest 20%,7.8,82.1,86.4,2.8,11.9,19,4187
+E05010676,Carsic,1 - Quintile 1 Highest 20%,4.9,75.2,81.4,6.4,49.4,30.4,3936
+E05010677,Sutton Central & New Cross,1 - Quintile 1 Highest 20%,7.5,74.5,78.2,6.6,40.4,25.4,8439
+E05010678,Hucknall Central,1 - Quintile 1 Highest 20%,6,77.8,83.2,5,21.9,25.6,7171
+E05010679,Hucknall North,1 - Quintile 1 Highest 20%,6.2,80.8,84.2,4.3,21.9,24.7,10762
+E05010680,Hucknall South,1 - Quintile 1 Highest 20%,6.6,77.7,80.8,5.9,27.6,27.5,7884
+E05010681,Hucknall West,1 - Quintile 1 Highest 20%,8.1,78,81.1,4.8,24.1,20,10020
+E05010682,Huthwaite & Brierley,1 - Quintile 1 Highest 20%,5,76.8,82.1,5.1,25.1,28.6,7667
+E05010683,Jacksdale & Westwood,1 - Quintile 1 Highest 20%,7,78.1,82.1,4.7,19.7,27.3,3324
+E05010684,Kingsway,1 - Quintile 1 Highest 20%,3.6,84.2,87.4,3.3,21.2,N/A - not available,3110
+E05010685,Kirkby Cross & Portland,1 - Quintile 1 Highest 20%,10.6,77,79.3,4,18.6,22.7,4351
+E05010686,Larwood,1 - Quintile 1 Highest 20%,5.6,81.9,84.2,1.5,16.7,26.7,3708
+E05010687,Leamington,1 - Quintile 1 Highest 20%,7.2,72,76.1,7.7,44,26.1,4220
+E05010688,Sutton St Mary's,1 - Quintile 1 Highest 20%,9,78.8,81,5.1,23.1,13.3,3895
+E05010689,Selston,1 - Quintile 1 Highest 20%,5.3,78.1,82.1,3.8,19.7,25,6418
+E05010690,Skegby,1 - Quintile 1 Highest 20%,7,77.7,80.7,3.8,25.5,23.1,6919
+E05010691,Stanton Hill & Teversal,1 - Quintile 1 Highest 20%,8.5,79.7,81.5,6.2,30.3,23.8,3487
+E05010692,Greenwood & Summit,2 - Quintile 2,8.5,74.6,80.2,6.4,40.9,30.2,7565
+E05010693,Sutton Junction & Harlow Wood,1 - Quintile 1 Highest 20%,5.4,85,90.3,2.4,14.9,22.2,3859
+E05010694,The Dales,1 - Quintile 1 Highest 20%,4.2,78.1,79.4,3.5,18,N/A - not available,2945
+E05010695,Underwood,1 - Quintile 1 Highest 20%,7.4,82.1,86.6,2.2,13.2,20,3048
+E05010784,Abbey,1 - Quintile 1 Highest 20%,7.8,75.3,81,7.3,34.2,25.4,10664
+E05010785,Birchwood,1 - Quintile 1 Highest 20%,6.9,77.2,78.7,6.6,33.2,26.5,8450
+E05010786,Boultham,1 - Quintile 1 Highest 20%,3.9,78.1,82.5,2.2,16.2,19.4,11932
+E05010787,Carholme,1 - Quintile 1 Highest 20%,5.6,75.1,78.3,3.3,17,20,11190
+E05010788,Castle,1 - Quintile 1 Highest 20%,6.2,75.4,82.7,7.2,31.5,21.3,7117
+E05010789,Glebe,1 - Quintile 1 Highest 20%,8,73.9,79.3,6.2,32.4,27.4,8856
+E05010790,Hartsholme,1 - Quintile 1 Highest 20%,7.8,81.2,83.7,4.3,18.6,25,7825
+E05010791,Minster,1 - Quintile 1 Highest 20%,6.5,78.1,82.5,5.9,29.4,30,7165
+E05010792,Moorland,1 - Quintile 1 Highest 20%,8.4,78.1,81.5,6.7,36,26.9,7914
+E05010793,Park,1 - Quintile 1 Highest 20%,7.4,72.2,76.3,7.5,33.7,26.7,11260
+E05010794,Witham,1 - Quintile 1 Highest 20%,8.2,79.8,83.4,3.4,15.9,22.4,7676
+E05011552,Balderton North & Coddington,1 - Quintile 1 Highest 20%,7.3,81.5,81.4,3,14.1,22.9,6812
+E05011553,Beacon,2 - Quintile 2,6.3,78.6,81.8,4.2,14.1,21.9,9440
+E05011554,Castle,3 - Quintile 3,6.4,78.6,82,7.6,29.5,35.3,3362
+E05011555,Farndon & Fernwood,3 - Quintile 3,7.9,79.4,84.6,2.5,10.9,15.6,7151
+E05011964,Billesdon & Tilton,3 - Quintile 3,5.3,81.5,88.2,2.8,12.6,16.7,2630
+E05011965,Bosworth,2 - Quintile 2,5,82.7,82.2,1.8,10.6,20,3275
+E05011966,Broughton Astley-Primethorpe & Sutton,3 - Quintile 3,3.3,80.6,83.3,2.3,7,19.2,4673
+E05011967,Broughton Astley South & Leire,3 - Quintile 3,4.2,83.3,86.8,1.5,2.6,23.3,5359
+E05011968,Dunton,3 - Quintile 3,3.5,84.7,89.9,1.7,9.4,25,2651
+E05011969,Fleckney,2 - Quintile 2,6.2,81.9,82.8,2.7,5.9,21.2,5705
+E05011970,Glen,3 - Quintile 3,4.2,83,89.5,2.4,5.8,12,5684
+E05011971,Kibworths,3 - Quintile 3,2.5,79.7,85.4,2.3,7.1,15.8,8492
+E05011972,Lubenham,3 - Quintile 3,6.5,81.5,90.5,2.2,19.4,23.1,2883
+E05011973,Lutterworth East,3 - Quintile 3,3.7,79.3,86.2,3.4,10,20,5483
+E05011974,Lutterworth West,3 - Quintile 3,7.7,83.1,80.9,2.5,6.9,21.9,5040
+E05011975,Market Harborough-Great Bowden & Arden,3 - Quintile 3,6,82.4,88,2.3,9.3,26.7,5595
+E05011976,Market Harborough-Little Bowden,3 - Quintile 3,4.4,80,82.5,1.5,3.8,15.8,6162
+E05011977,Market Harborough-Logan,3 - Quintile 3,7.5,80.5,83.8,1.7,6.3,17.9,6350
+E05011978,Market Harborough-Welland,2 - Quintile 2,8.4,79.8,83,2.9,10.6,15.5,8407
+E05011979,Misterton,3 - Quintile 3,6.4,78.6,84.1,1.6,11.2,10.5,2751
+E05011980,Nevill,5 - Quintile 5 Lowest 20%,N/A - not available,82.9,84.7,1.7,8.6,25,2984
+E05011981,Thurnby & Houghton,5 - Quintile 5 Lowest 20%,7.6,84.1,86.8,2.8,7,17,8406
+E05011982,Ullesthorpe,4 - Quintile 4,N/A - not available,81.9,85,2.6,6.8,21.4,3007
+E05011983,Ault Hucknall,4 - Quintile 4,5,80,82.9,3.4,23.6,26.3,6408
+E05011984,Barlborough,4 - Quintile 4,6.1,83.3,84.8,2.7,9.1,21.7,4547
+E05011985,Blackwell,5 - Quintile 5 Lowest 20%,7.9,77.5,80.2,3.2,20,14.3,4299
+E05011986,Bolsover East,5 - Quintile 5 Lowest 20%,6.9,77.4,79.9,3.3,23.9,22.2,4146
+E05011987,Bolsover North & Shuttlewood,5 - Quintile 5 Lowest 20%,11.7,75.7,82.9,4.5,34.7,22.2,3375
+E05011988,Bolsover South,4 - Quintile 4,5.5,77.8,84,4.2,26.5,25,4677
+E05011989,Clowne East,4 - Quintile 4,6,78,82.3,3.2,20.6,25.9,5305
+E05011990,Clowne West,5 - Quintile 5 Lowest 20%,5.6,77.1,79.5,2.3,15.9,23.8,2655
+E05011991,Elmton-with-Creswell,4 - Quintile 4,9.5,77.3,79.2,4.7,32.6,22,6910
+E05011992,Langwith,5 - Quintile 5 Lowest 20%,6.2,77.1,79.6,4.5,39,23.7,5004
+E05011993,Pinxton,5 - Quintile 5 Lowest 20%,8.6,78.3,81.3,5.5,29.3,31.8,4122
+E05011994,Shirebrook North,5 - Quintile 5 Lowest 20%,6.9,74.8,81,3.3,30,16.1,4811
+E05011995,Shirebrook South,4 - Quintile 4,5.6,75.7,81.4,4.1,28.6,23.3,5245
+E05011996,South Normanton East,5 - Quintile 5 Lowest 20%,5.9,78.5,83.5,4.1,22.5,25,4932
+E05011997,South Normanton West,5 - Quintile 5 Lowest 20%,9.1,82.1,85.3,2.8,16.8,25.7,6698
+E05011998,Tibshelf,4 - Quintile 4,11.3,77.6,84.7,3.1,19.8,26.7,4243
+E05011999,Whitwell,5 - Quintile 5 Lowest 20%,3.7,77.9,84,3,23.8,30,3928
+E05012040,Ashover,5 - Quintile 5 Lowest 20%,N/A - not available,N/A - not available,N/A - not available,1.5,12.5,N/A - not available,1921
+E05012041,Barlow & Holmesfield,4 - Quintile 4,N/A - not available,N/A - not available,86,2.4,13.1,N/A - not available,1957
+E05012042,Brampton & Walton,4 - Quintile 4,N/A - not available,82.2,83.1,1.9,10.5,18.2,3475
+E05012043,Clay Cross North,5 - Quintile 5 Lowest 20%,7.3,78.5,80.7,4.3,26.3,27.8,6288
+E05012044,Clay Cross South,4 - Quintile 4,8.7,76.6,81.2,4.8,31,34.5,3797
+E05012045,Coal Aston,4 - Quintile 4,6.2,79,88,1.9,6.9,14.3,3700
+E05012046,Dronfield North,4 - Quintile 4,7.3,77.4,80.9,3.9,16.5,26.1,3663
+E05012047,Dronfield South,4 - Quintile 4,7.5,83.2,85,2.1,7.6,13.9,6036
+E05012048,Dronfield Woodhouse,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,1.4,N/A - not available,15.4,1940
+E05012049,Eckington North,4 - Quintile 4,5.7,79.7,81.6,3.7,12,27.3,3971
+E05012050,Eckington South & Renishaw,4 - Quintile 4,4.9,81.3,81.1,4.1,19.7,22,6217
+E05012051,Gosforth Valley,4 - Quintile 4,6,83.2,88.8,1.4,5.3,11.1,5736
+E05012052,Grassmoor,4 - Quintile 4,6.9,78.8,81.9,4.8,30.3,23.5,4084
+E05012053,Holmewood & Heath,3 - Quintile 3,8.7,74.3,79.5,4.4,35,28.6,4306
+E05012054,Killamarsh East,4 - Quintile 4,8,78.1,78.4,3.7,15.5,27.3,3752
+E05012055,Killamarsh West,3 - Quintile 3,4.7,81.3,86.4,2.8,13,25.7,5789
+E05012056,North Wingfield Central,3 - Quintile 3,7.3,78.7,81.9,3.8,28.9,25,6034
+E05012057,Pilsley & Morton,2 - Quintile 2,4.7,77.5,83.3,2.8,15,33.3,5542
+E05012058,Ridgeway & Marsh Lane,2 - Quintile 2,N/A - not available,N/A - not available,N/A - not available,3.2,16.9,N/A - not available,1650
+E05012059,Shirland,4 - Quintile 4,6.8,80.3,83,4,23.4,23.3,6123
+E05012060,Sutton,3 - Quintile 3,4,80.6,82.5,2.9,20.7,20,4149
+E05012061,Tupton,4 - Quintile 4,7.3,77.6,82.9,2.9,20.8,20,5636
+E05012062,Unstone,4 - Quintile 4,8,N/A - not available,N/A - not available,4.5,21.2,N/A - not available,1793
+E05012063,Wingerworth,4 - Quintile 4,5.5,82.8,87.5,1.7,4.5,15.8,4657
+E05012270,Aspley,3 - Quintile 3,8.2,75.8,79.6,9.9,54.7,25.9,19560
+E05012271,Basford,3 - Quintile 3,6.3,76.7,81.8,7.4,34.6,24.6,16780
+E05012272,Berridge,1 - Quintile 1 Highest 20%,7.8,76.3,79.9,9.5,32.5,22.9,17436
+E05012273,Bestwood,3 - Quintile 3,7.9,75.7,80.3,9.3,43.3,27.7,16995
+E05012274,Bilborough,2 - Quintile 2,7.6,74.3,77.7,7.5,48.7,27.8,16737
+E05012275,Bulwell,4 - Quintile 4,7.8,73.8,78.4,10.6,52.9,26.9,16328
+E05012276,Bulwell Forest,3 - Quintile 3,7,78,82.8,6,28.1,21.3,13352
+E05012277,Castle,1 - Quintile 1 Highest 20%,7.9,77.5,89.8,2.1,18.4,30,15429
+E05012278,Clifton East,3 - Quintile 3,7.5,77.2,80.9,7.2,36.9,25.2,16865
+E05012279,Clifton West,5 - Quintile 5 Lowest 20%,6.7,80.7,84.1,3.1,24.6,22.4,10744
+E05012280,Dales,2 - Quintile 2,9.2,78.2,81.6,9.1,38.1,26.2,17047
+E05012281,Hyson Green & Arboretum,1 - Quintile 1 Highest 20%,8.5,73.7,78.9,7.5,39.1,24.2,26873
+E05012282,Leen Valley,3 - Quintile 3,8.6,78.8,81.2,6.4,24.3,20.8,9139
+E05012283,Lenton & Wollaton East,2 - Quintile 2,7.1,76.9,81.8,2.2,21,27.3,24076
+E05012284,Mapperley,2 - Quintile 2,7.7,77.1,80.6,6.9,31.6,27.5,16544
+E05012285,Meadows,2 - Quintile 2,6.6,75.4,80,7.4,36,26.6,10654
+E05012286,Radford,1 - Quintile 1 Highest 20%,5.7,75.3,82.3,4.7,30.4,18.9,17414
+E05012287,St. Ann's,3 - Quintile 3,8,75.4,79.2,6.4,43.1,27.6,23812
+E05012288,Sherwood,2 - Quintile 2,6.9,76.9,82,6.5,28.1,23.5,16084
+E05012289,Wollaton West,3 - Quintile 3,7.9,82.5,86.9,2.9,10.8,15,15229
+E05012632,Barleythorpe,3 - Quintile 3,N/A - not available,N/A - not available,N/A - not available,2.4,N/A - not available,18.2,2094
+E05012633,Braunston & Martinsthorpe,4 - Quintile 4,N/A - not available,84.8,85.5,1.2,13.6,N/A - not available,2434
+E05012634,Cottesmore,4 - Quintile 4,4.9,80.2,86.1,1.5,6.8,29.2,2492
+E05012635,Exton,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,3,12.9,N/A - not available,1381
+E05012636,Greetham,4 - Quintile 4,5.8,83.7,N/A - not available,1.9,20.1,N/A - not available,2373
+E05012637,Ketton,4 - Quintile 4,11.4,82.8,84.6,1.8,9.8,16.7,2909
+E05012638,Langham,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,2.5,3.8,N/A - not available,1447
+E05012639,Lyddington,4 - Quintile 4,12.1,N/A - not available,N/A - not available,3.3,12,N/A - not available,1363
+E05012640,Normanton,5 - Quintile 5 Lowest 20%,6.1,86.4,88,1.2,4.1,18.8,3584
+E05012641,Oakham North East,5 - Quintile 5 Lowest 20%,10,81.3,88.3,2.5,7.1,28.6,3389
+E05012642,Oakham North West,4 - Quintile 4,3.4,78.5,81,3.7,11.7,20.8,3639
+E05012643,Oakham South,3 - Quintile 3,5,82,88.8,2.5,4.8,23.5,4199
+E05012644,Ryhall & Casterton,4 - Quintile 4,3.7,84.1,89,2.5,7.9,27.8,2938
+E05012645,Uppingham,4 - Quintile 4,3.7,83.6,84.7,2.7,7.3,20,5001
+E05012646,Whissendine,4 - Quintile 4,N/A - not available,N/A - not available,N/A - not available,2.6,5.8,N/A - not available,1233
+E05013213,Brickhill and Queensway,5 - Quintile 5 Lowest 20%,7.6,77.8,81.1,N/A - not available,33.9,24.3,13639
+E05013214,Burton and Broughton,5 - Quintile 5 Lowest 20%,7.4,80.6,84.1,N/A - not available,15.6,21.4,12775
+E05013215,Clover Hill,5 - Quintile 5 Lowest 20%,8.3,80.4,81.1,N/A - not available,19.2,25,12785
+E05013216,Corby Rural,5 - Quintile 5 Lowest 20%,5.7,80.4,83,N/A - not available,15.2,21.6,12550
+E05013217,Corby West,5 - Quintile 5 Lowest 20%,9,77.1,80.6,N/A - not available,25.5,28.4,12922
+E05013218,Croyland and Swanspool,5 - Quintile 5 Lowest 20%,8.5,76.1,79.5,N/A - not available,29.3,25,14098
+E05013219,Desborough,5 - Quintile 5 Lowest 20%,6.8,78.9,82.9,N/A - not available,12.8,22.6,13795
+E05013220,Earls Barton,5 - Quintile 5 Lowest 20%,5.6,81.4,83.7,N/A - not available,10.7,21.4,12523
+E05013221,Finedon,5 - Quintile 5 Lowest 20%,6.7,79,82.8,N/A - not available,23.5,24.7,14816
+E05013222,Hatton Park,5 - Quintile 5 Lowest 20%,7.1,80.3,84.5,N/A - not available,17.8,21.3,14046
+E05013223,Higham Ferrers,5 - Quintile 5 Lowest 20%,6.8,80.2,83.6,N/A - not available,11.6,16.7,13045
+E05013224,Irchester,5 - Quintile 5 Lowest 20%,5.2,80,83.5,N/A - not available,12.6,20.4,10959
+E05013225,Irthlingborough,5 - Quintile 5 Lowest 20%,6.4,79.5,81.1,N/A - not available,17.3,20.3,13819
+E05013226,Ise,5 - Quintile 5 Lowest 20%,8,80.9,84.7,N/A - not available,9,20.8,10675
+E05013227,Kingswood,5 - Quintile 5 Lowest 20%,9.2,74.5,79.9,N/A - not available,41.1,22.9,15808
+E05013228,Lloyds,5 - Quintile 5 Lowest 20%,6.8,75.2,79.3,N/A - not available,25.9,25.9,15734
+E05013229,Northall,5 - Quintile 5 Lowest 20%,6.8,77.3,80.7,N/A - not available,24.7,21.1,14296
+E05013230,Oakley,5 - Quintile 5 Lowest 20%,5.7,81.5,83,N/A - not available,15.4,21.6,16039
+E05013231,Oundle,5 - Quintile 5 Lowest 20%,6.2,83.3,85.8,N/A - not available,10.1,20,13620
+E05013232,Raunds,2 - Quintile 2,7.5,81,82.4,N/A - not available,12.1,22.2,11609
+E05013233,Rothwell and Mawsley,2 - Quintile 2,6.5,80.6,83.9,N/A - not available,15.6,23.4,12186
+E05013234,Rushden Pemberton West,4 - Quintile 4,9,79.5,82.2,N/A - not available,17.2,25,12624
+E05013235,Rushden South,4 - Quintile 4,8.5,78.6,82.9,N/A - not available,18.1,23.7,16230
+E05013236,Thrapston,2 - Quintile 2,5.3,81.1,85.2,N/A - not available,10.4,20.3,14156
+E05013237,Wicksteed,2 - Quintile 2,9.1,78.9,82.4,N/A - not available,21.2,22.4,13584
+E05013238,Windmill,3 - Quintile 3,8.1,78.7,81.7,N/A - not available,34.8,29.6,12115
+E05013239,Abington and Phippsville,4 - Quintile 4,6.3,76.3,80.9,N/A - not available,19.3,15.4,12953
+E05013240,Billing and Rectory Farm,3 - Quintile 3,8.4,77.7,79.7,N/A - not available,32.5,20.8,15015
+E05013241,Boothville and Parklands,3 - Quintile 3,7.5,79.6,82.2,N/A - not available,14.9,22.7,10546
+E05013242,Brackley,3 - Quintile 3,3.3,81.1,84.6,N/A - not available,6.1,19,15775
+E05013243,Braunston and Crick,3 - Quintile 3,3.6,81.4,84.4,N/A - not available,11.6,16.9,14391
+E05013244,Brixworth,2 - Quintile 2,4.5,81.2,84.9,N/A - not available,9.1,18.2,12472
+E05013245,Bugbrooke,3 - Quintile 3,5.7,81.7,82.1,N/A - not available,8.6,17.2,12752
+E05013246,Castle,3 - Quintile 3,6.1,73.6,78.4,N/A - not available,33,21.8,17609
+E05013247,Dallington Spencer,2 - Quintile 2,8.6,74.6,79.1,N/A - not available,39.9,22.5,13043
+E05013248,Daventry East,3 - Quintile 3,7,79,80.5,N/A - not available,24.6,25.5,10970
+E05013249,Daventry West,3 - Quintile 3,6.4,78.9,85,N/A - not available,18,20.3,12839
+E05013250,Deanshanger,2 - Quintile 2,5.3,81.8,85,N/A - not available,6.6,20.8,12760
+E05013251,Delapre and Rushmere,3 - Quintile 3,7.1,76.2,79.8,N/A - not available,23.8,21.9,13859
+E05013252,Duston East,3 - Quintile 3,6.9,78.7,84.8,N/A - not available,16.8,16.7,10978
+E05013253,Duston West and St. Crispin,2 - Quintile 2,6.1,81,86,N/A - not available,12.6,16.1,10276
+E05013254,East Hunsbury and Shelfleys,3 - Quintile 3,6.3,83,86.8,N/A - not available,8.3,19.6,11696
+E05013255,Hackleton and Grange Park,2 - Quintile 2,6.8,81.5,85.1,N/A - not available,6.6,15.8,14041
+E05013256,Headlands,2 - Quintile 2,7.5,79.2,81.2,N/A - not available,25.5,20.8,14124
+E05013257,Kingsthorpe North,2 - Quintile 2,7.9,80.5,83.5,N/A - not available,14.5,20,11824
+E05013258,Kingsthorpe South,2 - Quintile 2,6.6,76.5,80.8,N/A - not available,26.6,21.9,13342
+E05013259,Long Buckby,3 - Quintile 3,5.8,82,87.9,N/A - not available,9.9,19.6,11405
+E05013260,Middleton Cheney,3 - Quintile 3,6,82.1,84.9,N/A - not available,7.9,21.4,11923
+E05013261,Moulton,2 - Quintile 2,6.7,82.3,82.1,N/A - not available,8.5,13.3,13371
+E05013262,Nene Valley,4 - Quintile 4,7.8,81,83.9,N/A - not available,6.8,15.7,11446
+E05013263,Riverside Park,4 - Quintile 4,4.9,79.2,84,N/A - not available,17.5,19.3,13184
+E05013264,St. George,4 - Quintile 4,6.5,76.5,80.4,N/A - not available,29.6,25.5,13428
+E05013265,Silverstone,4 - Quintile 4,3.3,83,85.5,N/A - not available,9.1,20.4,12976
+E05013266,Sixfields,3 - Quintile 3,6.8,79.6,82.8,N/A - not available,23.3,21.7,16357
+E05013267,Talavera,1 - Quintile 1 Highest 20%,8.9,77.3,80.9,N/A - not available,36.7,24.2,14610
+E05013268,Towcester and Roade,1 - Quintile 1 Highest 20%,4.3,81.4,84,N/A - not available,8.8,22.1,15265
+E05013269,Woodford and Weedon,1 - Quintile 1 Highest 20%,5.1,81.4,84.3,N/A - not available,12.3,17,11503
