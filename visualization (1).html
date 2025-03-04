@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.29.0"></script>
+</head>
+<body>
+  <div id="vis"/>
+  <script>
+    const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Female Life Expectancy vs. Unemployment Rate",
+  "config": {"axisX": {"grid": false}, "axisY": {"grid": false}},
+  "width": 500,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/rmontielz/Other/refs/heads/main/EM_finaldataset.csv"
+  },
+  "transform": [
+    {
+      "calculate": "datum.fem_exp > 83.2 && datum.unemploy > 4.27 ? 'Lower Unemployment' : datum.fem_exp > 83.2 ? 'Above National Average' : datum.unemploy > 4.27 ? 'Below National Average' : 'Better Life Expectancy'",
+      "as": "color_category"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {"type": "circle", "opacity": 0.8},
+      "encoding": {
+        "x": {
+          "field": "fem_exp",
+          "type": "quantitative",
+          "title": "Female Life Expectancy",
+          "scale": {"domain": [74, 94]}
+        },
+        "y": {
+          "field": "unemploy",
+          "type": "quantitative",
+          "title": "Unemployment Rate",
+          "scale": {"domain": [0, 14]}
+        },
+        "size": {
+          "field": "pop",
+          "type": "quantitative",
+          "scale": {"range": [10, 200]},
+          "legend": {"title": "Population Size"}
+        },
+        "color": {
+          "field": "color_category",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Below National Average",
+              "Lower Unemployment",
+              "Better Life Expectancy",
+              "Above National Average"
+            ],
+            "range": ["grey", "#CA2E16", "#3A6F9D", "#571C5F"]
+          },
+          "legend": {"title": "Category"}
+        },
+        "tooltip": [
+          {"field": "label", "type": "nominal", "title": "Ward Name"},
+          {
+            "field": "fem_exp",
+            "type": "quantitative",
+            "title": "Female Life Expectancy"
+          },
+          {
+            "field": "unemploy",
+            "type": "quantitative",
+            "title": "Unemployment Rate"
+          },
+          {"field": "pop", "type": "quantitative", "title": "Population"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "black", "strokeWidth": 2},
+      "transform": [
+        {
+          "regression": "unemploy",
+          "on": "fem_exp",
+          "method": "linear",
+          "extent": [74, 92]
+        }
+      ],
+      "encoding": {
+        "x": {"field": "fem_exp", "type": "quantitative"},
+        "y": {"field": "unemploy", "type": "quantitative"}
+      }
+    },
+    {
+      "mark": {
+        "type": "rule",
+        "color": "black",
+        "opacity": 0.3,
+        "strokeWidth": 1,
+        "strokeDash": [4, 4]
+      },
+      "encoding": {"x": {"datum": 83.2, "type": "quantitative"}}
+    },
+    {
+      "mark": {
+        "type": "rule",
+        "color": "black",
+        "opacity": 0.3,
+        "strokeWidth": 1,
+        "strokeDash": [4, 4]
+      },
+      "encoding": {"y": {"datum": 4.27, "type": "quantitative"}}
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dx": 10,
+        "dy": 10,
+        "color": "black",
+        "fontSize": 9
+      },
+      "encoding": {
+        "x": {"datum": 83.2, "type": "quantitative"},
+        "y": {"datum": 14, "type": "quantitative"},
+        "text": {"value": "National: 83.2 years"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dx": -10,
+        "dy": 10,
+        "color": "black",
+        "fontSize": 8
+      },
+      "encoding": {
+        "x": {"datum": 94, "type": "quantitative"},
+        "y": {"datum": 4.27, "type": "quantitative"},
+        "text": {"value": "National: 4.27%"}
+      }
+    }
+  ]
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>
