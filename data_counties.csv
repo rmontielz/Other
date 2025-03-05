@@ -1,0 +1,574 @@
+﻿code,label1,label2,county,pop,deaths,death_rate,unemploy,poverty,male_exp,fem_exp
+E02002796,Derby 001,Derby ,Derbyshire,5977,69.3,11.59444537,1.6,11.3,84.8,86.7
+E02002797,Derby 002,Derby ,Derbyshire,7256,67.2,9.261300992,1.5,12.7,82.9,89
+E02002798,Derby 003,Derby ,Derbyshire,9655,71.2,7.3744174,2,10.3,82.4,86.8
+E02002799,Derby 004,Derby ,Derbyshire,5993,103.7,17.30352077,4.8,21.2,78.4,81.6
+E02002800,Derby 005,Derby ,Derbyshire,6960,135.5,19.4683908,3,17.7,80.9,80.2
+E02002801,Derby 006,Derby ,Derbyshire,7389,79.6,10.77277033,3.5,16.7,82.6,84.2
+E02002802,Derby 007,Derby ,Derbyshire,7851,152.4,19.41153993,7.8,29.7,74.9,76.9
+E02002803,Derby 008,Derby ,Derbyshire,8610,133.1,15.45876887,4.9,28,74.6,79.4
+E02002804,Derby 009,Derby ,Derbyshire,8717,94.7,10.8638293,5,21.4,77,83.4
+E02002805,Derby 010,Derby ,Derbyshire,5425,88.2,16.25806452,2.3,10.4,80,85.5
+E02002806,Derby 011,Derby ,Derbyshire,6312,136.2,21.57794677,6.8,24.8,73.5,81.4
+E02002807,Derby 012,Derby ,Derbyshire,8632,97.2,11.26042632,5.2,15.8,78.9,83.8
+E02002808,Derby 013,Derby ,Derbyshire,13142,166.5,12.66930452,8.8,33.6,N/A - not available,78.3
+E02002809,Derby 014,Derby ,Derbyshire,6702,143.9,21.47120263,4.1,17.1,75.9,79.4
+E02002810,Derby 015,Derby ,Derbyshire,8484,77,9.075907591,2.4,10.3,83.1,85.6
+E02002811,Derby 016,Derby ,Derbyshire,11482,121.6,10.59048946,14.4,49.1,74.9,82
+E02002812,Derby 017,Derby ,Derbyshire,7567,141,18.63354037,4.1,19.6,77.8,78.8
+E02002813,Derby 018,Derby ,Derbyshire,11785,171.4,14.54391175,14.5,53.9,73.4,77.2
+E02002814,Derby 019,Derby ,Derbyshire,6912,107.6,15.56712963,2.3,13.6,78.6,84
+E02002815,Derby 020,Derby ,Derbyshire,8876,91.5,10.30869761,12.7,34.8,78.3,83.5
+E02002816,Derby 021,Derby ,Derbyshire,9476,66.4,7.007176024,2.6,14.6,82.3,88.3
+E02002817,Derby 022,Derby ,Derbyshire,6182,92.9,15.02749919,3,15.4,80.9,84.1
+E02002818,Derby 023,Derby ,Derbyshire,8584,176.8,20.59645853,9.6,30.7,73.6,77.4
+E02002819,Derby 024,Derby ,Derbyshire,7863,104.2,13.25193946,4.9,19.4,78.5,81.8
+E02002820,Derby 025,Derby ,Derbyshire,9594,124.8,13.00813008,6.5,24.9,74.9,80.3
+E02002821,Derby 026,Derby ,Derbyshire,12060,139.8,11.5920398,9.1,32.9,74.8,79.5
+E02002822,Derby 027,Derby ,Derbyshire,6630,93,14.02714932,4.4,19,79.6,84.5
+E02002823,Derby 028,Derby ,Derbyshire,7306,112.1,15.34355324,5.2,22,76.9,80.6
+E02002824,Derby 029,Derby ,Derbyshire,9883,111.2,11.25164424,7,27.8,78.6,81.3
+E02002825,Derby 030,Derby ,Derbyshire,8523,133.3,15.64003285,3.4,16.6,77.5,80.7
+E02002826,Derby 031,Derby ,Derbyshire,6986,78.7,11.26538792,2.9,16.7,79.8,85.7
+E02002827,Leicester 001,Leicester ,Leicestershire,6344,122.7,19.34110971,6.4,25.9,76.6,81.4
+E02002828,Leicester 002,Leicester ,Leicestershire,7568,91.6,12.10359408,5.1,23.5,79.1,85.4
+E02002829,Leicester 003,Leicester ,Leicestershire,11204,139.1,12.41520885,9.5,35.7,75.3,78.6
+E02002830,Leicester 004,Leicester ,Leicestershire,10069,94.9,9.424967723,9.1,33.9,80,86.7
+E02002831,Leicester 005,Leicester ,Leicestershire,6687,127.2,19.02198295,6.5,29.5,76.6,81.7
+E02002832,Leicester 006,Leicester ,Leicestershire,9223,105.7,11.46047924,5.9,38.4,76.6,83.2
+E02002833,Leicester 007,Leicester ,Leicestershire,8404,89.9,10.69728701,5.2,34.6,78,86
+E02002834,Leicester 008,Leicester ,Leicestershire,11737,80.7,6.875692255,4.2,20.1,80.7,86.1
+E02002835,Leicester 009,Leicester ,Leicestershire,14604,116.8,7.99780882,4.7,22.3,77.2,82.3
+E02002836,Leicester 010,Leicester ,Leicestershire,9644,97.5,10.1099129,5.2,40.2,79.2,83.8
+E02002837,Leicester 011,Leicester ,Leicestershire,8514,129.5,15.21024195,7.9,42.8,75.1,82.3
+E02002838,Leicester 012,Leicester ,Leicestershire,8015,158.6,19.78789769,10.7,36.7,72.5,78
+E02002839,Leicester 013,Leicester ,Leicestershire,7862,116.5,14.81811244,5.7,24,76,80.6
+E02002842,Leicester 016,Leicester ,Leicestershire,8592,126.1,14.6764432,8.1,32.9,75,83.4
+E02002843,Leicester 017,Leicester ,Leicestershire,14193,111.2,7.834848165,5.5,45.3,78.2,82
+E02002844,Leicester 018,Leicester ,Leicestershire,11531,112.6,9.764981355,8.7,57,76.4,82.7
+E02002845,Leicester 019,Leicester ,Leicestershire,10770,133.3,12.37697307,7.4,35.8,76,79.4
+E02002846,Leicester 020,Leicester ,Leicestershire,7039,112.1,15.92555761,4.1,17.1,78.9,81.5
+E02002847,Leicester 021,Leicester ,Leicestershire,10009,98,9.791187931,5.3,33,77.2,84.7
+E02002848,Leicester 022,Leicester ,Leicestershire,11193,100.3,8.960957741,8.3,45.2,78.4,85
+E02002849,Leicester 023,Leicester ,Leicestershire,14638,146,9.974040169,6.3,36.4,74.5,80.5
+E02002851,Leicester 025,Leicester ,Leicestershire,8258,87.1,10.54734803,4.7,23,81.9,85.3
+E02002852,Leicester 026,Leicester ,Leicestershire,6895,152.7,22.14648296,10.8,43.2,73,78.8
+E02002853,Leicester 027,Leicester ,Leicestershire,13199,82.9,6.280778847,6.8,33.1,80.1,86.3
+E02002854,Leicester 028,Leicester ,Leicestershire,8149,181.2,22.23585716,8.7,34.2,72.8,77.6
+E02002855,Leicester 029,Leicester ,Leicestershire,8066,101.7,12.60848004,5.5,22.2,78.4,83.5
+E02002856,Leicester 030,Leicester ,Leicestershire,11613,130.4,11.22879532,3.7,22.1,75.8,81.4
+E02002857,Leicester 031,Leicester ,Leicestershire,6694,104.5,15.61099492,7.2,24,75.7,83.6
+E02002858,Leicester 032,Leicester ,Leicestershire,6865,109.2,15.90677349,2.3,16.3,81.3,84.2
+E02002860,Leicester 034,Leicester ,Leicestershire,7757,137.5,17.72592497,5.2,20.2,79.4,80.4
+E02002861,Leicester 035,Leicester ,Leicestershire,7393,132.7,17.94941161,9.9,36.6,74.5,80.2
+E02002862,Leicester 036,Leicester ,Leicestershire,7923,122.6,15.47393664,8.1,32.8,75.5,80.1
+E02002863,Rutland 001,Rutland ,Rutland,8087,72.7,8.989736614,1.7,13.8,83.2,86.2
+E02002864,Rutland 002,Rutland ,Rutland,8046,101,12.55282128,2.8,14.8,82.1,82.9
+E02002865,Rutland 003,Rutland ,Rutland,7955,70.3,8.837209302,2.7,14.3,81.6,88.4
+E02002866,Rutland 004,Rutland ,Rutland,7590,84,11.06719368,2,13.3,83.6,86
+E02002867,Rutland 005,Rutland ,Rutland,8798,72.3,8.217776767,2.4,16.9,84.4,85.7
+E02002868,Nottingham 001,Nottingham ,Nottinghamshire,5764,92.5,16.04788341,5.4,17.2,79.8,84
+E02002869,Nottingham 002,Nottingham ,Nottinghamshire,7574,139.2,18.37866385,10.6,36.6,74.3,78.6
+E02002871,Nottingham 004,Nottingham ,Nottinghamshire,7588,115,15.1555087,6.4,21.6,76.8,82
+E02002872,Nottingham 005,Nottingham ,Nottinghamshire,8754,151.1,17.26068083,10.6,31.8,73.4,77.9
+E02002873,Nottingham 006,Nottingham ,Nottinghamshire,9500,126.6,13.32631579,8.8,29.1,76.8,80.7
+E02002874,Nottingham 007,Nottingham ,Nottinghamshire,8300,104.2,12.55421687,7,22.6,77.4,83.3
+E02002875,Nottingham 008,Nottingham ,Nottinghamshire,8630,125.9,14.58864426,8.3,29.3,75.5,80.9
+E02002876,Nottingham 009,Nottingham ,Nottinghamshire,8150,106.8,13.10429448,6.4,25.5,77.7,82.9
+E02002877,Nottingham 010,Nottingham ,Nottinghamshire,7768,110.6,14.23789907,5.2,20.5,76.9,81.8
+E02002878,Nottingham 011,Nottingham ,Nottinghamshire,9661,137.4,14.22213021,10.1,36.5,75.6,79.6
+E02002879,Nottingham 012,Nottingham ,Nottinghamshire,9844,118.4,12.02763104,7.7,23.1,N/A - not available,82.1
+E02002880,Nottingham 013,Nottingham ,Nottinghamshire,9102,130.6,14.34849484,9.7,34.1,77.2,79.7
+E02002881,Nottingham 014,Nottingham ,Nottinghamshire,6880,159.5,23.18313953,8.3,34.1,75.8,77.8
+E02002882,Nottingham 015,Nottingham ,Nottinghamshire,8618,125.6,14.57414713,6.6,27.2,78.5,80.5
+E02002883,Nottingham 016,Nottingham ,Nottinghamshire,7942,150.5,18.94988668,7.8,27.2,75.2,79.6
+E02002884,Nottingham 017,Nottingham ,Nottinghamshire,7120,162.6,22.83707865,11.6,41.5,74,77.4
+E02002885,Nottingham 018,Nottingham ,Nottinghamshire,9332,159.4,17.08101157,15.1,50,74.1,78.1
+E02002886,Nottingham 019,Nottingham ,Nottinghamshire,9782,93.2,9.527703946,7.5,26.6,80.1,83.3
+E02002887,Nottingham 020,Nottingham ,Nottinghamshire,6492,151.9,23.39802834,7.2,31.7,71.5,77.1
+E02002888,Nottingham 021,Nottingham ,Nottinghamshire,7619,139.1,18.25698911,10.2,37.8,74.4,81
+E02002889,Nottingham 022,Nottingham ,Nottinghamshire,13877,167.8,12.09195071,3.6,50.4,N/A - not available,77.3
+E02002890,Nottingham 023,Nottingham ,Nottinghamshire,14483,143.1,9.88054961,4.6,49.9,75.2,77.1
+E02002891,Nottingham 024,Nottingham ,Nottinghamshire,8139,103.7,12.74112299,6.5,22.8,79.2,82.4
+E02002892,Nottingham 025,Nottingham ,Nottinghamshire,6096,128.3,21.04658793,6.6,28.6,75.9,79.2
+E02002893,Nottingham 026,Nottingham ,Nottinghamshire,16371,131.9,8.056929937,5.7,45.6,75.3,80.5
+E02002894,Nottingham 027,Nottingham ,Nottinghamshire,7050,85.2,12.08510638,2.8,16.6,81.3,84.9
+E02002895,Nottingham 028,Nottingham ,Nottinghamshire,8861,73.5,8.294774856,2.3,30.4,78.7,90.7
+E02002896,Nottingham 029,Nottingham ,Nottinghamshire,10631,117.2,11.02436271,10.8,41.1,77.7,80.6
+E02002897,Nottingham 030,Nottingham ,Nottinghamshire,8179,63.1,7.71487957,3,16.7,83.4,89
+E02002898,Nottingham 031,Nottingham ,Nottinghamshire,11275,111.4,9.880266075,2,34.6,75.6,80.2
+E02002899,Nottingham 032,Nottingham ,Nottinghamshire,11554,97.5,8.43863597,1.7,26.8,77.3,83
+E02002901,Nottingham 034,Nottingham ,Nottinghamshire,6146,100.2,16.30328669,3.7,16.6,79.9,84.8
+E02002902,Nottingham 035,Nottingham ,Nottinghamshire,9241,119.9,12.97478628,5.6,27.3,77.2,81.4
+E02002903,Nottingham 036,Nottingham ,Nottinghamshire,6184,95.7,15.47542044,6.9,25,79.3,83.6
+E02002904,Nottingham 037,Nottingham ,Nottinghamshire,6038,120.6,19.97350116,6.3,27,77.9,79.3
+E02004029,Amber Valley 001,Amber Valley ,Derbyshire,7156,115.4,16.12632756,4.8,23,76.4,81.9
+E02004030,Amber Valley 002,Amber Valley ,Derbyshire,6027,91.7,15.21486643,2.2,15,81,84.2
+E02004031,Amber Valley 003,Amber Valley ,Derbyshire,7895,137.3,17.39075364,6.7,29.1,75.4,79.1
+E02004032,Amber Valley 004,Amber Valley ,Derbyshire,8562,85.2,9.950946041,2.6,15.7,81,85.2
+E02004033,Amber Valley 005,Amber Valley ,Derbyshire,9177,118.3,12.89092296,3.9,18.7,78.5,80.3
+E02004034,Amber Valley 006,Amber Valley ,Derbyshire,7277,82.6,11.35083139,2.4,11.9,81,85.6
+E02004035,Amber Valley 007,Amber Valley ,Derbyshire,6677,79.9,11.966452,1.6,13.5,81.9,83.9
+E02004036,Amber Valley 008,Amber Valley ,Derbyshire,10427,121.1,11.61407883,4.1,21.2,78.5,81.8
+E02004037,Amber Valley 009,Amber Valley ,Derbyshire,8167,72.2,8.840455492,1.9,9.9,81,88
+E02004038,Amber Valley 010,Amber Valley ,Derbyshire,7832,122.4,15.62819203,3.1,18.2,80.1,81.1
+E02004039,Amber Valley 011,Amber Valley ,Derbyshire,8100,80.6,9.950617284,1.7,13.6,82.3,85.8
+E02004040,Amber Valley 012,Amber Valley ,Derbyshire,9754,99.9,10.24195202,2.8,16,80.3,83.2
+E02004041,Amber Valley 013,Amber Valley ,Derbyshire,7452,120.9,16.22383253,3.7,16.8,77.8,80.9
+E02004043,Amber Valley 015,Amber Valley ,Derbyshire,7394,95.3,12.88882878,2.4,15.5,80.2,83.7
+E02004044,Amber Valley 016,Amber Valley ,Derbyshire,8820,78,8.843537415,1.6,14.2,84.4,84.9
+E02004045,Bolsover 001,Bolsover ,Derbyshire,9812,111.4,11.35344476,2.5,16.1,79.2,82.2
+E02004046,Bolsover 002,Bolsover ,Derbyshire,6346,99.7,15.7106839,2.8,17.3,79,83.5
+E02004047,Bolsover 003,Bolsover ,Derbyshire,6408,163.9,25.57740325,5.3,24.7,75.4,77.9
+E02004048,Bolsover 004,Bolsover ,Derbyshire,7072,120.6,17.05316742,5.3,25.7,76.9,81.7
+E02004049,Bolsover 005,Bolsover ,Derbyshire,7863,114,14.4982831,2.6,17.9,78.6,81.6
+E02004050,Bolsover 006,Bolsover ,Derbyshire,7908,135.3,17.10925645,3.5,24.8,76.4,81.4
+E02004051,Bolsover 007,Bolsover ,Derbyshire,10222,125.2,12.24809235,4.2,22.6,77.2,81.9
+E02004052,Bolsover 008,Bolsover ,Derbyshire,8684,113.4,13.05849839,3.1,17.8,77.4,82.9
+E02004053,Bolsover 009,Bolsover ,Derbyshire,7913,103.6,13.09237963,4.2,22.5,78.5,83.2
+E02004054,Bolsover 010,Bolsover ,Derbyshire,9077,111.8,12.31684477,3.7,17.1,80.2,81.9
+E02004055,Chesterfield 001,Chesterfield ,Derbyshire,7151,111,15.52230457,4.7,20.2,79.1,81
+E02004056,Chesterfield 002,Chesterfield ,Derbyshire,7914,152.7,19.29492039,5.2,24.9,75.1,78.9
+E02004057,Chesterfield 003,Chesterfield ,Derbyshire,7886,110.7,14.03753487,4,19.4,78.2,81.3
+E02004058,Chesterfield 004,Chesterfield ,Derbyshire,7895,115.7,14.65484484,6.2,26.2,77.3,81
+E02004059,Chesterfield 005,Chesterfield ,Derbyshire,7098,129,18.17413356,3,15.8,79,80.8
+E02004060,Chesterfield 006,Chesterfield ,Derbyshire,7654,115.3,15.06401881,3.9,19.5,78,81.1
+E02004061,Chesterfield 007,Chesterfield ,Derbyshire,7624,110.7,14.51993704,4.5,21.4,76.6,82.9
+E02004062,Chesterfield 008,Chesterfield ,Derbyshire,7788,108.2,13.89316898,4,19.3,77,83.6
+E02004063,Chesterfield 009,Chesterfield ,Derbyshire,7929,92.4,11.65342414,2.7,13.2,80.6,84.2
+E02004064,Chesterfield 010,Chesterfield ,Derbyshire,9737,136.6,14.02896169,6,23.8,76.4,79.7
+E02004065,Chesterfield 011,Chesterfield ,Derbyshire,8060,77.1,9.565756824,1.8,10.3,81.6,86.9
+E02004066,Chesterfield 012,Chesterfield ,Derbyshire,11632,121.1,10.41093535,2.9,16.1,78.9,81
+E02004067,Chesterfield 013,Chesterfield ,Derbyshire,6562,121.9,18.57665346,7.7,30.9,75.1,82.4
+E02004068,Derbyshire Dales 001,Derbyshire Dales ,Derbyshire,7333,79.5,10.84140188,1.6,15.7,82.8,85.4
+E02004069,Derbyshire Dales 002,Derbyshire Dales ,Derbyshire,6337,82.9,13.08189995,1.6,13.9,81.3,85.2
+E02004070,Derbyshire Dales 003,Derbyshire Dales ,Derbyshire,6138,110.6,18.01889866,1.8,16.5,80.6,83.6
+E02004071,Derbyshire Dales 004,Derbyshire Dales ,Derbyshire,5040,77.1,15.29761905,2.1,16.1,81.9,86.1
+E02004072,Derbyshire Dales 005,Derbyshire Dales ,Derbyshire,9396,100.9,10.73861218,2.2,12.5,79.4,84.4
+E02004073,Derbyshire Dales 006,Derbyshire Dales ,Derbyshire,9190,82.3,8.955386289,3.4,19.1,79.8,85.8
+E02004074,Derbyshire Dales 007,Derbyshire Dales ,Derbyshire,6138,86.4,14.07624633,2.2,17.4,80.2,85
+E02004075,Derbyshire Dales 008,Derbyshire Dales ,Derbyshire,7166,90.8,12.67094613,1.8,15.9,80.4,84.7
+E02004076,Derbyshire Dales 009,Derbyshire Dales ,Derbyshire,7507,91.9,12.24190755,2.8,20.5,81,85.1
+E02004077,Derbyshire Dales 010,Derbyshire Dales ,Derbyshire,8177,70.7,8.646202764,1.9,13,83.5,86.4
+E02004078,Erewash 001,Erewash ,Derbyshire,7117,112,15.73696782,7.5,30.2,75.9,81.3
+E02004080,Erewash 003,Erewash ,Derbyshire,9904,131.9,13.31785137,6,23.4,75.1,81
+E02004081,Erewash 004,Erewash ,Derbyshire,5943,69,11.61029783,2.2,12.9,82,89.7
+E02004082,Erewash 005,Erewash ,Derbyshire,6174,107.6,17.42792355,1.6,11.5,82.2,82.1
+E02004083,Erewash 006,Erewash ,Derbyshire,8226,89.4,10.86797958,3.6,17.2,82,83.6
+E02004084,Erewash 007,Erewash ,Derbyshire,6146,109.1,17.75138301,4.3,25.2,78.2,81
+E02004085,Erewash 008,Erewash ,Derbyshire,9033,102.1,11.30300011,3.6,16.6,78.9,82.9
+E02004086,Erewash 009,Erewash ,Derbyshire,7320,105.4,14.3989071,3.2,13.9,79.3,83.4
+E02004087,Erewash 010,Erewash ,Derbyshire,7888,99.8,12.65212982,4.8,20.2,78.8,82.4
+E02004088,Erewash 011,Erewash ,Derbyshire,7805,88.8,11.37732223,1.8,11.9,81.7,84.6
+E02004089,Erewash 012,Erewash ,Derbyshire,7222,124.8,17.28053171,6.9,26.1,76.3,79.7
+E02004090,Erewash 013,Erewash ,Derbyshire,6166,93.7,15.19623743,2.7,15.3,79.3,83.8
+E02004091,Erewash 014,Erewash ,Derbyshire,9415,97.8,10.38767924,3.5,12.6,80.2,84.4
+E02004092,Erewash 015,Erewash ,Derbyshire,9871,89.5,9.066963833,3.6,16.1,80.6,85.1
+E02004093,High Peak 001,High Peak ,Derbyshire,6337,125.2,19.7569828,3.5,16.5,76.3,82.1
+E02004094,High Peak 002,High Peak ,Derbyshire,7297,144.5,19.80265863,4.8,24.1,75.6,79
+E02004095,High Peak 003,High Peak ,Derbyshire,10301,108.6,10.54266576,4,20.1,79,82.7
+E02004096,High Peak 004,High Peak ,Derbyshire,9669,84.7,8.759954494,2,11.8,82.7,84.7
+E02004097,High Peak 005,High Peak ,Derbyshire,7785,79.9,10.26332691,2.5,13.7,82.9,84.8
+E02004098,High Peak 006,High Peak ,Derbyshire,7205,107,14.85079806,3.3,17.8,78.9,82.5
+E02004100,High Peak 008,High Peak ,Derbyshire,8085,84.9,10.50092764,2.4,15.3,82.2,84.3
+E02004102,High Peak 010,High Peak ,Derbyshire,8407,139,16.53384085,5,24.1,76.8,79.4
+E02004103,High Peak 011,High Peak ,Derbyshire,7107,123.6,17.39130435,4.3,21.5,76.7,81.9
+E02004104,High Peak 012,High Peak ,Derbyshire,7420,76.5,10.30997305,1.9,11.2,80.2,86.5
+E02004105,North East Derbyshire 001,North East Derbyshire ,Derbyshire,9541,116.3,12.18949796,3.2,15.1,79.2,82
+E02004106,North East Derbyshire 002,North East Derbyshire ,Derbyshire,6639,95.2,14.33950896,2.2,12.4,80.3,85
+E02004108,North East Derbyshire 004,North East Derbyshire ,Derbyshire,7514,122.4,16.28959276,3.9,14.5,78.8,82.5
+E02004109,North East Derbyshire 005,North East Derbyshire ,Derbyshire,6736,82.2,12.20308789,1.6,11.5,82.4,84.9
+E02004110,North East Derbyshire 006,North East Derbyshire ,Derbyshire,7402,72.1,9.740610646,1.5,10.1,84.1,85.7
+E02004111,North East Derbyshire 007,North East Derbyshire ,Derbyshire,5749,94.6,16.45503566,2.9,17.9,80.8,83.1
+E02004112,North East Derbyshire 008,North East Derbyshire ,Derbyshire,6512,87.2,13.39066339,1.7,12.7,82.5,85
+E02004113,North East Derbyshire 009,North East Derbyshire ,Derbyshire,10112,142.2,14.0625,4.9,26.5,74.8,79.4
+E02004114,North East Derbyshire 010,North East Derbyshire ,Derbyshire,8036,92.7,11.53558985,2.1,14.4,81.5,83.5
+E02004115,North East Derbyshire 011,North East Derbyshire ,Derbyshire,9278,110.6,11.92067256,2.9,17.8,79.1,83.7
+E02004116,North East Derbyshire 012,North East Derbyshire ,Derbyshire,8378,131.3,15.67199809,4.9,27.5,76.9,80.3
+E02004117,North East Derbyshire 013,North East Derbyshire ,Derbyshire,7947,118.3,14.88612055,3.7,19.6,78.5,81.8
+E02004118,South Derbyshire 001,South Derbyshire ,Derbyshire,7681,89.6,11.66514777,2.4,14.4,81.1,83.8
+E02004119,South Derbyshire 002,South Derbyshire ,Derbyshire,12146,103.9,8.554256545,1.6,12.5,79.5,83.4
+E02004120,South Derbyshire 003,South Derbyshire ,Derbyshire,10521,84.7,8.050565536,2.5,13.7,81.5,84.1
+E02004121,South Derbyshire 004,South Derbyshire ,Derbyshire,8893,76.2,8.568537052,2.5,14.7,81.5,87
+E02004122,South Derbyshire 005,South Derbyshire ,Derbyshire,7166,100.1,13.96874128,1.3,13.3,79.8,84.8
+E02004123,South Derbyshire 006,South Derbyshire ,Derbyshire,6868,100.6,14.64764123,2.3,13.6,79.3,85.1
+E02004124,South Derbyshire 007,South Derbyshire ,Derbyshire,7850,87.9,11.19745223,3.8,16.4,80,84.9
+E02004125,South Derbyshire 008,South Derbyshire ,Derbyshire,9239,108,11.68957679,4.1,18.1,76.7,83
+E02004126,South Derbyshire 009,South Derbyshire ,Derbyshire,7652,126.8,16.57083116,3.5,19,77.2,80.5
+E02004128,South Derbyshire 011,South Derbyshire ,Derbyshire,11684,112.8,9.654228004,2.7,16.1,78.7,81.5
+E02005334,Blaby 002,Blaby ,Leicestershire,6116,72.9,11.91955526,2.2,9.8,82.6,86.7
+E02005335,Blaby 003,Blaby ,Leicestershire,7272,110.7,15.22277228,2.2,13.9,81.1,82.7
+E02005336,Blaby 004,Blaby ,Leicestershire,7544,83.5,11.06839873,3.6,13.8,80.9,86.1
+E02005337,Blaby 005,Blaby ,Leicestershire,9939,85.5,8.602475098,4.1,17.7,81.2,85.9
+E02005338,Blaby 006,Blaby ,Leicestershire,11161,96.3,8.628259117,3.1,14.5,80.4,85.1
+E02005339,Blaby 007,Blaby ,Leicestershire,8592,87.1,10.13733706,2.2,12.3,80.2,85.7
+E02005340,Blaby 008,Blaby ,Leicestershire,8916,94,10.54284432,2.7,16,80,85.4
+E02005341,Blaby 009,Blaby ,Leicestershire,7773,88.3,11.35983533,1.9,13.3,81.1,84.8
+E02005342,Blaby 010,Blaby ,Leicestershire,7351,81.6,11.10053054,2.7,11.6,82.6,85.5
+E02005343,Blaby 011,Blaby ,Leicestershire,7759,83.8,10.80036087,2.4,12.6,81.1,86.1
+E02005344,Blaby 012,Blaby ,Leicestershire,8854,99.6,11.24915293,3,16,81.7,82
+E02005345,Charnwood 001,Charnwood ,Leicestershire,6653,75.9,11.40838719,2.9,12.8,81.4,86.8
+E02005346,Charnwood 002,Charnwood ,Leicestershire,13397,146.3,10.9203553,6.5,29.2,75.4,79.1
+E02005347,Charnwood 003,Charnwood ,Leicestershire,11521,127.3,11.04938807,2.1,25,74.9,80.7
+E02005348,Charnwood 004,Charnwood ,Leicestershire,5692,103.7,18.21855235,2,20,79.6,81.7
+E02005349,Charnwood 005,Charnwood ,Leicestershire,7595,100.2,13.19289006,2.7,13.4,79.7,82.7
+E02005350,Charnwood 006,Charnwood ,Leicestershire,6709,159.9,23.83365628,3,17.2,78,80.1
+E02005351,Charnwood 007,Charnwood ,Leicestershire,12687,93.7,7.38551273,1.3,17.9,78.7,85.7
+E02005352,Charnwood 008,Charnwood ,Leicestershire,6543,78.3,11.96698762,1.4,13.3,82.4,84.9
+E02005353,Charnwood 009,Charnwood ,Leicestershire,11012,101.1,9.180893571,3.9,20.8,78.5,84.2
+E02005354,Charnwood 010,Charnwood ,Leicestershire,10367,69.5,6.703964503,1.6,9.5,82.3,88.9
+E02005355,Charnwood 011,Charnwood ,Leicestershire,7428,86.7,11.6720517,3,13.7,82,84.8
+E02005356,Charnwood 012,Charnwood ,Leicestershire,7432,80.8,10.87190527,2.3,11.8,82.4,86.3
+E02005357,Charnwood 013,Charnwood ,Leicestershire,8617,82.2,9.539282813,2.8,13.9,80.3,86.2
+E02005358,Charnwood 014,Charnwood ,Leicestershire,12022,89.5,7.444684745,2.6,13.2,80.5,85
+E02005359,Charnwood 015,Charnwood ,Leicestershire,7378,93.4,12.65925725,2.4,11.3,80.4,84.9
+E02005360,Charnwood 016,Charnwood ,Leicestershire,6800,68.9,10.13235294,1.2,13.7,83.5,87.5
+E02005361,Charnwood 017,Charnwood ,Leicestershire,6781,111.6,16.45774959,3.2,15.1,78.9,80.9
+E02005362,Charnwood 018,Charnwood ,Leicestershire,7529,97.1,12.89679904,3,15.1,80.6,83.4
+E02005363,Charnwood 019,Charnwood ,Leicestershire,8988,81.3,9.045393858,2.9,11.7,82.3,85.3
+E02005364,Charnwood 020,Charnwood ,Leicestershire,5361,82.6,15.40757321,2.8,14.2,81.5,86.3
+E02005365,Charnwood 021,Charnwood ,Leicestershire,10326,105.6,10.22661243,3.7,19.7,79.1,81.4
+E02005366,Charnwood 022,Charnwood ,Leicestershire,7578,74.2,9.791501715,2.6,16.4,82.3,86.6
+E02005368,Harborough 002,Harborough ,Leicestershire,6440,78,12.11180124,2.1,14.9,82.4,86.1
+E02005369,Harborough 003,Harborough ,Leicestershire,12362,85.9,6.9487138,2.4,12.3,81.1,86
+E02005370,Harborough 004,Harborough ,Leicestershire,9437,90.6,9.600508636,2,10.5,81.3,84.3
+E02005371,Harborough 005,Harborough ,Leicestershire,10448,91.4,8.748085758,2.4,10.9,81.1,83.6
+E02005372,Harborough 006,Harborough ,Leicestershire,9863,79.5,8.060427862,1.8,11.3,82.5,85.9
+E02005373,Harborough 007,Harborough ,Leicestershire,11768,70.8,6.016315432,1.9,10.3,83.1,85.5
+E02005374,Harborough 008,Harborough ,Leicestershire,6948,85.7,12.33448474,3,18.8,78.5,84.2
+E02005375,Harborough 009,Harborough ,Leicestershire,9752,120.1,12.31542248,1.9,11.8,79.7,82.8
+E02005376,Harborough 010,Harborough ,Leicestershire,10523,91.5,8.695239,3,14.2,80.9,83.4
+E02005377,Hinckley and Bosworth 001,Hinckley and Bosworth ,Leicestershire,9034,87,9.630285588,2.5,12,81.8,84.4
+E02005378,Hinckley and Bosworth 002,Hinckley and Bosworth ,Leicestershire,5353,68.9,12.87128713,2,11.2,82.4,89.8
+E02005379,Hinckley and Bosworth 003,Hinckley and Bosworth ,Leicestershire,6332,76.4,12.06569804,2.3,13.7,82.5,85.7
+E02005380,Hinckley and Bosworth 004,Hinckley and Bosworth ,Leicestershire,8987,87.6,9.74741293,2.6,14,80.9,85.9
+E02005381,Hinckley and Bosworth 005,Hinckley and Bosworth ,Leicestershire,8765,100,11.40901312,2.4,13.4,80.6,82.7
+E02005382,Hinckley and Bosworth 006,Hinckley and Bosworth ,Leicestershire,10942,101.4,9.267044416,4.5,19.5,80.3,83.2
+E02005383,Hinckley and Bosworth 007,Hinckley and Bosworth ,Leicestershire,9243,117.6,12.72314184,4.1,19.6,78.8,81.2
+E02005384,Hinckley and Bosworth 008,Hinckley and Bosworth ,Leicestershire,7370,100.3,13.60922659,2.1,14.7,81.5,83.8
+E02005385,Hinckley and Bosworth 009,Hinckley and Bosworth ,Leicestershire,6537,68.3,10.44821784,2.3,10.5,82.4,87.9
+E02005386,Hinckley and Bosworth 010,Hinckley and Bosworth ,Leicestershire,8991,138.2,15.37092648,5.3,22.8,77,79.3
+E02005387,Hinckley and Bosworth 011,Hinckley and Bosworth ,Leicestershire,10091,88.7,8.790010901,3.4,14.3,81.5,84.1
+E02005388,Hinckley and Bosworth 012,Hinckley and Bosworth ,Leicestershire,6163,92.5,15.00892423,4.6,21.5,79.8,84.7
+E02005389,Hinckley and Bosworth 013,Hinckley and Bosworth ,Leicestershire,5853,97.1,16.58978302,4.2,20.7,80.5,83.8
+E02005390,Hinckley and Bosworth 014,Hinckley and Bosworth ,Leicestershire,10005,68.1,6.806596702,2.1,12.7,84.6,86.3
+E02005391,Melton 001,Melton ,Leicestershire,9714,74.2,7.638459955,1.8,13.4,80.7,87.5
+E02005392,Melton 002,Melton ,Leicestershire,9146,83.3,9.107806691,2.4,11.9,82.5,85.1
+E02005393,Melton 003,Melton ,Leicestershire,7290,80,10.9739369,2.6,13.9,83.2,84.7
+E02005394,Melton 004,Melton ,Leicestershire,9794,114.4,11.68062079,4.8,20.6,77.7,82.1
+E02005395,Melton 005,Melton ,Leicestershire,8742,94,10.75268817,4.2,17.8,79.7,83.2
+E02005396,Melton 006,Melton ,Leicestershire,6708,104.4,15.56350626,2.4,15.9,80,84.5
+E02005397,North West Leicestershire 001,North West Leicestershire ,Leicestershire,9272,97.1,10.47238999,2.6,13.4,81.3,83.6
+E02005398,North West Leicestershire 002,North West Leicestershire ,Leicestershire,6633,78.3,11.8046133,1.9,13.4,81.5,87.8
+E02005399,North West Leicestershire 003,North West Leicestershire ,Leicestershire,8271,71.5,8.644662072,2.5,15.8,85,84.9
+E02005400,North West Leicestershire 004,North West Leicestershire ,Leicestershire,5860,103.5,17.66211604,3.5,18.5,79.4,82.2
+E02005401,North West Leicestershire 005,North West Leicestershire ,Leicestershire,6540,79.2,12.11009174,1.8,17.1,81.2,87.3
+E02005402,North West Leicestershire 006,North West Leicestershire ,Leicestershire,6776,111.9,16.51416765,2.1,16.4,79.3,83
+E02005403,North West Leicestershire 007,North West Leicestershire ,Leicestershire,6785,91.9,13.54458364,2.7,15.6,81,84.6
+E02005404,North West Leicestershire 008,North West Leicestershire ,Leicestershire,8625,101.7,11.79130435,3.3,17,79.7,83.1
+E02005405,North West Leicestershire 009,North West Leicestershire ,Leicestershire,6977,108.4,15.53676365,4.8,24.9,76.1,82.2
+E02005406,North West Leicestershire 010,North West Leicestershire ,Leicestershire,8217,160.7,19.55701594,4.7,20.6,76.4,77.6
+E02005407,North West Leicestershire 011,North West Leicestershire ,Leicestershire,10629,81.8,7.69592624,2.3,13.1,80.8,86.3
+E02005408,North West Leicestershire 012,North West Leicestershire ,Leicestershire,8099,94.9,11.71749599,2.6,16.8,78.7,84.3
+E02005409,North West Leicestershire 013,North West Leicestershire ,Leicestershire,12125,110.8,9.13814433,2.6,15.6,79.8,82.5
+E02005412,Oadby and Wigston 003,Oadby and Wigston ,Leicestershire,8757,87.3,9.969167523,3.4,17.2,78.6,85.5
+E02005414,Oadby and Wigston 005,Oadby and Wigston ,Leicestershire,8182,135.1,16.51185529,5,22.3,75.4,79.5
+E02005415,Oadby and Wigston 006,Oadby and Wigston ,Leicestershire,8029,114.3,14.23589488,5.1,19,76.9,82.4
+E02005416,Oadby and Wigston 007,Oadby and Wigston ,Leicestershire,8579,66.6,7.763142557,2.8,10.4,84.8,89.1
+E02005417,Boston 001,Boston ,Linconinshire,7471,99.6,13.33154865,3.9,19,79.6,83.7
+E02005418,Boston 002,Boston ,Linconinshire,11654,130.3,11.18071049,8.3,38.7,74.6,80.5
+E02005419,Boston 003,Boston ,Linconinshire,9300,141.1,15.17204301,9.6,31.5,74.7,80
+E02005420,Boston 004,Boston ,Linconinshire,8906,110.5,12.40736582,5.7,26.7,76.9,82.4
+E02005422,Boston 006,Boston ,Linconinshire,6333,83.2,13.13753355,4,20,79.5,88.2
+E02005423,Boston 007,Boston ,Linconinshire,10277,127,12.35769193,4.5,23,77.9,80.9
+E02005424,East Lindsey 001,East Lindsey ,Linconinshire,10214,94.3,9.232426082,2.4,14,80.2,84.6
+E02005425,East Lindsey 002,East Lindsey ,Linconinshire,6435,83.6,12.99145299,2.8,16.5,82.6,84.3
+E02005426,East Lindsey 003,East Lindsey ,Linconinshire,10533,136.6,12.96876483,4,21.2,78.1,79.4
+E02005427,East Lindsey 004,East Lindsey ,Linconinshire,7104,95.5,13.44313063,4.5,19.8,79.7,82.8
+E02005428,East Lindsey 005,East Lindsey ,Linconinshire,8262,137.4,16.63035585,6.9,28.9,74.5,79.8
+E02005429,East Lindsey 006,East Lindsey ,Linconinshire,6331,123.8,19.55457274,5.4,27.4,76.9,78.7
+E02005430,East Lindsey 007,East Lindsey ,Linconinshire,7116,88.1,12.38055087,3,18.6,81.8,82.3
+E02005431,East Lindsey 008,East Lindsey ,Linconinshire,8798,103.3,11.74130484,4.5,21.1,78.7,81.3
+E02005432,East Lindsey 009,East Lindsey ,Linconinshire,7785,96.3,12.3699422,2.7,15,80.5,83.5
+E02005433,East Lindsey 010,East Lindsey ,Linconinshire,6970,134.8,19.34002869,8,32.8,73.1,78.1
+E02005434,East Lindsey 011,East Lindsey ,Linconinshire,7494,101.4,13.53082466,4,21.4,76.7,83
+E02005435,East Lindsey 012,East Lindsey ,Linconinshire,7355,132,17.94697485,6.3,28.2,75.1,80.4
+E02005436,East Lindsey 013,East Lindsey ,Linconinshire,8208,110,13.40155945,4.8,18.5,78,82.4
+E02005437,East Lindsey 014,East Lindsey ,Linconinshire,5942,168.9,28.4247728,13.2,42.9,71.5,77.9
+E02005438,East Lindsey 015,East Lindsey ,Linconinshire,7117,117.7,16.53786708,5.8,30,75.7,80.9
+E02005439,East Lindsey 016,East Lindsey ,Linconinshire,12334,92.5,7.499594617,3,16.9,81.7,84.4
+E02005440,East Lindsey 017,East Lindsey ,Linconinshire,5400,106.8,19.77777778,6.3,23.2,78.3,82.7
+E02005441,East Lindsey 018,East Lindsey ,Linconinshire,8632,90.4,10.47265987,3.8,17,80.6,83.8
+E02005442,Lincoln 001,Lincoln ,Linconinshire,6037,119,19.71177737,9.1,32.4,75.1,80.2
+E02005443,Lincoln 002,Lincoln ,Linconinshire,7252,137.8,19.00165472,4.7,20.6,74.7,78.8
+E02005444,Lincoln 003,Lincoln ,Linconinshire,12453,108.5,8.712759978,4.2,15.7,77.5,83.4
+E02005445,Lincoln 004,Lincoln ,Linconinshire,12135,127.1,10.47383601,8.2,31.4,74.2,81.7
+E02005446,Lincoln 005,Lincoln ,Linconinshire,11461,133.4,11.639473,2.5,27.8,73.9,76.6
+E02005447,Lincoln 006,Lincoln ,Linconinshire,7672,181.5,23.65745568,7.5,33.6,71.3,75.3
+E02005448,Lincoln 007,Lincoln ,Linconinshire,7018,150.5,21.44485608,7.2,27.5,75.9,77.4
+E02005449,Lincoln 008,Lincoln ,Linconinshire,9406,112,11.90729322,3.3,17.4,78.1,83.1
+E02005450,Lincoln 009,Lincoln ,Linconinshire,7914,64.5,8.150113723,3.3,12.7,84.4,87.2
+E02005451,Lincoln 010,Lincoln ,Linconinshire,7934,181.5,22.87622889,8.2,32.3,74.3,76.8
+E02005452,Lincoln 011,Lincoln ,Linconinshire,10767,96.4,8.95328318,3.6,15.6,80.7,83.8
+E02005453,North Kesteven 001,North Kesteven ,Linconinshire,11045,79.9,7.234042553,1.8,10.7,83,85.6
+E02005455,North Kesteven 003,North Kesteven ,Linconinshire,14325,105.1,7.336823735,2.1,11.6,79.8,83.5
+E02005456,North Kesteven 004,North Kesteven ,Linconinshire,10827,106.7,9.854992149,2.5,14.1,79.2,83.3
+E02005457,North Kesteven 005,North Kesteven ,Linconinshire,8754,99.2,11.33196253,3,15.1,80.7,82.8
+E02005458,North Kesteven 006,North Kesteven ,Linconinshire,6904,99.9,14.46987254,2.1,14.1,81,85.4
+E02005459,North Kesteven 007,North Kesteven ,Linconinshire,8366,112.4,13.43533349,3.7,18.8,77.5,82.8
+E02005460,North Kesteven 008,North Kesteven ,Linconinshire,6599,84.4,12.78981664,1.4,10.8,82.4,83.7
+E02005461,North Kesteven 009,North Kesteven ,Linconinshire,6346,89.6,14.11913016,2.4,14.6,82.7,85.2
+E02005462,North Kesteven 010,North Kesteven ,Linconinshire,9950,121.8,12.24120603,5.3,21.4,77.5,81.4
+E02005463,North Kesteven 011,North Kesteven ,Linconinshire,9854,80.1,8.128678709,2.3,13.5,83.1,84.4
+E02005464,North Kesteven 012,North Kesteven ,Linconinshire,8591,103.6,12.05913165,3.2,15.4,80.2,83.1
+E02005465,South Holland 001,South Holland ,Linconinshire,8647,112.5,13.01029259,3.6,18.8,78.8,82.3
+E02005466,South Holland 002,South Holland ,Linconinshire,6692,92.2,13.77764495,4,18.9,80.5,83.5
+E02005467,South Holland 003,South Holland ,Linconinshire,7579,101.9,13.44504552,4.9,23.5,79.1,83.2
+E02005468,South Holland 004,South Holland ,Linconinshire,7629,90.2,11.82330581,3.5,19.4,81.5,82.3
+E02005469,South Holland 005,South Holland ,Linconinshire,8151,80.1,9.82701509,3.6,20.6,82,86.1
+E02005470,South Holland 006,South Holland ,Linconinshire,13228,92.8,7.015421832,3.8,21.2,80,83.5
+E02005471,South Holland 007,South Holland ,Linconinshire,9943,93.1,9.363371216,5.1,26.9,78.5,84.9
+E02005472,South Holland 008,South Holland ,Linconinshire,9949,111.2,11.17700271,5.3,25.2,77.4,82.8
+E02005473,South Holland 009,South Holland ,Linconinshire,10326,114.5,11.08851443,3.5,18.5,78.3,83.8
+E02005474,South Holland 010,South Holland ,Linconinshire,6836,104.6,15.30134582,3.4,16.8,80.8,81.5
+E02005475,South Holland 011,South Holland ,Linconinshire,6877,86.5,12.57815908,3.4,17.3,82,83.3
+E02005476,South Kesteven 001,South Kesteven ,Linconinshire,7232,81,11.20022124,2.5,14.5,82.7,85.8
+E02005477,South Kesteven 002,South Kesteven ,Linconinshire,9096,78.4,8.619173263,2.4,14.2,82.8,85.6
+E02005478,South Kesteven 003,South Kesteven ,Linconinshire,9872,113,11.4465154,5.3,20.3,78,80.6
+E02005479,South Kesteven 004,South Kesteven ,Linconinshire,9396,129,13.72924649,3.7,14.8,78.5,80.7
+E02005480,South Kesteven 005,South Kesteven ,Linconinshire,7656,104.3,13.62330199,8,24.9,78.1,82.8
+E02005481,South Kesteven 006,South Kesteven ,Linconinshire,12829,109.3,8.519759919,6.5,22.4,78.6,82.5
+E02005482,South Kesteven 007,South Kesteven ,Linconinshire,9688,78.6,8.113129645,2.4,11.8,80.8,87.2
+E02005483,South Kesteven 008,South Kesteven ,Linconinshire,7923,92.8,11.71273508,2.9,15.9,82.8,83.2
+E02005484,South Kesteven 009,South Kesteven ,Linconinshire,7258,77.6,10.69165059,3.4,17,82.4,84.5
+E02005485,South Kesteven 010,South Kesteven ,Linconinshire,7746,108.7,14.03304932,2.7,12.5,80.8,83.8
+E02005486,South Kesteven 011,South Kesteven ,Linconinshire,9804,112,11.42390861,2.9,17.3,78.9,82.8
+E02005487,South Kesteven 012,South Kesteven ,Linconinshire,9754,78.6,8.05823252,2.3,12.1,81.3,87.3
+E02005488,South Kesteven 013,South Kesteven ,Linconinshire,6946,86.7,12.48200403,3.8,13.7,82.8,85.2
+E02005489,South Kesteven 014,South Kesteven ,Linconinshire,7209,89.1,12.35955056,2.9,11,80.3,85.5
+E02005490,South Kesteven 015,South Kesteven ,Linconinshire,9368,92.1,9.831340734,4.1,17.7,79.3,83.9
+E02005491,South Kesteven 016,South Kesteven ,Linconinshire,11448,80.5,7.031795947,2.9,14.5,83.3,85.7
+E02005492,West Lindsey 001,West Lindsey ,Linconinshire,9813,91.6,9.334556201,2.7,14.6,80,85.2
+E02005493,West Lindsey 002,West Lindsey ,Linconinshire,10158,111.7,10.99625911,2.5,14.8,80.5,82.2
+E02005494,West Lindsey 003,West Lindsey ,Linconinshire,10123,96,9.483354737,4.1,18.1,81.1,83.5
+E02005495,West Lindsey 004,West Lindsey ,Linconinshire,10731,138.3,12.88789488,10.2,29.4,74.8,80.6
+E02005496,West Lindsey 005,West Lindsey ,Linconinshire,6484,84.5,13.03207896,3.2,20.2,80.6,85.9
+E02005497,West Lindsey 006,West Lindsey ,Linconinshire,7823,135.4,17.30793813,7.1,29,75.5,80.2
+E02005498,West Lindsey 007,West Lindsey ,Linconinshire,7415,89.4,12.05664194,2.8,15.8,80.3,83.3
+E02005499,West Lindsey 008,West Lindsey ,Linconinshire,8530,78.1,9.155920281,2.6,12.1,81.6,85.6
+E02005500,West Lindsey 009,West Lindsey ,Linconinshire,7427,100.8,13.57210179,2.2,12.9,81.5,84.6
+E02005501,West Lindsey 010,West Lindsey ,Linconinshire,8027,80.6,10.04111125,1.5,12,81.6,86.7
+E02005502,West Lindsey 011,West Lindsey ,Linconinshire,9655,96.9,10.03625065,2.6,14,80.5,83
+E02005612,Corby 001,Corby ,Northamptonshire,7240,130.9,18.0801105,3.7,18.4,78.8,81.9
+E02005613,Corby 002,Corby ,Northamptonshire,9397,136.5,14.52591253,4.8,21.5,75.8,80.4
+E02005614,Corby 003,Corby ,Northamptonshire,11755,141.1,12.00340281,4.1,22.4,77.7,80.2
+E02005615,Corby 004,Corby ,Northamptonshire,9193,113.4,12.33547264,5.3,20.8,77.8,81.1
+E02005616,Corby 005,Corby ,Northamptonshire,5704,139.4,24.43899018,7.4,26.9,73.7,78.1
+E02005617,Corby 006,Corby ,Northamptonshire,10852,134.9,12.43088832,9.3,30.2,74.1,80.6
+E02005619,Daventry 001,Daventry ,Northamptonshire,6243,95.4,15.28111485,1.7,13.3,81.7,84.9
+E02005620,Daventry 002,Daventry ,Northamptonshire,8949,92,10.28047827,2.2,12.7,81.2,85.5
+E02005621,Daventry 003,Daventry ,Northamptonshire,8802,87.2,9.906839355,2.3,13,81.5,83.3
+E02005622,Daventry 004,Daventry ,Northamptonshire,9677,69.5,7.181977886,2.2,13.1,82.3,89.3
+E02005623,Daventry 005,Daventry ,Northamptonshire,10237,107.7,10.52066035,2.5,14.5,82.3,81
+E02005624,Daventry 006,Daventry ,Northamptonshire,11165,85.8,7.684729064,3.6,15.1,81.8,84.7
+E02005625,Daventry 007,Daventry ,Northamptonshire,9537,121.2,12.70839887,5,19.7,78.5,81.9
+E02005626,Daventry 008,Daventry ,Northamptonshire,6884,115.6,16.79256246,5.2,24.3,77.5,83.2
+E02005627,Daventry 009,Daventry ,Northamptonshire,7460,77,10.32171582,3.7,15.9,82.6,85.1
+E02005628,Daventry 010,Daventry ,Northamptonshire,7997,86.7,10.84156559,3.1,14.6,80.8,84.4
+E02005629,East Northamptonshire 001,East Northamptonshire ,Northamptonshire,6514,80.9,12.41940436,2.3,15.7,83.5,84.8
+E02005630,East Northamptonshire 002,East Northamptonshire ,Northamptonshire,10556,77.6,7.35126942,1.8,13.4,82.2,86.5
+E02005631,East Northamptonshire 003,East Northamptonshire ,Northamptonshire,10706,87.5,8.17298711,2.6,14.2,81,85
+E02005632,East Northamptonshire 004,East Northamptonshire ,Northamptonshire,6700,105.6,15.76119403,2.3,16.5,80.3,82.7
+E02005633,East Northamptonshire 005,East Northamptonshire ,Northamptonshire,9379,108.3,11.54707325,2.8,17.6,80.6,82.1
+E02005634,East Northamptonshire 006,East Northamptonshire ,Northamptonshire,9349,114,12.19381752,3.3,19.9,79.2,80.8
+E02005635,East Northamptonshire 007,East Northamptonshire ,Northamptonshire,9751,91.3,9.363142242,2.2,15.8,81,84.4
+E02005636,East Northamptonshire 008,East Northamptonshire ,Northamptonshire,12280,115,9.364820847,3.5,16.7,78.9,82
+E02005637,East Northamptonshire 009,East Northamptonshire ,Northamptonshire,9603,111.7,11.63178173,5.1,25.6,76.3,82
+E02005638,East Northamptonshire 010,East Northamptonshire ,Northamptonshire,10265,92.3,8.991719435,1.9,10.4,81.4,83.7
+E02005639,Kettering 001,Kettering ,Northamptonshire,5149,84,16.31384735,2.4,16.7,80.8,86.6
+E02005640,Kettering 002,Kettering ,Northamptonshire,11548,113.6,9.837201247,3.2,14,78.3,82.1
+E02005641,Kettering 003,Kettering ,Northamptonshire,8229,95.8,11.64175477,4.7,19.2,79.5,83.6
+E02005642,Kettering 004,Kettering ,Northamptonshire,8242,106.3,12.89735501,2.7,12.6,81.8,81.7
+E02005643,Kettering 005,Kettering ,Northamptonshire,8372,132.1,15.77878643,8,29.2,77.4,78.9
+E02005644,Kettering 006,Kettering ,Northamptonshire,9262,132,14.25178147,7,25.8,76.6,80.4
+E02005645,Kettering 007,Kettering ,Northamptonshire,12285,109.3,8.897028897,5.1,24.9,77.8,80.8
+E02005646,Kettering 008,Kettering ,Northamptonshire,6448,81.4,12.62406948,2.6,11.9,82.5,84.1
+E02005647,Kettering 009,Kettering ,Northamptonshire,7669,115,14.99543617,5.4,21.5,77.7,81.9
+E02005648,Kettering 010,Kettering ,Northamptonshire,8709,90.6,10.40303135,2.5,13,80.5,84.5
+E02005649,Kettering 011,Kettering ,Northamptonshire,16298,87,5.338078292,3,12.5,81.2,84
+E02005650,Northampton 001,Northampton ,Northamptonshire,6454,105.2,16.29996901,4.6,15,77.7,83
+E02005651,Northampton 002,Northampton ,Northamptonshire,5942,102.8,17.3005722,2.7,12.8,80.7,82.4
+E02005652,Northampton 003,Northampton ,Northamptonshire,6103,96.6,15.82828117,3.9,15,80.4,83.1
+E02005653,Northampton 004,Northampton ,Northamptonshire,8495,123.2,14.50264862,8.1,25.7,77.6,81.7
+E02005654,Northampton 005,Northampton ,Northamptonshire,8186,118.2,14.43928659,7.1,21.8,79.5,79.1
+E02005655,Northampton 006,Northampton ,Northamptonshire,5994,87.5,14.59793126,4.4,18.5,80.4,83.4
+E02005656,Northampton 007,Northampton ,Northamptonshire,6034,134.1,22.22406364,8.6,28.7,76,80.3
+E02005657,Northampton 008,Northampton ,Northamptonshire,5972,110.9,18.5699933,3.9,16,78.3,82.2
+E02005658,Northampton 009,Northampton ,Northamptonshire,6637,112.8,16.99563056,7.9,26.9,77,81.1
+E02005659,Northampton 010,Northampton ,Northamptonshire,5655,97.4,17.22369584,4.4,17.8,79.6,80
+E02005660,Northampton 011,Northampton ,Northamptonshire,6215,157.6,25.35800483,8.3,25.9,73,78
+E02005661,Northampton 012,Northampton ,Northamptonshire,6747,132.1,19.57907218,8.4,25.4,77,80.6
+E02005662,Northampton 013,Northampton ,Northamptonshire,6486,135.6,20.90656799,4.8,19,77.6,79.2
+E02005663,Northampton 014,Northampton ,Northamptonshire,5322,71.4,13.41600902,2.3,11.6,82.7,89
+E02005664,Northampton 015,Northampton ,Northamptonshire,5799,154.8,26.69425763,6.2,23.7,75.1,79
+E02005665,Northampton 016,Northampton ,Northamptonshire,7740,81.4,10.51679587,4.4,16,81,85.9
+E02005666,Northampton 017,Northampton ,Northamptonshire,8455,134.7,15.93140154,10,34.8,75.1,79.3
+E02005667,Northampton 018,Northampton ,Northamptonshire,6572,123.4,18.77662812,5.7,19.3,75.7,82.3
+E02005668,Northampton 019,Northampton ,Northamptonshire,6038,89.9,14.8890361,3,12.9,79.8,85.4
+E02005669,Northampton 020,Northampton ,Northamptonshire,5697,85.2,14.9552396,2.3,10.7,81.3,83.7
+E02005670,Northampton 021,Northampton ,Northamptonshire,9900,141.4,14.28282828,10.1,48.4,74,80.3
+E02005671,Northampton 022,Northampton ,Northamptonshire,7557,83.5,11.04935821,5.8,20.6,77.8,87.7
+E02005672,Northampton 023,Northampton ,Northamptonshire,8592,142.2,16.55027933,7.9,37.8,74.5,80.7
+E02005673,Northampton 024,Northampton ,Northamptonshire,7234,103.2,14.26596627,6.6,25.4,78,81.6
+E02005674,Northampton 025,Northampton ,Northamptonshire,9185,182.7,19.89112684,5.7,27.5,73.1,75.4
+E02005675,Northampton 026,Northampton ,Northamptonshire,5914,99.4,16.80757525,6.9,22.9,80.6,82.3
+E02005676,Northampton 027,Northampton ,Northamptonshire,5933,95.8,16.14697455,4.4,20.7,79.7,82.4
+E02005677,Northampton 028,Northampton ,Northamptonshire,9062,92.9,10.25160009,4.6,19.2,79.1,84.3
+E02005678,Northampton 029,Northampton ,Northamptonshire,13695,88.1,6.433004746,2.9,11.3,80.4,84.7
+E02005679,Northampton 030,Northampton ,Northamptonshire,8465,70,8.269344359,2.2,12.8,83.5,86.5
+E02005680,Northampton 031,Northampton ,Northamptonshire,8210,111.9,13.62971985,2,10.5,82.5,83.1
+E02005681,South Northamptonshire 001,South Northamptonshire ,Northamptonshire,8481,97.3,11.47270369,2.5,9.8,81.2,82.5
+E02005682,South Northamptonshire 002,South Northamptonshire ,Northamptonshire,6974,77,11.04100946,2.8,13,81.6,86.5
+E02005683,South Northamptonshire 003,South Northamptonshire ,Northamptonshire,15064,94.9,6.299787573,2.5,11.4,81.3,83.3
+E02005684,South Northamptonshire 004,South Northamptonshire ,Northamptonshire,8834,75.5,8.546524791,1.8,10.8,84.7,84.5
+E02005685,South Northamptonshire 005,South Northamptonshire ,Northamptonshire,9368,93,9.927412468,2.4,14.3,79.6,83.5
+E02005686,South Northamptonshire 006,South Northamptonshire ,Northamptonshire,7921,96.9,12.23330388,2.1,12.6,81.9,82.7
+E02005687,South Northamptonshire 007,South Northamptonshire ,Northamptonshire,6692,63.7,9.518828452,1.6,12,83.5,87.6
+E02005688,South Northamptonshire 008,South Northamptonshire ,Northamptonshire,9647,79.8,8.272001659,2.6,11,82.2,85.3
+E02005689,South Northamptonshire 009,South Northamptonshire ,Northamptonshire,10131,86.7,8.55789162,1.5,9.6,81.5,85
+E02005690,South Northamptonshire 010,South Northamptonshire ,Northamptonshire,5644,92.9,16.45995748,2.4,18.8,80.4,83.9
+E02005691,South Northamptonshire 011,South Northamptonshire ,Northamptonshire,6736,73.6,10.9263658,1.8,11.5,82.7,87.7
+E02005692,Wellingborough 001,Wellingborough ,Northamptonshire,6604,86.9,13.1586917,3.8,19.2,80.9,84.1
+E02005693,Wellingborough 002,Wellingborough ,Northamptonshire,8774,90.5,10.31456576,5.8,23.4,79.9,84
+E02005694,Wellingborough 003,Wellingborough ,Northamptonshire,7342,81,11.03241624,2.3,13.8,81.3,84.7
+E02005695,Wellingborough 004,Wellingborough ,Northamptonshire,9310,113.4,12.18045113,5.9,29.2,77.8,82.2
+E02005696,Wellingborough 005,Wellingborough ,Northamptonshire,6252,129.3,20.68138196,7.3,27.7,76.6,80.1
+E02005697,Wellingborough 006,Wellingborough ,Northamptonshire,7171,160.7,22.40970576,7.6,29.7,75.2,78.4
+E02005698,Wellingborough 007,Wellingborough ,Northamptonshire,6007,120.4,20.04328284,5.3,21.9,79,81
+E02005699,Wellingborough 008,Wellingborough ,Northamptonshire,8307,109.6,13.19369207,5.6,26,77.8,83
+E02005700,Wellingborough 009,Wellingborough ,Northamptonshire,9355,93,9.94120791,2.7,14,80.7,83.2
+E02005701,Wellingborough 010,Wellingborough ,Northamptonshire,10959,99.3,9.061045716,2.6,14.9,80,83.5
+E02005819,Ashfield 001,Ashfield ,Nottinghamshire,6509,110.9,17.03794746,5.4,22.5,78,81.7
+E02005820,Ashfield 002,Ashfield ,Nottinghamshire,5567,92.1,16.54391953,3.3,15.5,82.4,81
+E02005821,Ashfield 003,Ashfield ,Nottinghamshire,6974,129.3,18.54029252,5.6,25.7,74,82.2
+E02005822,Ashfield 004,Ashfield ,Nottinghamshire,10798,167.8,15.5399148,5.7,23.3,75.4,77.9
+E02005823,Ashfield 005,Ashfield ,Nottinghamshire,7950,168.2,21.1572327,7.7,33.6,71.6,77.2
+E02005824,Ashfield 006,Ashfield ,Nottinghamshire,10047,88.1,8.768786702,3.5,16.9,82,83.8
+E02005825,Ashfield 007,Ashfield ,Nottinghamshire,8119,95.6,11.77484912,4.7,21.2,80.3,83.1
+E02005826,Ashfield 008,Ashfield ,Nottinghamshire,6428,142,22.09085252,6.8,28.3,74.7,80.5
+E02005827,Ashfield 009,Ashfield ,Nottinghamshire,9489,100.6,10.60174939,2.9,17.1,79.9,82.5
+E02005828,Ashfield 010,Ashfield ,Nottinghamshire,7998,92.7,11.5903976,3.5,17.2,80.3,83.3
+E02005829,Ashfield 011,Ashfield ,Nottinghamshire,6668,116,17.3965207,3.8,16.8,77.7,82.3
+E02005830,Ashfield 012,Ashfield ,Nottinghamshire,5953,97.7,16.41189316,3.6,18.4,80.4,83.8
+E02005831,Ashfield 013,Ashfield ,Nottinghamshire,10482,94,8.967754245,4,16.4,79.8,83.5
+E02005832,Ashfield 014,Ashfield ,Nottinghamshire,9379,119.6,12.75189253,5.8,21,77.8,82.1
+E02005833,Ashfield 015,Ashfield ,Nottinghamshire,7702,88.4,11.4775383,3.1,13.6,81.7,84.4
+E02005834,Ashfield 016,Ashfield ,Nottinghamshire,8274,140.8,17.01716219,6.9,22.6,75.9,79.5
+E02005835,Bassetlaw 001,Bassetlaw ,Nottinghamshire,10937,117.8,10.77077809,4.6,22.6,78.7,81
+E02005836,Bassetlaw 002,Bassetlaw ,Nottinghamshire,9216,89,9.657118056,3,14.3,81.4,83.9
+E02005837,Bassetlaw 003,Bassetlaw ,Nottinghamshire,7961,93.9,11.79500063,2.7,17.6,80.5,82.7
+E02005838,Bassetlaw 004,Bassetlaw ,Nottinghamshire,8228,96,11.66747691,3.9,20.9,80.2,82.4
+E02005839,Bassetlaw 005,Bassetlaw ,Nottinghamshire,6391,102.7,16.0694727,3.3,19.9,78.2,82.3
+E02005840,Bassetlaw 006,Bassetlaw ,Nottinghamshire,9476,106.8,11.2705783,2.3,15.3,79.1,81.8
+E02005842,Bassetlaw 008,Bassetlaw ,Nottinghamshire,8814,113.5,12.87724075,4.9,17.8,77.2,81.7
+E02005843,Bassetlaw 009,Bassetlaw ,Nottinghamshire,6964,120.2,17.26019529,3.6,21.8,77.2,80.8
+E02005844,Bassetlaw 010,Bassetlaw ,Nottinghamshire,8644,119.7,13.84775567,4.8,20.2,77,82.7
+E02005846,Bassetlaw 012,Bassetlaw ,Nottinghamshire,7311,184.5,25.23594584,7.6,37.8,72.5,76.1
+E02005847,Bassetlaw 013,Bassetlaw ,Nottinghamshire,7231,86.9,12.01770156,4.8,21.8,80.6,83.9
+E02005848,Bassetlaw 014,Bassetlaw ,Nottinghamshire,6445,103.8,16.10550815,2.8,20.6,81.2,81.3
+E02005849,Bassetlaw 015,Bassetlaw ,Nottinghamshire,9434,94.7,10.03815985,2.5,17.5,80,83.7
+E02005850,Broxtowe 001,Broxtowe ,Nottinghamshire,6952,136.6,19.64902186,3,16.2,78.8,81.9
+E02005851,Broxtowe 002,Broxtowe ,Nottinghamshire,6310,111,17.5911252,6,27,76.6,82
+E02005852,Broxtowe 003,Broxtowe ,Nottinghamshire,8443,83.3,9.866161317,2.6,13.6,82,84.4
+E02005853,Broxtowe 004,Broxtowe ,Nottinghamshire,9266,92.8,10.015109,3.5,16.5,82,83.2
+E02005856,Broxtowe 007,Broxtowe ,Nottinghamshire,7278,83.6,11.48667216,1.8,13.9,82.5,85.2
+E02005857,Broxtowe 008,Broxtowe ,Nottinghamshire,6503,86.6,13.31693065,5.6,18.1,80.2,85.2
+E02005858,Broxtowe 009,Broxtowe ,Nottinghamshire,8418,83.3,9.895462105,3.3,22.5,81.8,84.7
+E02005859,Broxtowe 010,Broxtowe ,Nottinghamshire,9370,89.6,9.562433298,4.7,17.8,80,84.3
+E02005860,Broxtowe 011,Broxtowe ,Nottinghamshire,9664,141.6,14.65231788,2.7,27.9,76.2,80.1
+E02005861,Broxtowe 012,Broxtowe ,Nottinghamshire,5718,128.8,22.52535852,3.5,17.3,78.5,80.8
+E02005862,Broxtowe 013,Broxtowe ,Nottinghamshire,8241,102,12.3771387,4,16.7,80.6,81.7
+E02005863,Broxtowe 014,Broxtowe ,Nottinghamshire,7601,120.3,15.82686489,2.2,14.3,80.1,82.4
+E02005864,Broxtowe 015,Broxtowe ,Nottinghamshire,8254,78.5,9.510540344,1.5,12.4,82.2,86.4
+E02005865,Gedling 001,Gedling ,Nottinghamshire,8374,69.7,8.323381896,2.5,14.1,84.1,85
+E02005866,Gedling 002,Gedling ,Nottinghamshire,9376,103,10.98549488,3,15.2,79.8,83.2
+E02005868,Gedling 004,Gedling ,Nottinghamshire,7161,93.4,13.04287111,3.5,15.4,82.4,82.9
+E02005869,Gedling 005,Gedling ,Nottinghamshire,6046,127.9,21.1544823,5.2,22.1,77,81.5
+E02005870,Gedling 006,Gedling ,Nottinghamshire,6913,123,17.79256473,5.2,19,77.7,81.2
+E02005871,Gedling 007,Gedling ,Nottinghamshire,7130,81.7,11.45862553,3.4,11.8,81.1,86.2
+E02005872,Gedling 008,Gedling ,Nottinghamshire,6374,87.8,13.77470976,2.1,14.1,81,85.3
+E02005873,Gedling 009,Gedling ,Nottinghamshire,10120,116.1,11.47233202,2.3,11.2,81.7,83
+E02005874,Gedling 010,Gedling ,Nottinghamshire,8650,92.2,10.65895954,2.8,13.7,81.1,83.9
+E02005875,Gedling 011,Gedling ,Nottinghamshire,8181,105.7,12.92018091,3.4,15.2,80.2,83.1
+E02005876,Gedling 012,Gedling ,Nottinghamshire,8958,117.4,13.10560393,3.6,15.9,79.4,81.9
+E02005877,Gedling 013,Gedling ,Nottinghamshire,7083,111.1,15.68544402,4.5,16.7,78.7,81.5
+E02005878,Gedling 014,Gedling ,Nottinghamshire,10249,117,11.41574788,4.9,20.7,78.9,82.7
+E02005879,Gedling 015,Gedling ,Nottinghamshire,7616,115.8,15.20483193,5.4,19.6,79,80.6
+E02005880,Mansfield 001,Mansfield ,Nottinghamshire,6280,103.5,16.48089172,5.4,22,78.5,82.8
+E02005881,Mansfield 002,Mansfield ,Nottinghamshire,6208,140.5,22.63208763,5.5,23.4,75.9,79.4
+E02005882,Mansfield 003,Mansfield ,Nottinghamshire,7620,99,12.99212598,2.5,14.1,79.2,83.1
+E02005883,Mansfield 004,Mansfield ,Nottinghamshire,8501,119,13.99835313,5.4,26.9,76,81.3
+E02005884,Mansfield 005,Mansfield ,Nottinghamshire,5962,102.8,17.24253606,3.7,17.1,80.2,82.4
+E02005885,Mansfield 006,Mansfield ,Nottinghamshire,8482,117.6,13.86465456,5,23.3,77.8,79.9
+E02005886,Mansfield 007,Mansfield ,Nottinghamshire,11224,115.1,10.25481112,3.4,16.6,78.9,82.5
+E02005887,Mansfield 008,Mansfield ,Nottinghamshire,10605,158.4,14.93635078,8.9,31.1,75.3,79.6
+E02005888,Mansfield 009,Mansfield ,Nottinghamshire,8350,185.7,22.23952096,8,35.8,71.8,76.9
+E02005889,Mansfield 010,Mansfield ,Nottinghamshire,10532,120,11.39384732,4.3,20.7,79.3,80.9
+E02005890,Mansfield 011,Mansfield ,Nottinghamshire,6607,102.5,15.51384895,2.1,12.7,79.8,84.1
+E02005891,Mansfield 012,Mansfield ,Nottinghamshire,6463,128.9,19.94429831,7.8,32.5,75.7,79.8
+E02005892,Mansfield 013,Mansfield ,Nottinghamshire,12517,85.3,6.814731965,1.9,10.2,81.6,84.7
+E02005893,Newark and Sherwood 001,Newark and Sherwood ,Nottinghamshire,11244,126.4,11.24155105,4.9,23.3,75.8,80.3
+E02005894,Newark and Sherwood 002,Newark and Sherwood ,Nottinghamshire,11127,122.7,11.02723106,3.1,17.3,78.1,81.9
+E02005895,Newark and Sherwood 003,Newark and Sherwood ,Nottinghamshire,7875,81.2,10.31111111,2.4,16,82.8,84.9
+E02005896,Newark and Sherwood 004,Newark and Sherwood ,Nottinghamshire,7650,79.7,10.41830065,2.5,14,80.8,83.4
+E02005897,Newark and Sherwood 005,Newark and Sherwood ,Nottinghamshire,9410,92.3,9.808714134,2.5,15.8,81.7,83.8
+E02005898,Newark and Sherwood 006,Newark and Sherwood ,Nottinghamshire,11354,115.7,10.19024132,3.6,17.6,78.7,81
+E02005899,Newark and Sherwood 007,Newark and Sherwood ,Nottinghamshire,12448,127,10.20244216,6.3,25.1,75.5,80.9
+E02005900,Newark and Sherwood 008,Newark and Sherwood ,Nottinghamshire,7458,86.5,11.59828372,2.2,15.6,82.8,85.2
+E02005901,Newark and Sherwood 009,Newark and Sherwood ,Nottinghamshire,9875,108.9,11.0278481,4.5,17.3,79.3,81.6
+E02005902,Newark and Sherwood 010,Newark and Sherwood ,Nottinghamshire,8367,97.3,11.62901876,5.5,24.5,79.5,82.1
+E02005903,Newark and Sherwood 011,Newark and Sherwood ,Nottinghamshire,10163,96.5,9.495227787,3.9,15.3,81.7,82.6
+E02005904,Newark and Sherwood 012,Newark and Sherwood ,Nottinghamshire,9391,98,10.43552337,2.3,11.5,80,84.1
+E02005905,Newark and Sherwood 013,Newark and Sherwood ,Nottinghamshire,6765,83.8,12.38728751,1.5,13.7,83,86.5
+E02005906,Rushcliffe 001,Rushcliffe ,Nottinghamshire,7406,78.2,10.55900621,1.8,13.4,82.8,85.6
+E02005907,Rushcliffe 002,Rushcliffe ,Nottinghamshire,10349,85.6,8.271330563,2.8,12.2,79.8,85.1
+E02005908,Rushcliffe 003,Rushcliffe ,Nottinghamshire,9440,88.7,9.396186441,2.2,12.1,81.4,84.3
+E02005909,Rushcliffe 004,Rushcliffe ,Nottinghamshire,8731,70.9,8.120490207,1.8,14.6,83.9,87
+E02005910,Rushcliffe 005,Rushcliffe ,Nottinghamshire,10040,85.5,8.515936255,2.3,21.8,79.6,84.8
+E02005911,Rushcliffe 006,Rushcliffe ,Nottinghamshire,8773,108.1,12.32189673,2.2,12.5,80.4,82.1
+E02005912,Rushcliffe 007,Rushcliffe ,Nottinghamshire,9711,83,8.547008547,2.5,14.5,81.9,85.2
+E02005913,Rushcliffe 008,Rushcliffe ,Nottinghamshire,8412,80.7,9.593437946,2.5,15.7,82.9,84.6
+E02005914,Rushcliffe 009,Rushcliffe ,Nottinghamshire,8299,123.6,14.89336065,3.1,16.1,79.1,79.9
+E02005915,Rushcliffe 010,Rushcliffe ,Nottinghamshire,5803,66.5,11.45958987,2.1,13.5,84.1,87.1
+E02005916,Rushcliffe 011,Rushcliffe ,Nottinghamshire,7913,114.8,14.50777202,2.3,14.2,81,83
+E02005917,Rushcliffe 012,Rushcliffe ,Nottinghamshire,5788,73.8,12.75051831,1.2,12.8,82.8,86.6
+E02005918,Rushcliffe 013,Rushcliffe ,Nottinghamshire,5152,77.1,14.96506211,3.4,16.4,82.4,86.5
+E02005919,Rushcliffe 014,Rushcliffe ,Nottinghamshire,7016,91.5,13.04161916,2.5,13.8,80.3,85.3
+E02005920,Rushcliffe 015,Rushcliffe ,Nottinghamshire,8583,75.5,8.796458115,1.4,11.4,84,85.3
+E02006804,North East Derbyshire 014,North East Derbyshire ,Derbyshire,8372,125.8,15.02627807,4.4,21.4,79.7,80.1
+E02006815,Leicester 037,Leicester ,Leicestershire,10724,127.3,11.87057068,6.5,30,76,80.8
+E02006816,Harborough 011,Harborough ,Leicestershire,7996,74,9.254627314,2.7,15.1,84.1,86.6
+E02006817,Leicester 038,Leicester ,Leicestershire,8844,86.6,9.791949344,4.2,20.6,80.3,84.2
+E02006818,Oadby and Wigston 008,Oadby and Wigston ,Leicestershire,8185,79.7,9.737324374,3.2,13,79.6,86.2
+E02006819,Leicester 039,Leicester ,Leicestershire,8076,135.3,16.75334324,9.7,31.7,73.6,79.4
+E02006820,Blaby 013,Blaby ,Leicestershire,10673,79.4,7.439332896,2.7,13.3,80.7,87.1
+E02006827,Amber Valley 017,Amber Valley ,Derbyshire,8112,125.4,15.45857988,5.1,27,77.2,80.1
+E02006828,Erewash 016,Erewash ,Derbyshire,7102,106.4,14.9816953,2.9,13.6,78.9,83
+E02006834,Nottingham 038,Nottingham ,Nottinghamshire,7495,128.5,17.14476318,10.1,34.2,74.3,80.1
+E02006835,Gedling 016,Gedling ,Nottinghamshire,6008,108.4,18.04260985,4.9,18.1,80.2,83
+E02006850,Leicester 040,Leicester ,Leicestershire,13594,183.5,13.49860232,3.7,51.8,68.7,78.1
+E02006851,Leicester 041,Leicester ,Leicestershire,12146,81.1,6.67709534,4.1,63.7,N/A - not available,84.4
+E02006862,Corby 008,Corby ,Northamptonshire,6529,96,14.70362996,4.5,16.7,79.5,85.8
+E02006863,Corby 009,Corby ,Northamptonshire,12383,95.2,7.687959299,3.1,17.7,83.7,80.8
+E02006864,Boston 008,Boston ,Linconinshire,8708,93,10.67983463,3,13.7,80.5,83.7
+E02006865,Boston 009,Boston ,Linconinshire,8188,126.6,15.4616512,3.4,15.3,79.8,81.3
+E02006866,North Kesteven 013,North Kesteven ,Linconinshire,8575,109.5,12.7696793,2.6,15.2,80.4,83.1
+E02006867,North Kesteven 014,North Kesteven ,Linconinshire,8013,84.4,10.53288406,2.8,14.2,81.1,86.1
+E02006872,High Peak 013,High Peak ,Derbyshire,13020,86.8,6.666666667,2.2,15.4,80.6,85.6
+E02006903,Bassetlaw 016,Bassetlaw ,Nottinghamshire,11228,102.4,9.120057,3.8,21.7,78.4,83.1
+E02006904,Nottingham 039,Nottingham ,Nottinghamshire,13194,114.1,8.647870244,2.9,37.5,75,78.1
+E02006905,Nottingham 040,Nottingham ,Nottinghamshire,7864,137.8,17.52288911,8.1,40.9,75.3,80.1
+E02006906,Broxtowe 016,Broxtowe ,Nottinghamshire,12609,93.1,7.383614878,2.8,12.7,81.8,83.8
+E02006911,Oadby and Wigston 009,Oadby and Wigston ,Leicestershire,15581,76.9,4.935498363,2.3,15.1,82.1,86.6
+E02006919,South Derbyshire 012,South Derbyshire ,Derbyshire,11104,98.3,8.852665706,3.5,20.7,79.3,82.7
+E02006920,South Derbyshire 013,South Derbyshire ,Derbyshire,8712,139.8,16.04683196,3.2,17.4,77.9,80.4
